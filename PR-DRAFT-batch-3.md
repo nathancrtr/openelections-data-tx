@@ -22,11 +22,47 @@ Not to be opened by the session; the owner posts it.
 
 ## Checks
 
-POLK_CHECKS_PLACEHOLDER
+- `file_format`, `duplicate_entries`, `missing_values`, `vote_breakdown_totals`
+  (openelections-data-tests v2.2.0): all OK.
+- Source totals: the sum of the 42 precinct rows equals the report's own
+  Totals row for every contest, every candidate, Under/Over Votes, Cast Votes,
+  and the ballots-cast and registered-voter columns (zero mismatches).
+- TLC Capitol Data Portal VTD dataset: President and U.S. Senate match by
+  candidate with difference 0 (see `2024/counties/RECONCILIATION-2024.md`).
+- Pages: 73 in the packet; 64 canvass pages (2 to 65) parsed, pages 67 to 73
+  (official cumulative report) used for a second cross-check, pages 1 and 66
+  are the certificate and "End of report".
+- Precincts: 42 in the source headings, 42 in the file.
+- OCR: every number was read by tesseract and RapidOCR and accepted only when
+  the two agreed. Of 8,479 numeric cells, 8,345 agreed on the first pass, 133
+  agreed after a fallback mode or a tighter crop, and one cell needed a
+  decision (below).
 
 ## Known issues
 
-POLK_ISSUES_PLACEHOLDER
+- One OCR cell was not a clean two-engine agreement: Railroad Commissioner,
+  precinct "21 - CITY-LVISD", Eddie Espinoza. Tesseract read 1 in every mode;
+  RapidOCR read 1 in cell mode and 7 in block mode. The file carries 1, which
+  equals Cast Votes minus the other candidates and which a reviewer confirmed
+  by looking at page 15 of the packet.
+- The report's "Total Ballots Cast" differs from Cast Votes + Under + Over in
+  four precincts: 8 - LVISD (364 vs 365), 19 - LVISD (1,774 vs 1,782),
+  20 - LVISD (1,692 vs 1,700), 22 - LVISD (1,959 vs 1,962). The report header
+  says 24,381 ballots and its Totals row 24,361; the file keeps the printed
+  figures in both places (Ballots Cast rows use Total Ballots Cast, which does
+  sum to absentee + early + election day in all 42 precincts).
+- Registered Voters is printed as 0 for the ISD/city sub-precincts (for
+  example "1 - LVISD"); kept as 0.
+- Candidate votes have no per-precinct method split in this report; only
+  Ballots Cast does. Method cells on candidate rows are empty, as in the
+  Archer file.
+- All 26 contests in the report are included (statewide judicial, 9th Court
+  of Appeals, 411th District Judge, commissioners, constables, Livingston and
+  Leggett ISD boards, City of Livingston mayor and alderman), not only the
+  offices the issue asks for.
+- The converter and OCR pipeline are under `batch-3-scripts/` on this branch
+  (not for the upstream PR), with `polk/resolve.log` listing every cell that
+  needed a fallback.
 
 ## Counties searched with no precinct-level file online (29)
 

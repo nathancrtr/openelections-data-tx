@@ -50,6 +50,7 @@ precinct-by-precinct page returns 403; www.co.somervell.tx.us returned 503.
 | Willacy | 2 | hunt: no results posted; canvass meeting posting has no returns | not found; records-request contact recorded |
 | Young | 7 | hunt + second pass: unofficial Hart cumulative, county totals only; 68 links enumerated | not found; records-request contact recorded |
 | Zapata | 2 | hunt: unofficial cumulative (scanned), county totals only | not found; records-request contact recorded |
+| Polk (conversion) | 150 (agent wall-clock, mostly OCR runs) | 73-page scanned canvass packet: pdftoppm 300 dpi, tesseract + RapidOCR per cell, accept only on agreement; sums checked against the report's Totals rows and the cumulative report; TLC diff 0 | done; 4 tests pass; 1 flagged cell confirmed by eye |
 
 Minutes above are agent wall-clock, prorated across a group of five counties
 (plus the second pass where one ran). Total hunt wall-clock: about 80 minutes

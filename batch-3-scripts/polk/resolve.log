@@ -1,0 +1,206 @@
+2 {'agree t6': 251, 'rapid zero-like': 29, 'agree fallback': 9}
+3 {'agree t6': 330, 'rapid zero-like': 36, 'agree fallback': 10}
+4 {'agree t6': 588, 'rapid zero-like': 78, 'agree fallback': 12}
+5 {'agree t6': 667, 'rapid zero-like': 87, 'agree fallback': 13}
+6 {'agree t6': 706, 'rapid zero-like': 89, 'agree fallback': 13}
+7 {'agree t6': 718, 'rapid zero-like': 89, 'agree fallback': 13}
+8 {'agree t6': 977, 'rapid zero-like': 118, 'agree fallback': 14}
+9 {'agree t6': 1233, 'rapid zero-like': 158, 'agree fallback': 18}
+10 {'agree t6': 1272, 'rapid zero-like': 160, 'agree fallback': 18}
+11 {'agree t6': 1472, 'rapid zero-like': 193, 'agree fallback': 18}
+12 {'agree t6': 1670, 'rapid zero-like': 217, 'agree fallback': 20}
+13 {'agree t6': 1700, 'rapid zero-like': 219, 'agree fallback': 20}
+14 {'agree t6': 1956, 'rapid zero-like': 251, 'agree fallback': 24}
+15 {'agree t6': 2212, 'rapid zero-like': 280, 'agree fallback': 27, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1}
+16 {'agree t6': 2250, 'rapid zero-like': 281, 'agree fallback': 28, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1}
+17 {'agree t6': 2449, 'rapid zero-like': 307, 'agree fallback': 29, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1}
+18 {'agree t6': 2648, 'rapid zero-like': 316, 'agree fallback': 30, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1}
+19 {'agree t6': 2678, 'rapid zero-like': 318, 'agree fallback': 30, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1}
+20 {'agree t6': 2873, 'rapid zero-like': 343, 'agree fallback': 35, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1}
+21 {'agree t6': 3070, 'rapid zero-like': 365, 'agree fallback': 37, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+22 {'agree t6': 3100, 'rapid zero-like': 369, 'agree fallback': 37, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+23 {'agree t6': 3320, 'rapid zero-like': 398, 'agree fallback': 37, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+24 {'agree t6': 3536, 'rapid zero-like': 418, 'agree fallback': 41, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+25 {'agree t6': 3569, 'rapid zero-like': 422, 'agree fallback': 41, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+26 {'agree t6': 3767, 'rapid zero-like': 448, 'agree fallback': 43, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+27 {'agree t6': 3966, 'rapid zero-like': 476, 'agree fallback': 44, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+28 {'agree t6': 3996, 'rapid zero-like': 479, 'agree fallback': 44, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+29 {'agree t6': 4195, 'rapid zero-like': 504, 'agree fallback': 45, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+30 {'agree t6': 4393, 'rapid zero-like': 524, 'agree fallback': 47, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+31 {'agree t6': 4423, 'rapid zero-like': 525, 'agree fallback': 47, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+32 {'agree t6': 4621, 'rapid zero-like': 550, 'agree fallback': 49, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+33 {'agree t6': 4815, 'rapid zero-like': 570, 'agree fallback': 55, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+34 {'agree t6': 4845, 'rapid zero-like': 571, 'agree fallback': 55, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+35 {'agree t6': 5023, 'rapid zero-like': 602, 'agree fallback': 57, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+36 {'agree t6': 5195, 'rapid zero-like': 623, 'agree fallback': 65, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+37 {'agree t6': 5222, 'rapid zero-like': 626, 'agree fallback': 65, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+38 {'agree t6': 5400, 'rapid zero-like': 660, 'agree fallback': 67, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+39 {'agree t6': 5576, 'rapid zero-like': 690, 'agree fallback': 71, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+40 {'agree t6': 5603, 'rapid zero-like': 692, 'agree fallback': 71, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+41 {'agree t6': 5774, 'rapid zero-like': 725, 'agree fallback': 80, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+42 {'agree t6': 5948, 'rapid zero-like': 754, 'agree fallback': 86, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+43 {'agree t6': 5974, 'rapid zero-like': 757, 'agree fallback': 87, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+44 {'agree t6': 6151, 'rapid zero-like': 790, 'agree fallback': 90, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+45 {'agree t6': 6328, 'rapid zero-like': 816, 'agree fallback': 93, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+46 {'agree t6': 6355, 'rapid zero-like': 819, 'agree fallback': 93, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+47 {'agree t6': 6534, 'rapid zero-like': 856, 'agree fallback': 94, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+48 {'agree t6': 6708, 'rapid zero-like': 881, 'agree fallback': 100, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+49 {'agree t6': 6735, 'rapid zero-like': 883, 'agree fallback': 100, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+50 {'agree t6': 6910, 'rapid zero-like': 916, 'agree fallback': 105, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+51 {'agree t6': 7084, 'rapid zero-like': 947, 'agree fallback': 111, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+52 {'agree t6': 7111, 'rapid zero-like': 950, 'agree fallback': 111, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+53 {'agree t6': 7206, 'rapid zero-like': 962, 'agree fallback': 115, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+54 {'agree t6': 7330, 'rapid zero-like': 980, 'agree fallback': 117, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+55 {'agree t6': 7428, 'rapid zero-like': 993, 'agree fallback': 118, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+56 {'agree t6': 7496, 'rapid zero-like': 1003, 'agree fallback': 122, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+57 {'agree t6': 7621, 'rapid zero-like': 1026, 'agree fallback': 123, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+58 {'agree t6': 7736, 'rapid zero-like': 1043, 'agree fallback': 125, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 1}
+59 {'agree t6': 7994, 'rapid zero-like': 1070, 'agree fallback': 126, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 2}
+60 {'agree t6': 8034, 'rapid zero-like': 1079, 'agree fallback': 126, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 2}
+61 {'agree t6': 8098, 'rapid zero-like': 1081, 'agree fallback': 127, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 2}
+62 {'agree t6': 8108, 'rapid zero-like': 1082, 'agree fallback': 127, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 2}
+63 {'agree t6': 8172, 'rapid zero-like': 1091, 'agree fallback': 128, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 2}
+64 {'agree t6': 8251, 'rapid zero-like': 1104, 'agree fallback': 129, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 2}
+65 {'agree t6': 8345, 'rapid zero-like': 1124, 'agree fallback': 131, 'UNRESOLVED': 0, 'resolved by row arithmetic + engine reading': 1, 'agree last-resort (2-cell context crop)': 2}
+Counter({'agree t6': 8345, 'rapid zero-like': 1124, 'agree fallback': 131, 'agree last-resort (2-cell context crop)': 2, 'resolved by row arithmetic + engine reading': 1, 'UNRESOLVED': 0})
+(2, '1', 'Shiva Ayyadurai/Crystal Ellis (W)', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 0, 't4w': None, 't7': 0, 't8': 0, 'tblock': None, 'rapid': ['0', '0', '0', '0', '0', '0', '0'], 'final': 0})
+(2, '4 - LVISD', 'Cornel West (W)', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 0, 't4w': None, 't7': None, 't8': None, 'tblock': None, 'rapid': ['0', '0', '0', '0', '0', '0', '０'], 'final': 0})
+(2, '6', 'Cornel West (W)', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 0, 't4w': None, 't7': 10, 't8': None, 'tblock': None, 'rapid': ['0', '0', '0', '0', '０', '0:', '０'], 'final': 0})
+(2, '6', 'Undervotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 7, 't8': None, 'tblock': None, 'rapid': ['7', '7', '7', '7', '7', '7', '7'], 'final': 7})
+(2, '6 - LVISD', 'Cornel West (W)', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 0, 't4w': None, 't7': 0, 't8': None, 'tblock': None, 'rapid': ['0', 'o', '0', '0', '０', '0', '０'], 'final': 0})
+(2, '7 - CITY-LVISD', 'Cornel West (W)', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 0, 't4w': None, 't7': None, 't8': 0, 'tblock': None, 'rapid': ['0', '0', '0', '0', '０', '0', '0'], 'final': 0})
+(2, '8 - LEGGISD', 'Cast Votes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 441, 't4w': 441, 't7': None, 't8': 441, 'tblock': None, 'rapid': ['441', '441', '441', '441', '441', '441', '441'], 'final': 441})
+(2, '11', 'Cornel West (W)', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 0, 't4w': None, 't7': None, 't8': None, 'tblock': None, 'rapid': ['0', '0', '0', '0', '0', '0', '0'], 'final': 0})
+(2, '11 - LEGGISD', 'Cornel West (W)', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 0, 't4w': None, 't7': None, 't8': None, 'tblock': None, 'rapid': ['0', '0', '0', '0', '0', '0', '0'], 'final': 0})
+(3, '1 - LVISD', 'Early Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 7, 't8': 7, 'tblock': None, 'rapid': ['7', '7', '7', '7', '7', '7', '7'], 'final': 7})
+(4, '14 - LVISD', 'Kamala D. Harris Tim Walz, DEM', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 133, 't4w': 133, 't7': 133, 't8': 133, 'tblock': None, 'rapid': ['133', '133', '133', '133', '133', '133', '133'], 'final': 133})
+(4, '17', 'Cornel West (W)', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 0, 't4w': 0, 't7': None, 't8': 0, 'tblock': None, 'rapid': ['0', '0', '0', '0', '0', '0', '0'], 'final': 0})
+(5, 11, 'label resolved by vote', '7', ['17'], '->', '17')
+(5, '14 - LEGGISD', 'Total Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 4, 't8': 4, 'tblock': None, 'rapid': ['4', '4', '4', '4', '4', '4', '4'], 'final': 4})
+(8, '8 - CITY-LVISD', 'Early Voting Ballots Cast', 'resolved via fallback', {'t6': 1, 't4': 1, 't6w': 1, 't4w': 1, 't7': None, 't8': None, 'tblock': None, 'rapid': ['', '', '$', '', '1', '1', '1', '1'], 'final': 1})
+(9, '15', 'Cast Votes', 'resolved via fallback', {'t6': 7, 't4': 7, 't6w': 7, 't4w': 7, 't7': 77, 't8': None, 'tblock': None, 'rapid': ['77', '77', '77', '77', '77', '77', '77'], 'final': 77})
+(9, '18 - LVISD', 'Colin Allred, DEM', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': None, 't8': None, 'tblock': [9, 9, 9, 9], 'rapid': ['9', '9', '9', '9', '9', '9', '9', '9', '9', '9', '9'], 'final': 9})
+(9, '20', 'Tracy Andrus (W)', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 0, 't4w': 0, 't7': 0, 't8': 0, 'tblock': None, 'rapid': ['0', '0', '0', '0', '0', '0', '0'], 'final': 0})
+(9, '21 - CITY-LVISD', 'Absentee Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 7, 't8': None, 'tblock': None, 'rapid': ['7', '7', '7', '7', '7', '7', '7'], 'final': 7})
+(12, '14 - LVISD', 'Absentee Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 41, 't4w': 41, 't7': 4, 't8': 1, 'tblock': None, 'rapid': ['41', '41', '41', '41', '41', '41', '41'], 'final': 41})
+(12, '21 - CITY-LVISD', 'Absentee Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 7, 't8': 7, 'tblock': None, 'rapid': ['7', '7', '7', '7', '7', '7', '7'], 'final': 7})
+(14, 14, 'label unresolved', ')', [])
+(14, 14, 'label filled from sequence position ->', '9')
+(14, '1 - LVISD', 'Early Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 7, 't8': None, 'tblock': None, 'rapid': ['7', '7', '7', '7', '7', '7', '7'], 'final': 7})
+(14, '1 - LVISD', 'Election Day Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 7, 't8': 1, 'tblock': None, 'rapid': ['7', '7', '7', '7', '7', '7', '7'], 'final': 7})
+(14, '4 - CITY-LVISD', 'Cast Votes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': None, 't8': None, 'tblock': [7, 7, 7, 7], 'rapid': ['7', '7', '7', '7', '7', '7', '7', '7', '7', '7', '7'], 'final': 7})
+(14, '9 - LEGGISD', 'Hawk Dunlap, LIB', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 4, 't8': None, 'tblock': None, 'rapid': ['4', '4', '4', '4', '4', '4', '4'], 'final': 4})
+(15, 11, 'label resolved by vote', 'l7/', ['17'], '->', '17')
+(15, '13', 'Undervotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 9, 't8': 9, 'tblock': None, 'rapid': ['9', '9', '9', '9', '9', '9', '9'], 'final': 9})
+(15, '20', 'Early Voting Ballots Cast', 'resolved via fallback', {'t6': 29, 't4': 29, 't6w': 29, 't4w': 29, 't7': 25, 't8': 2, 'tblock': None, 'rapid': ['25', '25', '25', '25', '25', '25', '25'], 'final': 25})
+(15, '21 - CITY-LVISD', 'Eddie Espinoza, GRN', 'UNRESOLVED', {'t6': 1, 't4': 1, 't6w': 1, 't4w': 1, 't7': 1, 't8': None, 'tblock': [1, 1, 1, 1], 'rapid': ['1', 't', '1', '$', '7', '7', '7', '7', '7', '7'], 'last_tess': [(1, 18)], 'last_rapid': [('7', 10), ('1', 5), ('水', 1)]})
+(15, '21 - CITY-LVISD', 'Undervotes', 'resolved via fallback', {'t6': 1, 't4': 1, 't6w': 1, 't4w': 1, 't7': None, 't8': None, 'tblock': None, 'rapid': ['', '1', '', '', '1', '1', '1', '1'], 'final': 1})
+(15, '21 - CITY-LVISD', 'Eddie Espinoza, GRN', 'resolved by row arithmetic (Cast Votes minus other candidates) = engine reading', 1, 'readings seen:', [1, 7])
+(16, '21 - LVISD', 'Richard McKibbin (W)', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 0, 't8': None, 'tblock': None, 'rapid': ['0', '0', '0', '0', '0', '0', '0'], 'final': 0})
+(17, '1', 'Undervotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 7, 't8': None, 'tblock': None, 'rapid': ['7', '7', '7', '7', '7', '7', '7'], 'final': 7})
+(18, 11, 'label resolved by vote', '7', ['17'], '->', '17')
+(18, '18 - LVISD', 'Absentee Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': None, 't8': 4, 'tblock': None, 'rapid': ['4', '4', '4', '4', '4', '4', '4'], 'final': 4})
+(20, '1 - LVISD', 'Christine Vinh Weems, DEM', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 2, 't4w': 2, 't7': 3, 't8': None, 'tblock': None, 'rapid': ['3', '3', '3', '3', '3', '3', '3'], 'final': 3})
+(20, '1 - LVISD', 'Election Day Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 7, 't4w': 7, 't7': 7, 't8': None, 'tblock': None, 'rapid': ['7', '7', '7', '7', '7', '7', '7'], 'final': 7})
+(20, '4 - CITY-LVISD', 'Cast Votes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 7, 't8': None, 'tblock': None, 'rapid': ['7', '7', '7', '7', '7', '7', '7'], 'final': 7})
+(20, '8 - CITY-LVISD', 'Absentee Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 0, 't8': 0, 'tblock': None, 'rapid': ['o', '0', '0', '0', '0', '0', '0'], 'final': 0})
+(20, '11 - LEGGISD', 'Christine Vinh Weems, DEM', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 4, 't8': 4, 'tblock': None, 'rapid': ['4', '4', '4', '4', '4', '4', '4'], 'final': 4})
+(21, '15', 'Total Ballots Cast', 'resolved via fallback', {'t6': 7, 't4': 7, 't6w': 7, 't4w': 7, 't7': 77, 't8': None, 'tblock': None, 'rapid': ['77', '77', '77', '77', '77', '77', '77'], 'final': 77})
+(21, '15 - CITY-LVISD', 'Christine Vinh Weems, DEM', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 0, 't4w': 0, 't7': 0, 't8': 0, 'tblock': None, 'rapid': ['0', '0', '0', '0', '0', '0', '0'], 'final': 0})
+(21, '18 - CITY-LVISD', 'Absentee Voting Ballots Cast', 'resolved via last-resort 2-cell crop', {'t6': None, 't4': None, 't6w': 6, 't4w': 6, 't7': 474, 't8': 4, 'tblock': [4], 'rapid': ['44', '44', '44', '44', '44', '44', '44', '44', '44', '44', '44'], 'last_tess': [(44, 18)], 'last_rapid': [('44', 14), ('Is', 2), ('4s', 2)], 'final': 44})
+(24, '14 - LVISD', 'Absentee Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 41, 't4w': 41, 't7': 41, 't8': 41, 'tblock': None, 'rapid': ['41', '41', '41', '41', '41', '41', '41'], 'final': 41})
+(24, '15', 'Total Ballots Cast', 'resolved via fallback', {'t6': 7, 't4': 7, 't6w': 7, 't4w': 7, 't7': 77, 't8': 7, 'tblock': None, 'rapid': ['77', '77', '77', '77', '7', '7'], 'final': 77})
+(24, '18 - LVISD', 'Absentee Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 4, 't8': 4, 'tblock': None, 'rapid': ['4', '4', '4', '4', '4', '4', '4'], 'final': 4})
+(24, '20', 'Cast Votes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 27, 't4w': 27, 't7': 27, 't8': 27, 'tblock': None, 'rapid': ['27', '27', '27', '27', '27', '27', '27'], 'final': 27})
+(26, '2 - LVISD', 'Undervotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 9, 't8': None, 'tblock': None, 'rapid': ['9', '9', '9', '9', '9', '9', '9'], 'final': 9})
+(26, '4 - CITY-LVISD', 'Cast Votes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 7, 't8': None, 'tblock': None, 'rapid': ['7', '7', '7', '7', '7', '7', '7'], 'final': 7})
+(27, '15 - CITY-LVISD', 'Absentee Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 0, 't4w': 0, 't7': 0, 't8': 0, 'tblock': None, 'rapid': ['0', '0', '0', '0', '0', '0', '0'], 'final': 0})
+(29, '2 - LVISD', 'Nancy Mulder, DEM', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 39, 't8': 39, 'tblock': None, 'rapid': ['39', '39', '39', '39', '39', '39', '39'], 'final': 39})
+(30, '18 - CITY-LVISD', 'Absentee Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 44, 't8': 44, 'tblock': None, 'rapid': ['44', '44', '44', '44', '44', '44', '44'], 'final': 44})
+(30, '21 - CITY-LVISD', 'Absentee Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 7, 't8': 7, 'tblock': None, 'rapid': ['7', '7', '7', '7', '7', '7', '7'], 'final': 7})
+(32, '1', 'Undervotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 7, 't8': 7, 'tblock': None, 'rapid': ['7', '7', '7', '7', '7', '7', '7'], 'final': 7})
+(32, '8 - CITY-LVISD', 'Absentee Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 0, 't4w': 0, 't7': 0, 't8': None, 'tblock': None, 'rapid': ['0', '0', '0', '0', '0', '0', '０'], 'final': 0})
+(33, '12', 'Early Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 3, 't4w': 3, 't7': 37, 't8': None, 'tblock': None, 'rapid': ['37', '37', '37', '37', '37', '37', '37'], 'final': 37})
+(33, '14 - LVISD', 'Absentee Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 41, 't4w': 41, 't7': 41, 't8': 41, 'tblock': None, 'rapid': ['41', '41', '41', '41', '41', '41', '41'], 'final': 41})
+(33, '16', 'Chika Anyiam, DEM', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 7, 't8': None, 'tblock': None, 'rapid': ['7', '7', '7', '7', '7', '7', '7'], 'final': 7})
+(33, '18 - CITY-LVISD', 'Absentee Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': None, 't8': 44, 'tblock': None, 'rapid': ['44', '44', '44', '44', '44', '44', '44'], 'final': 44})
+(33, '20', 'Chika Anyiam, DEM', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 3, 't8': None, 'tblock': None, 'rapid': ['3', '3', '3', '3', '3', '3', '3'], 'final': 3})
+(33, '20', 'Cast Votes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 27, 't8': None, 'tblock': None, 'rapid': ['27', '27', '27', '27', '27', '27', '27'], 'final': 27})
+(35, '9 - LEGGISD', 'Undervotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 9, 't8': None, 'tblock': None, 'rapid': ['9', '9', '9', '9', '9', '9', '9'], 'final': 9})
+(35, '9 - LEGGISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': None, 't8': None, 'tblock': [0, 0, 0, 0], 'rapid': ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0'], 'final': 0})
+(36, '14', 'Election Day Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 5, 't4w': 5, 't7': 93, 't8': 93, 'tblock': None, 'rapid': ['93', '93', '93', '93', '93', '93', '93'], 'final': 93})
+(36, '14 - LEGGISD', 'Total Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 4, 't4w': 4, 't7': 4, 't8': 4, 'tblock': None, 'rapid': ['4', '4', '4', '4', '4', '4', '4'], 'final': 4})
+(36, '15', 'Total Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 77, 't8': None, 'tblock': None, 'rapid': ['77', '77', '77', '77', '77', '77', '77'], 'final': 77})
+(36, '16', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': None, 't8': 0, 'tblock': None, 'rapid': ['0', 'o', '0', '0', '０', '0', '０'], 'final': 0})
+(36, '16 - CITY-LVISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': None, 't8': 0, 'tblock': None, 'rapid': ['0', '0', '0', '0', '0', '0', '0'], 'final': 0})
+(36, '18 - CITY-LVISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': None, 't8': 0, 'tblock': None, 'rapid': ['o', 'o', '0', 'o', '0', '0', '0'], 'final': 0})
+(36, '18 - LVISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': None, 't8': None, 'tblock': [0, 0, 0, 0], 'rapid': ['0', 'o', '0', '0', '0', '0', '0', '0', '0', '0', '0'], 'final': 0})
+(36, '19 - LVISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 0, 't8': 0, 'tblock': None, 'rapid': ['0', 'o', '0', '0', '0', '0', '0'], 'final': 0})
+(38, '6 - LVISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 0, 't8': 0, 'tblock': None, 'rapid': ['o', '0', '0', 'o', '0', '0', '0'], 'final': 0})
+(38, '8 - CITY-LVISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 0, 't8': None, 'tblock': None, 'rapid': ['o', 'o', 'o', 'o', '0', '0', '0'], 'final': 0})
+(39, '15', 'Total Ballots Cast', 'resolved via fallback', {'t6': 7, 't4': 7, 't6w': 7, 't4w': 7, 't7': 77, 't8': 7, 'tblock': None, 'rapid': ['77', '77', '77', '77', '77', '77', '77'], 'final': 77})
+(39, '15 - LVISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': None, 't8': None, 'tblock': [0, 0, 0, 0], 'rapid': ['o', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0'], 'final': 0})
+(39, '18 - LVISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': None, 't8': 0, 'tblock': None, 'rapid': ['o', 'o', 'o', 'o', '0', '0', '０'], 'final': 0})
+(39, '20', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': None, 't8': None, 'tblock': [0, 0, 0, 0], 'rapid': ['o', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0'], 'final': 0})
+(41, '1 - LVISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': None, 't8': 0, 'tblock': None, 'rapid': ['o', 'o', 'o', '0', '0', '0', '0'], 'final': 0})
+(41, '1 - LVISD', 'Early Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 7, 't8': 7, 'tblock': None, 'rapid': ['7', '7', '7', '7', '7', '7', '7'], 'final': 7})
+(41, '3 - LVISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': None, 't8': None, 'tblock': [0, 0, 0, 0], 'rapid': ['o', 'o', '0', '0', '0', '0', '0', '0', '0', '0', '0'], 'final': 0})
+(41, '4 - CITY-LVISD', 'Kent Chambers, REP', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 7, 't8': None, 'tblock': None, 'rapid': ['7', '7', '7', '', '7', '7', '7'], 'final': 7})
+(41, '4 - CITY-LVISD', 'Election Day Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': None, 't8': None, 'tblock': [0, 0, 0, 0], 'rapid': ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0'], 'final': 0})
+(41, '8 - LEGGISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 0, 't8': 0, 'tblock': None, 'rapid': ['o', 'o', 'o', '0', '0', '0', '0'], 'final': 0})
+(41, '8 - CITY-LVISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': None, 't8': None, 'tblock': [0, 0, 0, 0], 'rapid': ['o', '0', 'o', '0', '0', '0', '0', 'o', '0', '0', '0'], 'final': 0})
+(41, '9 - LEGGISD', 'Cast Votes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 37, 't8': 37, 'tblock': None, 'rapid': ['37', '37', '37', '37', '37', '37', '37'], 'final': 37})
+(41, '11', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 0, 't8': None, 'tblock': None, 'rapid': ['o', 'o', 'o', '0', '0', '0', '0'], 'final': 0})
+(42, '14', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': None, 't8': 0, 'tblock': None, 'rapid': ['0', 'o', '0', '0', '0', '0', '0'], 'final': 0})
+(42, '15', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 0, 't8': 0, 'tblock': None, 'rapid': ['0', 'o', '0', '0', '0', '0', '0'], 'final': 0})
+(42, '15', 'Total Ballots Cast', 'resolved via fallback', {'t6': 7, 't4': 7, 't6w': 7, 't4w': 7, 't7': 77, 't8': None, 'tblock': None, 'rapid': ['77', '77', '77', '77', '77', '77', '77'], 'final': 77})
+(42, '18 - CITY-LVISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 0, 't8': 0, 'tblock': None, 'rapid': ['o', '0', '0', '0', '0', '0', '0'], 'final': 0})
+(42, '18 - CITY-LVISD', 'Absentee Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 44, 't8': 44, 'tblock': None, 'rapid': ['44', '44', '44', '44', '44', '44', '44'], 'final': 44})
+(42, '21 - CITY-LVISD', 'Absentee Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 7, 't8': 7, 'tblock': None, 'rapid': ['7', '7', '7', '7', '7', '7', '7'], 'final': 7})
+(43, '22 - LVISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': None, 't8': None, 'tblock': [0, 0, 0, 0], 'rapid': ['o', 'o', '0', '0', '0', '0', '0', '0', '0', '0', '0'], 'final': 0})
+(44, '1 - LVISD', 'Early Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 7, 't8': 7, 'tblock': None, 'rapid': ['7', '7', '7', '7', '7', '7', '7'], 'final': 7})
+(44, '6', 'Absentee Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 57, 't8': 57, 'tblock': None, 'rapid': ['57', '57', '57', '57', '57', '57', '57'], 'final': 57})
+(44, '8 - LVISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 0, 't8': 0, 'tblock': None, 'rapid': ['o', '0', 'o', '0', '0', '0', '0'], 'final': 0})
+(45, '15', 'Total Ballots Cast', 'resolved via fallback', {'t6': 7, 't4': 7, 't6w': 7, 't4w': 7, 't7': 77, 't8': 7, 'tblock': None, 'rapid': ['77', '77', '77', '77', '77', '77', '77'], 'final': 77})
+(45, '17 - LVISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': None, 't8': 0, 'tblock': None, 'rapid': ['0', '0', '0', '0', '0', '0', '0'], 'final': 0})
+(45, '18 - CITY-LVISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 0, 't8': 0, 'tblock': None, 'rapid': ['o', 'o', 'o', 'o', '0', '0', '0'], 'final': 0})
+(47, '8 - LEGGISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': None, 't8': 0, 'tblock': None, 'rapid': ['o', 'o', '0', '0', '0', '0', '0'], 'final': 0})
+(48, 11, 'label resolved by vote', '7', ['17'], '->', '17')
+(48, '14', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 0, 't8': None, 'tblock': None, 'rapid': ['0', '0', '0', '0', '0', '0', '0'], 'final': 0})
+(48, '15 - CITY-LVISD', 'Total Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 3, 't4w': 3, 't7': 3, 't8': 3, 'tblock': None, 'rapid': ['3', '3', '3', '3', '3', '3', '3'], 'final': 3})
+(48, '17', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 0, 't8': 0, 'tblock': None, 'rapid': ['o', 'o', '0', '0', '0', '0', '０'], 'final': 0})
+(48, '18 - CITY-LVISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 0, 't8': None, 'tblock': None, 'rapid': ['o', 'o', 'o', 'o', '0', '0', '0'], 'final': 0})
+(48, '20', 'Absentee Voting Ballots Cast', 'resolved via fallback', {'t6': 5, 't4': 5, 't6w': 5, 't4w': 5, 't7': 9, 't8': 9, 'tblock': None, 'rapid': ['9', '9', '9', '9', '9', '9', '6'], 'final': 9})
+(48, '21 - CITY-LVISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 0, 't8': None, 'tblock': None, 'rapid': ['o', 'o', '0', '0', '0', '0', '0'], 'final': 0})
+(50, '1 - LVISD', 'Early Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 7, 't8': 7, 'tblock': None, 'rapid': ['7', '7', '7', '7', '7', '7', '7'], 'final': 7})
+(50, '2 - LVISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': None, 't8': 0, 'tblock': None, 'rapid': ['o', '0', '0', 'o', '０', '０', '0'], 'final': 0})
+(50, '4 - CITY-LVISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': None, 't8': 0, 'tblock': None, 'rapid': ['o', '0', '0', '0', '0', '0', '０'], 'final': 0})
+(50, '4 - CITY-LVISD', 'Election Day Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 0, 't8': 0, 'tblock': None, 'rapid': ['o', 'o', '0', '0', '０', '0', '０'], 'final': 0})
+(50, '11 - LEGGISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': 0, 't6w': None, 't4w': 0, 't7': 0, 't8': 0, 'tblock': None, 'rapid': ['o', 'o', 'o', 'o', '0', '0', '０'], 'final': 0})
+(51, '12', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 0, 't8': 0, 'tblock': None, 'rapid': ['o', 'o', 'o', 'o', '０', '0', '0'], 'final': 0})
+(51, '14 - LEGGISD', 'Cast Votes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 4, 't8': 4, 'tblock': None, 'rapid': ['4', '4', '4', '4', '4', '4', '4'], 'final': 4})
+(51, '15', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': None, 't8': 0, 'tblock': None, 'rapid': ['0', 'o', '0', '0', '0', '0', '0'], 'final': 0})
+(51, '17 - LVISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': None, 't8': None, 'tblock': [0, 0, 0, 0], 'rapid': ['o', '0', '0', '0', '０', '0', '0', '0', '0', '0', '0'], 'final': 0})
+(51, '18 - LVISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': None, 't8': 0, 'tblock': None, 'rapid': ['o', 'o', 'o', '0', '0', '0', '0'], 'final': 0})
+(51, '19 - LVISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': None, 't8': None, 'tblock': [0, 0, 0, 0], 'rapid': ['o', 'o', 'o', '0', '0', '0', '0', '0', '0', '0', '0'], 'final': 0})
+(53, '2 - LVISD', 'Undervotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 41, 't4w': 41, 't7': 41, 't8': 41, 'tblock': None, 'rapid': ['47', '41', '41', '47', '41', '41', '41'], 'final': 41})
+(53, '4 - CITY-LVISD', 'Total Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 8, 't8': 8, 'tblock': None, 'rapid': ['', '', '8', '8', '8', '8', '8'], 'final': 8})
+(53, '5 - LVISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': None, 't8': None, 'tblock': [0, 0, 0, 0], 'rapid': ['0', 'o', '0', '0', '０', '0', '0', '0', '0', '0', '0'], 'final': 0})
+(53, '22 - LVISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 0, 't8': 0, 'tblock': None, 'rapid': ['o', 'o', '0', '0', '０', '0', '０'], 'final': 0})
+(54, '12', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 0, 't8': 0, 'tblock': None, 'rapid': ['0', '0', '0', '0', '0', '0', '0'], 'final': 0})
+(54, '18 - LVISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 0, 't8': None, 'tblock': None, 'rapid': ['o', '0', 'o', 'o', '0', '0', '0'], 'final': 0})
+(55, '2 - LVISD', 'Absentee Voting Ballots Cast', 'resolved via fallback', {'t6': 7, 't4': 7, 't6w': 7, 't4w': 7, 't7': 17, 't8': None, 'tblock': None, 'rapid': ['17', '17', '17', '17', '17', '17', '17'], 'final': 17})
+(56, '6', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 0, 't8': 0, 'tblock': None, 'rapid': ['o', 'o', 'o', '0', '0', '0', '0'], 'final': 0})
+(56, '6 - LVISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 0, 't8': 0, 'tblock': None, 'rapid': ['o', 'o', '0', '0', '0', '0', '０'], 'final': 0})
+(56, '21 - CITY-LVISD', 'Cast Votes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 39, 't8': 39, 'tblock': None, 'rapid': ['39', '39', '39', '39', '39', '39', '39'], 'final': 39})
+(56, '21 - CITY-LVISD', 'Absentee Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 7, 't8': 7, 'tblock': None, 'rapid': ['7', '7', '7', '7', '7', '7', '7'], 'final': 7})
+(57, '9', 'Absentee Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 1, 't4w': 1, 't7': 13, 't8': 130, 'tblock': None, 'rapid': ['13', '13', '13', '13', '13', '13', '13'], 'final': 13})
+(58, '15 - CITY-LVISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 0, 't8': 0, 'tblock': None, 'rapid': ['o', 'o', 'o', '0', '０', '０', '０'], 'final': 0})
+(58, '15 - LVISD', 'Registered Voters', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 0, 't4w': 0, 't7': 0, 't8': 0, 'tblock': None, 'rapid': ['0', 'o', '0', '0', '０', '０', '０'], 'final': 0})
+(59, '1 - LVISD', 'Early Voting Ballots Cast', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 7, 't8': None, 'tblock': None, 'rapid': ['7', '7', '7', '7', '7', '7', '7'], 'final': 7})
+(59, '5 - LVISD', 'Absentee Voting Ballots Cast', 'resolved via last-resort 2-cell crop', {'t6': 1, 't4': 1, 't6w': 1, 't4w': 1, 't7': 7, 't8': 7, 'tblock': [], 'rapid': ['71', '71', '71', '71', '71', '71', '71', '71', '71', '71', '71'], 'last_tess': [(71, 12), (1, 2), (7, 2)], 'last_rapid': [('71', 18)], 'final': 71})
+(61, '20 - LVISD', 'Overvotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 0, 't4w': 0, 't7': 0, 't8': None, 'tblock': None, 'rapid': ['0', '0', '0', '0', '0', '0', '0'], 'final': 0})
+(63, 'Totals', 'Undervotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 900881196, 't4w': 900381196, 't7': 1196, 't8': 1196, 'tblock': None, 'rapid': ['1,196', '1.196', '1,196', '1,196', '1,196', '1,196', '1,196'], 'final': 1196})
+(64, '8 - CITY-LVISD', 'Judy B Cochran', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 0, 't4w': 0, 't7': None, 't8': 0, 'tblock': None, 'rapid': ['o', 'o', '0', '0', '0', '0', '0'], 'final': 0})
+(65, 'Totals', 'Cast Votes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': None, 't4w': None, 't7': 2329, 't8': 2329, 'tblock': None, 'rapid': ['2,329', '2,329', '2,329', '2,329', '2,329', '2,329', '2,329'], 'final': 2329})
+(65, 'Totals', 'Undervotes', 'resolved via fallback', {'t6': None, 't4': None, 't6w': 2329, 't4w': 2329, 't7': 1223, 't8': 1223, 'tblock': None, 'rapid': ['1,223', '1,223', '1,223', '1,223', '1,223', '1,223', '1,223'], 'final': 1223})
