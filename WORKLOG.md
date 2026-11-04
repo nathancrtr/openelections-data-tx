@@ -16,7 +16,7 @@ request.
 | Newton | 35 | official canvass PDF (text), pdfplumber column assignment; Early Vote + Election Day sections checked against Grand Totals cell by cell | done; tests pass; TLC exact except 1 Senate write-in |
 | Cochran | 30 | unofficial tally sheet PDF (text), pdfplumber column assignment, parties from SOS certification | converted as printed, but the EV column double-counts mail ballots; county totals +5% vs TLC; needs owner decision / better source |
 | McMullen | 110 | scanned Electionware summary reports (5 reports, duplex scan); tesseract psm 6 and psm 11 at 2x plus a template digit reader; every row checked against printed percentage and candidate sums; 4 cells read visually (listed in PR draft) | done; tests pass; TLC exact except 1 President write-in |
-| Webb | see PR draft | scanned Electionware "PCT by PCT" tables, 88 pages, 82 precincts; per-cell template digit reader + tesseract, row arithmetic, TLC per-VTD check | see PR draft |
+| Webb | 230 | scanned Electionware "PCT by PCT" tables, 88 pages, 78 precincts; deskew, per-cell template digit reader + tesseract, row arithmetic, printed Totals row, TLC per-VTD check | done; tests pass; TLC exact in all 1,115 compared cells and county totals; 7 cells read by eye (PR draft) |
 | Rains | 15 | existing csv is a local-election report (no general contests); county site has only cumulative reports | not done; records-request contact recorded in sources fork |
 
 Lessons for the next batch:
@@ -24,8 +24,12 @@ Lessons for the next batch:
 - Hart "Precinct by Precinct" PDFs (Hill, Wichita) and SOS export CSVs
   (Yoakum) convert in minutes with the shared parser; prioritise counties
   whose source is one of these.
-- Scanned Electionware reports are feasible but expensive (about 2 hours
-  each); a text PDF or the SOS precinct-by-precinct filing would be far
-  cheaper, so the statewide-filing question (batches 2 and 3) matters.
+- Scanned Electionware reports are feasible but expensive (2 to 4 hours
+  each, most of it building the cell-reading pipeline, which now exists);
+  a text PDF or the SOS precinct-by-precinct filing would be far cheaper,
+  so the statewide-filing question (batches 2 and 3) matters.
+- For scanned tables, OCR engines misread this font's 5/6/9/0 and 3/8 at
+  200 dpi; a template reader trained on the document's own digits plus the
+  table's row arithmetic and printed totals was what made Webb verifiable.
 - Tesseract on this machine must be run with `OMP_THREAD_LIMIT=1`; without
   it a page took 60x longer.

@@ -25,7 +25,7 @@ are `Over Votes` / `Under Votes` rows. Parties are REP/DEM/LIB/GRN/IND.
 | McMullen | `2024 McMullen County, TX precinct-level results.pdf` (scanned Electionware summary reports) | unofficial (11/18/2024 run) | 4 + Early Voting + Mail | absentee, early_voting, election_day | pass | exact (1 President write-in TLC does not credit) |
 | Newton | `2024 Newton County, TX precinct-level results.pdf` (official canvass) | official | 21 voting boxes (11, 13, 21 combined) | early_voting, election_day | pass | exact (1 Senate write-in) |
 | Terrell | three `2024 Terrell County, TX precinct-level results *.xlsx` | unstated | 4 | absentee, early_voting, election_day | pass | exact |
-| Webb | `2024 Webb County, TX precinct-level results.pdf` (scanned Electionware PCT by PCT, 88 pp) | unofficial (11/13/2024 run) | 78 | none (totals only) | see below | see below |
+| Webb | `2024 Webb County, TX precinct-level results.pdf` (scanned Electionware PCT by PCT, 88 pp) | unofficial (11/13/2024 run) | 78 | none (totals only) | pass | exact (51 Senate write-ins TLC does not credit); also exact per precinct, see below |
 | Wichita | `2024 Wichita County, TX precinct-level results.pdf` (Hart precinct results report, 375 pp) | official | 52 | absentee, early_voting, election_day | pass | exact; also 0 differences against the county summary PDF for President and U.S. Senate |
 | Wilson | `2024 Wilson County, TX precinct-level results.txt` (fixed-width export) | unstated | 13 | absentee, early_voting, election_day | pass | exact (26 Senate write-ins TLC does not credit) |
 | Yoakum | `2024 Yoakum County, TX precinct-level results.csv` (SOS precinct-by-precinct export) | unstated | 6 | absentee, early_voting, election_day (see note) | pass | exact (2 Senate write-ins) |
@@ -88,7 +88,13 @@ own totals rows or columns matched before the external reconciliation.
   being the only election-day report with the County Commissioner Pct 3
   contest. Registered voters print as 0. Four cells were read by eye after
   the OCR passes disagreed, each listed in the OCR notes below.
-- **Webb**: see the Webb section below.
+- **Webb**: the report is a county-wide unofficial table with no method
+  breakdown, so the file has `votes` only. Registered voters print as 0
+  and are not carried. Precinct names are the report's codes (`401-01`).
+  State Representative rows exist only for the precincts inside each
+  district (42: 55 precincts, 80: 23). U.S. House 28 and the county offices
+  cover all 78 precincts. Seven cells were read by eye after the two OCR
+  readings disagreed or the state data flagged the row; see the OCR notes.
 
 ## OCR notes, McMullen
 
@@ -109,6 +115,53 @@ House Jay Furman absentee 17 (one pass read 7); Pct 4 U.S. House Jay Furman
 election day 18 (template reader 13); Pct 4 U.S. House undervotes 0 (one
 pass read 6).
 
-## Webb
+## OCR notes, Webb
 
-(filled in below once the Webb conversion is complete)
+Method: pages upscaled 2x and deskewed (separator lines left vs right);
+row positions from the row labels and the dotted separators, anchored to
+the report's precinct numbering (78 rows per table, same order in every
+table); column lattice from the dotted vertical lines per page. Each cell
+was read twice: by a template digit reader built from this document's own
+digits (10 classes, 400 templates, 117/117 correct on a held-out page) and
+by tesseract. A row was accepted when both readings agreed, or when the
+table arithmetic (candidates + write-ins = Total Votes Cast; Total Votes
+Cast + overvotes + undervotes = Contest Total) was satisfied by one reading
+with at most one cell changed. Then three independent checks:
+
+- the report's own bold Totals row: every required column's sum matches
+  the printed total (two columns where the printed total was unreadable
+  were checked against the template read of the same cell);
+- the Texas Legislative Council VTD returns: all 1,115 President, U.S.
+  Senate, U.S. House 28, Railroad Commissioner and State Representative
+  42/80 cells that TLC carries for a Webb VTD match, and Ballots Cast
+  matches TLC turnout in all 78 precincts;
+- county totals against TLC (exact for every candidate; TLC carries no
+  Senate write-ins, the file has 51).
+
+Cells read by eye (each listed with the arithmetic that the visual read
+satisfies and the OCR read it replaced):
+
+- President 341-01: 543 431 3 6 1 984 0 2 986 (Contest Total had read 980).
+- President 344-01: 1318 1199 13 12 2 2544 0 11 2555 (Trump had read 1316;
+  TLC flagged it).
+- President 345-01: 539 555 5 10 2 1111 0 2 1113 (template reader had
+  530 / 550 / 0; TLC flagged it).
+- Railroad Commissioner 164-01: 118 226 11 44 0 399 2 36 437 (had read
+  220 and 30).
+- State Representative 42, 363-01: 265 265 0 79 344 (had read 269).
+- County Attorney 164-01: 325 325 0 112 437 (had read 320 / 328).
+- County Tax Assessor-Collector 446-01: 1225 1225 0 373 1598 (had read
+  8225 / 473).
+
+Rows where the two readings disagreed and the arithmetic picked one
+(single-cell change): U.S. Senate 407-01 Under Votes 6; County Tax
+Assessor-Collector 460-01 Barrera 155 and 361-01 Barrera 545. Rows the
+label OCR missed and that were re-read from their position (all passed the
+arithmetic): President 356-01; U.S. House 133-01, 221-01, 356-01, 457-01;
+State Representative 177-01, 275-01, 349-01; County Attorney and Sheriff
+220-01, 239-01, 361-01; County Tax Assessor-Collector 361-01.
+
+Not carried from the report: the local contests (City of Laredo council
+and propositions, United ISD, Laredo College, Webb CISD), the courts, the
+State Board of Education, and the precinct-level county commissioner,
+justice of the peace and constable tables.

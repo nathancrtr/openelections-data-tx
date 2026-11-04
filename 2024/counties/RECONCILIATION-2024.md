@@ -1,6 +1,8 @@
 # Reconciliation of batch-1 county files against the Texas Legislative Council 2024 General VTD returns
 
-Source: `2024_General_Election_Returns.csv` from https://data.capitol.texas.gov/dataset/comprehensive-election-datasets-compressed-format (2024 General VTDs Election Data zip, downloaded 2026-11-04). TLC compiles it from county and Secretary of State returns and warns of small differences. For each county the file's President and U.S. Senate votes are summed by candidate and compared with the county's VTD sum. TLC credits write-in candidates individually (Andrus and Roche for Senate); our files carry one Write-ins row, so write-in rows are summed on the TLC side.
+Source: `2024_General_Election_Returns.csv` from https://data.capitol.texas.gov/dataset/comprehensive-election-datasets-compressed-format (2024 General VTDs Election Data zip, downloaded 2026-11-04). TLC compiles it from county and Secretary of State returns and warns of small differences. For each county the file's President and U.S. Senate votes are summed by candidate and compared with the county's VTD sum. TLC credits write-in candidates individually (Andrus and Roche for Senate); our files carry one Write-ins row, so write-in rows are summed on the TLC side. Every non-zero difference below is in a write-in row, except Cochran (see the PR draft) and the write-in rows where TLC carries no write-in votes at all.
+
+Webb was also checked precinct by precinct: all 1,115 cells of President, U.S. Senate, U.S. House 28, Railroad Commissioner and State Representative 42/80 that TLC carries for a Webb VTD (VTD splits A/B/C summed) match the file, and Ballots Cast matches TLC turnout (TotalTO) in all 78 precincts.
 
 | county | office | candidate | our file | TLC VTD sum | diff |
 |---|---|---|---|---|---|
@@ -49,6 +51,15 @@ Source: `2024_General_Election_Returns.csv` from https://data.capitol.texas.gov/
 | Terrell | U.S. Senate | Allred | 92 | 92 | +0 |
 | Terrell | U.S. Senate | Brown | 7 | 7 | +0 |
 | Terrell | U.S. Senate | Write-ins | 0 | 0 | +0 |
+| Webb | President | Trump | 33397 | 33397 | +0 |
+| Webb | President | Harris | 31996 | 31996 | +0 |
+| Webb | President | Oliver | 227 | 227 | +0 |
+| Webb | President | Stein | 283 | 283 | +0 |
+| Webb | President | Write-ins | 92 | 92 | +0 |
+| Webb | U.S. Senate | Cruz | 28135 | 28135 | +0 |
+| Webb | U.S. Senate | Allred | 33794 | 33794 | +0 |
+| Webb | U.S. Senate | Brown | 1808 | 1808 | +0 |
+| Webb | U.S. Senate | Write-ins | 51 | 0 | +51 |
 | Wichita | President | Trump | 31818 | 31818 | +0 |
 | Wichita | President | Harris | 12237 | 12237 | +0 |
 | Wichita | President | Oliver | 295 | 295 | +0 |
