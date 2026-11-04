@@ -1,0 +1,508 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+"Wilson","Box 101","Registered Voters",,,,0,0,0,0
+"Wilson","Box 102","Registered Voters",,,,0,0,0,0
+"Wilson","Box 103","Registered Voters",,,,0,0,0,0
+"Wilson","Box 104","Registered Voters",,,,0,0,0,0
+"Wilson","Box 205","Registered Voters",,,,0,0,0,0
+"Wilson","Box 206","Registered Voters",,,,0,0,0,0
+"Wilson","Box 207","Registered Voters",,,,0,0,0,0
+"Wilson","Box 311","Registered Voters",,,,0,0,0,0
+"Wilson","Box 312","Registered Voters",,,,0,0,0,0
+"Wilson","Box 313","Registered Voters",,,,0,0,0,0
+"Wilson","Box 414","Registered Voters",,,,0,0,0,0
+"Wilson","Box 415","Registered Voters",,,,0,0,0,0
+"Wilson","Box 416","Registered Voters",,,,0,0,0,0
+"Wilson","Box 101","Ballots Cast",,,,2756,105,2219,432
+"Wilson","Box 102","Ballots Cast",,,,1535,94,1174,267
+"Wilson","Box 103","Ballots Cast",,,,1389,90,1017,282
+"Wilson","Box 104","Ballots Cast",,,,993,30,718,245
+"Wilson","Box 205","Ballots Cast",,,,2304,58,1599,647
+"Wilson","Box 206","Ballots Cast",,,,1688,103,1331,254
+"Wilson","Box 207","Ballots Cast",,,,2539,74,2152,313
+"Wilson","Box 311","Ballots Cast",,,,2196,81,1855,260
+"Wilson","Box 312","Ballots Cast",,,,2183,61,1842,280
+"Wilson","Box 313","Ballots Cast",,,,3029,72,2438,519
+"Wilson","Box 414","Ballots Cast",,,,2280,75,1425,780
+"Wilson","Box 415","Ballots Cast",,,,2812,81,2343,388
+"Wilson","Box 416","Ballots Cast",,,,1712,59,1364,289
+"Wilson","Box 101","President",,"REP","Donald J. Trump/JD Vance",1855,47,1538,270
+"Wilson","Box 102","President",,"REP","Donald J. Trump/JD Vance",879,19,695,165
+"Wilson","Box 103","President",,"REP","Donald J. Trump/JD Vance",933,27,711,195
+"Wilson","Box 104","President",,"REP","Donald J. Trump/JD Vance",742,22,553,167
+"Wilson","Box 205","President",,"REP","Donald J. Trump/JD Vance",1914,32,1336,546
+"Wilson","Box 206","President",,"REP","Donald J. Trump/JD Vance",1103,41,889,173
+"Wilson","Box 207","President",,"REP","Donald J. Trump/JD Vance",1869,41,1613,215
+"Wilson","Box 311","President",,"REP","Donald J. Trump/JD Vance",1850,41,1597,212
+"Wilson","Box 312","President",,"REP","Donald J. Trump/JD Vance",1813,31,1558,224
+"Wilson","Box 313","President",,"REP","Donald J. Trump/JD Vance",2485,35,2054,396
+"Wilson","Box 414","President",,"REP","Donald J. Trump/JD Vance",1892,38,1215,639
+"Wilson","Box 415","President",,"REP","Donald J. Trump/JD Vance",2201,46,1848,307
+"Wilson","Box 416","President",,"REP","Donald J. Trump/JD Vance",1358,34,1099,225
+"Wilson","Box 101","President",,"DEM","Kamala D. Harris/Tim Walz",875,58,659,158
+"Wilson","Box 102","President",,"DEM","Kamala D. Harris/Tim Walz",641,75,468,98
+"Wilson","Box 103","President",,"DEM","Kamala D. Harris/Tim Walz",440,63,294,83
+"Wilson","Box 104","President",,"DEM","Kamala D. Harris/Tim Walz",234,8,155,71
+"Wilson","Box 205","President",,"DEM","Kamala D. Harris/Tim Walz",370,24,251,95
+"Wilson","Box 206","President",,"DEM","Kamala D. Harris/Tim Walz",568,62,428,78
+"Wilson","Box 207","President",,"DEM","Kamala D. Harris/Tim Walz",643,31,521,91
+"Wilson","Box 311","President",,"DEM","Kamala D. Harris/Tim Walz",324,37,244,43
+"Wilson","Box 312","President",,"DEM","Kamala D. Harris/Tim Walz",354,29,272,53
+"Wilson","Box 313","President",,"DEM","Kamala D. Harris/Tim Walz",509,35,358,116
+"Wilson","Box 414","President",,"DEM","Kamala D. Harris/Tim Walz",371,37,198,136
+"Wilson","Box 415","President",,"DEM","Kamala D. Harris/Tim Walz",579,32,475,72
+"Wilson","Box 416","President",,"DEM","Kamala D. Harris/Tim Walz",339,23,256,60
+"Wilson","Box 101","President",,"LIB","Chase Oliver/Mike ter Maat",5,0,4,1
+"Wilson","Box 102","President",,"LIB","Chase Oliver/Mike ter Maat",4,0,4,0
+"Wilson","Box 103","President",,"LIB","Chase Oliver/Mike ter Maat",4,0,4,0
+"Wilson","Box 104","President",,"LIB","Chase Oliver/Mike ter Maat",3,0,1,2
+"Wilson","Box 205","President",,"LIB","Chase Oliver/Mike ter Maat",5,0,3,2
+"Wilson","Box 206","President",,"LIB","Chase Oliver/Mike ter Maat",4,0,3,1
+"Wilson","Box 207","President",,"LIB","Chase Oliver/Mike ter Maat",10,0,8,2
+"Wilson","Box 311","President",,"LIB","Chase Oliver/Mike ter Maat",14,2,10,2
+"Wilson","Box 312","President",,"LIB","Chase Oliver/Mike ter Maat",5,1,2,2
+"Wilson","Box 313","President",,"LIB","Chase Oliver/Mike ter Maat",8,0,6,2
+"Wilson","Box 414","President",,"LIB","Chase Oliver/Mike ter Maat",6,0,2,4
+"Wilson","Box 415","President",,"LIB","Chase Oliver/Mike ter Maat",9,2,6,1
+"Wilson","Box 416","President",,"LIB","Chase Oliver/Mike ter Maat",3,1,0,2
+"Wilson","Box 101","President",,"GRN","Jill Stein/Rudolph Ware",6,0,4,2
+"Wilson","Box 102","President",,"GRN","Jill Stein/Rudolph Ware",1,0,1,0
+"Wilson","Box 103","President",,"GRN","Jill Stein/Rudolph Ware",6,0,4,2
+"Wilson","Box 104","President",,"GRN","Jill Stein/Rudolph Ware",1,0,1,0
+"Wilson","Box 205","President",,"GRN","Jill Stein/Rudolph Ware",2,0,2,0
+"Wilson","Box 206","President",,"GRN","Jill Stein/Rudolph Ware",5,0,4,1
+"Wilson","Box 207","President",,"GRN","Jill Stein/Rudolph Ware",3,0,3,0
+"Wilson","Box 311","President",,"GRN","Jill Stein/Rudolph Ware",2,0,1,1
+"Wilson","Box 312","President",,"GRN","Jill Stein/Rudolph Ware",4,0,4,0
+"Wilson","Box 313","President",,"GRN","Jill Stein/Rudolph Ware",9,1,6,2
+"Wilson","Box 414","President",,"GRN","Jill Stein/Rudolph Ware",2,0,2,0
+"Wilson","Box 415","President",,"GRN","Jill Stein/Rudolph Ware",5,0,3,2
+"Wilson","Box 416","President",,"GRN","Jill Stein/Rudolph Ware",3,0,2,1
+"Wilson","Box 101","President",,,"Write-ins",4,0,4,0
+"Wilson","Box 102","President",,,"Write-ins",0,0,0,0
+"Wilson","Box 103","President",,,"Write-ins",3,0,2,1
+"Wilson","Box 104","President",,,"Write-ins",4,0,2,2
+"Wilson","Box 205","President",,,"Write-ins",3,0,1,2
+"Wilson","Box 206","President",,,"Write-ins",0,0,0,0
+"Wilson","Box 207","President",,,"Write-ins",6,2,1,3
+"Wilson","Box 311","President",,,"Write-ins",2,1,0,1
+"Wilson","Box 312","President",,,"Write-ins",3,0,2,1
+"Wilson","Box 313","President",,,"Write-ins",7,1,6,0
+"Wilson","Box 414","President",,,"Write-ins",4,0,4,0
+"Wilson","Box 415","President",,,"Write-ins",10,1,4,5
+"Wilson","Box 416","President",,,"Write-ins",4,1,3,0
+"Wilson","Box 101","President",,,"Over Votes",2,0,2,0
+"Wilson","Box 102","President",,,"Over Votes",3,0,2,1
+"Wilson","Box 103","President",,,"Over Votes",1,0,1,0
+"Wilson","Box 104","President",,,"Over Votes",2,0,2,0
+"Wilson","Box 205","President",,,"Over Votes",1,0,1,0
+"Wilson","Box 206","President",,,"Over Votes",2,0,2,0
+"Wilson","Box 207","President",,,"Over Votes",4,0,3,1
+"Wilson","Box 311","President",,,"Over Votes",0,0,0,0
+"Wilson","Box 312","President",,,"Over Votes",0,0,0,0
+"Wilson","Box 313","President",,,"Over Votes",2,0,2,0
+"Wilson","Box 414","President",,,"Over Votes",2,0,2,0
+"Wilson","Box 415","President",,,"Over Votes",1,0,1,0
+"Wilson","Box 416","President",,,"Over Votes",0,0,0,0
+"Wilson","Box 101","President",,,"Under Votes",9,0,8,1
+"Wilson","Box 102","President",,,"Under Votes",7,0,4,3
+"Wilson","Box 103","President",,,"Under Votes",2,0,1,1
+"Wilson","Box 104","President",,,"Under Votes",7,0,4,3
+"Wilson","Box 205","President",,,"Under Votes",9,2,5,2
+"Wilson","Box 206","President",,,"Under Votes",6,0,5,1
+"Wilson","Box 207","President",,,"Under Votes",4,0,3,1
+"Wilson","Box 311","President",,,"Under Votes",4,0,3,1
+"Wilson","Box 312","President",,,"Under Votes",4,0,4,0
+"Wilson","Box 313","President",,,"Under Votes",9,0,6,3
+"Wilson","Box 414","President",,,"Under Votes",3,0,2,1
+"Wilson","Box 415","President",,,"Under Votes",7,0,6,1
+"Wilson","Box 416","President",,,"Under Votes",5,0,4,1
+"Wilson","Box 101","U.S. Senate",,"REP","Ted Cruz",1743,46,1451,246
+"Wilson","Box 102","U.S. Senate",,"REP","Ted Cruz",787,18,639,130
+"Wilson","Box 103","U.S. Senate",,"REP","Ted Cruz",858,22,664,172
+"Wilson","Box 104","U.S. Senate",,"REP","Ted Cruz",691,22,517,152
+"Wilson","Box 205","U.S. Senate",,"REP","Ted Cruz",1834,30,1291,513
+"Wilson","Box 206","U.S. Senate",,"REP","Ted Cruz",1031,36,843,152
+"Wilson","Box 207","U.S. Senate",,"REP","Ted Cruz",1760,43,1522,195
+"Wilson","Box 311","U.S. Senate",,"REP","Ted Cruz",1776,38,1549,189
+"Wilson","Box 312","U.S. Senate",,"REP","Ted Cruz",1740,31,1501,208
+"Wilson","Box 313","U.S. Senate",,"REP","Ted Cruz",2366,37,1972,357
+"Wilson","Box 414","U.S. Senate",,"REP","Ted Cruz",1785,34,1164,587
+"Wilson","Box 415","U.S. Senate",,"REP","Ted Cruz",2116,44,1794,278
+"Wilson","Box 416","U.S. Senate",,"REP","Ted Cruz",1296,34,1064,198
+"Wilson","Box 101","U.S. Senate",,"DEM","Colin Allred",923,58,697,168
+"Wilson","Box 102","U.S. Senate",,"DEM","Colin Allred",684,73,498,113
+"Wilson","Box 103","U.S. Senate",,"DEM","Colin Allred",476,61,321,94
+"Wilson","Box 104","U.S. Senate",,"DEM","Colin Allred",260,7,179,74
+"Wilson","Box 205","U.S. Senate",,"DEM","Colin Allred",420,25,277,118
+"Wilson","Box 206","U.S. Senate",,"DEM","Colin Allred",594,64,436,94
+"Wilson","Box 207","U.S. Senate",,"DEM","Colin Allred",702,30,566,106
+"Wilson","Box 311","U.S. Senate",,"DEM","Colin Allred",366,39,268,59
+"Wilson","Box 312","U.S. Senate",,"DEM","Colin Allred",383,28,297,58
+"Wilson","Box 313","U.S. Senate",,"DEM","Colin Allred",582,33,410,139
+"Wilson","Box 414","U.S. Senate",,"DEM","Colin Allred",432,36,230,166
+"Wilson","Box 415","U.S. Senate",,"DEM","Colin Allred",618,34,494,90
+"Wilson","Box 416","U.S. Senate",,"DEM","Colin Allred",362,25,269,68
+"Wilson","Box 101","U.S. Senate",,"LIB","Ted Brown",54,0,44,10
+"Wilson","Box 102","U.S. Senate",,"LIB","Ted Brown",39,3,22,14
+"Wilson","Box 103","U.S. Senate",,"LIB","Ted Brown",34,3,19,12
+"Wilson","Box 104","U.S. Senate",,"LIB","Ted Brown",26,1,15,10
+"Wilson","Box 205","U.S. Senate",,"LIB","Ted Brown",30,1,18,11
+"Wilson","Box 206","U.S. Senate",,"LIB","Ted Brown",35,2,27,6
+"Wilson","Box 207","U.S. Senate",,"LIB","Ted Brown",54,1,47,6
+"Wilson","Box 311","U.S. Senate",,"LIB","Ted Brown",33,2,25,6
+"Wilson","Box 312","U.S. Senate",,"LIB","Ted Brown",42,1,29,12
+"Wilson","Box 313","U.S. Senate",,"LIB","Ted Brown",58,1,42,15
+"Wilson","Box 414","U.S. Senate",,"LIB","Ted Brown",43,2,21,20
+"Wilson","Box 415","U.S. Senate",,"LIB","Ted Brown",58,3,38,17
+"Wilson","Box 416","U.S. Senate",,"LIB","Ted Brown",38,0,18,20
+"Wilson","Box 101","U.S. Senate",,,"Write-ins",3,0,3,0
+"Wilson","Box 102","U.S. Senate",,,"Write-ins",1,0,0,1
+"Wilson","Box 103","U.S. Senate",,,"Write-ins",3,0,2,1
+"Wilson","Box 104","U.S. Senate",,,"Write-ins",3,0,1,2
+"Wilson","Box 205","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wilson","Box 206","U.S. Senate",,,"Write-ins",3,0,3,0
+"Wilson","Box 207","U.S. Senate",,,"Write-ins",2,0,2,0
+"Wilson","Box 311","U.S. Senate",,,"Write-ins",2,0,1,1
+"Wilson","Box 312","U.S. Senate",,,"Write-ins",3,1,2,0
+"Wilson","Box 313","U.S. Senate",,,"Write-ins",2,0,2,0
+"Wilson","Box 414","U.S. Senate",,,"Write-ins",1,0,1,0
+"Wilson","Box 415","U.S. Senate",,,"Write-ins",1,0,1,0
+"Wilson","Box 416","U.S. Senate",,,"Write-ins",2,0,2,0
+"Wilson","Box 101","U.S. Senate",,,"Over Votes",2,0,2,0
+"Wilson","Box 102","U.S. Senate",,,"Over Votes",3,0,2,1
+"Wilson","Box 103","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wilson","Box 104","U.S. Senate",,,"Over Votes",2,0,2,0
+"Wilson","Box 205","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wilson","Box 206","U.S. Senate",,,"Over Votes",2,0,2,0
+"Wilson","Box 207","U.S. Senate",,,"Over Votes",3,0,2,1
+"Wilson","Box 311","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wilson","Box 312","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wilson","Box 313","U.S. Senate",,,"Over Votes",2,0,2,0
+"Wilson","Box 414","U.S. Senate",,,"Over Votes",2,0,2,0
+"Wilson","Box 415","U.S. Senate",,,"Over Votes",1,0,1,0
+"Wilson","Box 416","U.S. Senate",,,"Over Votes",1,0,1,0
+"Wilson","Box 101","U.S. Senate",,,"Under Votes",31,1,22,8
+"Wilson","Box 102","U.S. Senate",,,"Under Votes",21,0,13,8
+"Wilson","Box 103","U.S. Senate",,,"Under Votes",18,4,11,3
+"Wilson","Box 104","U.S. Senate",,,"Under Votes",11,0,4,7
+"Wilson","Box 205","U.S. Senate",,,"Under Votes",20,2,13,5
+"Wilson","Box 206","U.S. Senate",,,"Under Votes",23,1,20,2
+"Wilson","Box 207","U.S. Senate",,,"Under Votes",18,0,13,5
+"Wilson","Box 311","U.S. Senate",,,"Under Votes",19,2,12,5
+"Wilson","Box 312","U.S. Senate",,,"Under Votes",15,0,13,2
+"Wilson","Box 313","U.S. Senate",,,"Under Votes",19,1,10,8
+"Wilson","Box 414","U.S. Senate",,,"Under Votes",17,3,7,7
+"Wilson","Box 415","U.S. Senate",,,"Under Votes",18,0,15,3
+"Wilson","Box 416","U.S. Senate",,,"Under Votes",13,0,10,3
+"Wilson","Box 101","U.S. House","15","REP","Monica De La Cruz",1878,49,1553,276
+"Wilson","Box 102","U.S. House","15","REP","Monica De La Cruz",835,18,668,149
+"Wilson","Box 103","U.S. House","15","REP","Monica De La Cruz",909,29,686,194
+"Wilson","Box 104","U.S. House","15","REP","Monica De La Cruz",735,22,545,168
+"Wilson","Box 205","U.S. House","15","REP","Monica De La Cruz",1901,31,1332,538
+"Wilson","Box 206","U.S. House","15","REP","Monica De La Cruz",1078,39,874,165
+"Wilson","Box 207","U.S. House","15","REP","Monica De La Cruz",1852,43,1587,222
+"Wilson","Box 311","U.S. House","15","REP","Monica De La Cruz",1861,44,1601,216
+"Wilson","Box 312","U.S. House","15","REP","Monica De La Cruz",1816,28,1563,225
+"Wilson","Box 313","U.S. House","15","REP","Monica De La Cruz",2472,35,2050,387
+"Wilson","Box 414","U.S. House","15","REP","Monica De La Cruz",1890,36,1208,646
+"Wilson","Box 415","U.S. House","15","REP","Monica De La Cruz",2202,49,1846,307
+"Wilson","Box 416","U.S. House","15","REP","Monica De La Cruz",1357,37,1098,222
+"Wilson","Box 101","U.S. House","15","DEM","Michelle Vallejo",822,55,622,145
+"Wilson","Box 102","U.S. House","15","DEM","Michelle Vallejo",653,75,467,111
+"Wilson","Box 103","U.S. House","15","DEM","Michelle Vallejo",431,58,291,82
+"Wilson","Box 104","U.S. House","15","DEM","Michelle Vallejo",225,8,151,66
+"Wilson","Box 205","U.S. House","15","DEM","Michelle Vallejo",346,24,228,94
+"Wilson","Box 206","U.S. House","15","DEM","Michelle Vallejo",557,60,410,87
+"Wilson","Box 207","U.S. House","15","DEM","Michelle Vallejo",623,29,511,83
+"Wilson","Box 311","U.S. House","15","DEM","Michelle Vallejo",289,32,218,39
+"Wilson","Box 312","U.S. House","15","DEM","Michelle Vallejo",329,31,246,52
+"Wilson","Box 313","U.S. House","15","DEM","Michelle Vallejo",493,36,341,116
+"Wilson","Box 414","U.S. House","15","DEM","Michelle Vallejo",343,37,187,119
+"Wilson","Box 415","U.S. House","15","DEM","Michelle Vallejo",556,32,453,71
+"Wilson","Box 416","U.S. House","15","DEM","Michelle Vallejo",309,21,233,55
+"Wilson","Box 101","U.S. House","15",,"Over Votes",0,0,0,0
+"Wilson","Box 102","U.S. House","15",,"Over Votes",0,0,0,0
+"Wilson","Box 103","U.S. House","15",,"Over Votes",0,0,0,0
+"Wilson","Box 104","U.S. House","15",,"Over Votes",0,0,0,0
+"Wilson","Box 205","U.S. House","15",,"Over Votes",0,0,0,0
+"Wilson","Box 206","U.S. House","15",,"Over Votes",1,0,1,0
+"Wilson","Box 207","U.S. House","15",,"Over Votes",0,0,0,0
+"Wilson","Box 311","U.S. House","15",,"Over Votes",0,0,0,0
+"Wilson","Box 312","U.S. House","15",,"Over Votes",0,0,0,0
+"Wilson","Box 313","U.S. House","15",,"Over Votes",0,0,0,0
+"Wilson","Box 414","U.S. House","15",,"Over Votes",0,0,0,0
+"Wilson","Box 415","U.S. House","15",,"Over Votes",1,0,1,0
+"Wilson","Box 416","U.S. House","15",,"Over Votes",0,0,0,0
+"Wilson","Box 101","U.S. House","15",,"Under Votes",56,1,44,11
+"Wilson","Box 102","U.S. House","15",,"Under Votes",47,1,39,7
+"Wilson","Box 103","U.S. House","15",,"Under Votes",49,3,40,6
+"Wilson","Box 104","U.S. House","15",,"Under Votes",33,0,22,11
+"Wilson","Box 205","U.S. House","15",,"Under Votes",57,3,39,15
+"Wilson","Box 206","U.S. House","15",,"Under Votes",52,4,46,2
+"Wilson","Box 207","U.S. House","15",,"Under Votes",64,2,54,8
+"Wilson","Box 311","U.S. House","15",,"Under Votes",46,5,36,5
+"Wilson","Box 312","U.S. House","15",,"Under Votes",38,2,33,3
+"Wilson","Box 313","U.S. House","15",,"Under Votes",64,1,47,16
+"Wilson","Box 414","U.S. House","15",,"Under Votes",47,2,30,15
+"Wilson","Box 415","U.S. House","15",,"Under Votes",53,0,43,10
+"Wilson","Box 416","U.S. House","15",,"Under Votes",46,1,33,12
+"Wilson","Box 101","Railroad Commissioner",,"REP","Christi Craddick",1817,48,1505,264
+"Wilson","Box 102","Railroad Commissioner",,"REP","Christi Craddick",793,16,637,140
+"Wilson","Box 103","Railroad Commissioner",,"REP","Christi Craddick",877,24,682,171
+"Wilson","Box 104","Railroad Commissioner",,"REP","Christi Craddick",695,21,521,153
+"Wilson","Box 205","Railroad Commissioner",,"REP","Christi Craddick",1831,31,1294,506
+"Wilson","Box 206","Railroad Commissioner",,"REP","Christi Craddick",1034,38,843,153
+"Wilson","Box 207","Railroad Commissioner",,"REP","Christi Craddick",1786,39,1545,202
+"Wilson","Box 311","Railroad Commissioner",,"REP","Christi Craddick",1800,41,1558,201
+"Wilson","Box 312","Railroad Commissioner",,"REP","Christi Craddick",1769,31,1535,203
+"Wilson","Box 313","Railroad Commissioner",,"REP","Christi Craddick",2385,34,1978,373
+"Wilson","Box 414","Railroad Commissioner",,"REP","Christi Craddick",1813,33,1172,608
+"Wilson","Box 415","Railroad Commissioner",,"REP","Christi Craddick",2138,46,1806,286
+"Wilson","Box 416","Railroad Commissioner",,"REP","Christi Craddick",1329,35,1088,206
+"Wilson","Box 101","Railroad Commissioner",,"DEM","Katherine Culbert",753,53,573,127
+"Wilson","Box 102","Railroad Commissioner",,"DEM","Katherine Culbert",590,74,428,88
+"Wilson","Box 103","Railroad Commissioner",,"DEM","Katherine Culbert",394,61,262,71
+"Wilson","Box 104","Railroad Commissioner",,"DEM","Katherine Culbert",205,8,142,55
+"Wilson","Box 205","Railroad Commissioner",,"DEM","Katherine Culbert",330,22,218,90
+"Wilson","Box 206","Railroad Commissioner",,"DEM","Katherine Culbert",511,56,380,75
+"Wilson","Box 207","Railroad Commissioner",,"DEM","Katherine Culbert",591,29,483,79
+"Wilson","Box 311","Railroad Commissioner",,"DEM","Katherine Culbert",260,32,198,30
+"Wilson","Box 312","Railroad Commissioner",,"DEM","Katherine Culbert",291,26,219,46
+"Wilson","Box 313","Railroad Commissioner",,"DEM","Katherine Culbert",439,33,314,92
+"Wilson","Box 414","Railroad Commissioner",,"DEM","Katherine Culbert",321,36,171,114
+"Wilson","Box 415","Railroad Commissioner",,"DEM","Katherine Culbert",503,27,415,61
+"Wilson","Box 416","Railroad Commissioner",,"DEM","Katherine Culbert",287,21,221,45
+"Wilson","Box 101","Railroad Commissioner",,"LIB","Hawk Dunlap",70,0,57,13
+"Wilson","Box 102","Railroad Commissioner",,"LIB","Hawk Dunlap",41,0,35,6
+"Wilson","Box 103","Railroad Commissioner",,"LIB","Hawk Dunlap",39,2,25,12
+"Wilson","Box 104","Railroad Commissioner",,"LIB","Hawk Dunlap",36,1,21,14
+"Wilson","Box 205","Railroad Commissioner",,"LIB","Hawk Dunlap",42,2,25,15
+"Wilson","Box 206","Railroad Commissioner",,"LIB","Hawk Dunlap",28,1,21,6
+"Wilson","Box 207","Railroad Commissioner",,"LIB","Hawk Dunlap",60,2,51,7
+"Wilson","Box 311","Railroad Commissioner",,"LIB","Hawk Dunlap",58,2,46,10
+"Wilson","Box 312","Railroad Commissioner",,"LIB","Hawk Dunlap",53,0,35,18
+"Wilson","Box 313","Railroad Commissioner",,"LIB","Hawk Dunlap",76,1,61,14
+"Wilson","Box 414","Railroad Commissioner",,"LIB","Hawk Dunlap",58,0,39,19
+"Wilson","Box 415","Railroad Commissioner",,"LIB","Hawk Dunlap",80,4,55,21
+"Wilson","Box 416","Railroad Commissioner",,"LIB","Hawk Dunlap",39,1,20,18
+"Wilson","Box 101","Railroad Commissioner",,"GRN","Eddie Espinoza",47,0,33,14
+"Wilson","Box 102","Railroad Commissioner",,"GRN","Eddie Espinoza",38,2,22,14
+"Wilson","Box 103","Railroad Commissioner",,"GRN","Eddie Espinoza",37,0,25,12
+"Wilson","Box 104","Railroad Commissioner",,"GRN","Eddie Espinoza",13,0,10,3
+"Wilson","Box 205","Railroad Commissioner",,"GRN","Eddie Espinoza",18,0,10,8
+"Wilson","Box 206","Railroad Commissioner",,"GRN","Eddie Espinoza",37,0,24,13
+"Wilson","Box 207","Railroad Commissioner",,"GRN","Eddie Espinoza",43,2,30,11
+"Wilson","Box 311","Railroad Commissioner",,"GRN","Eddie Espinoza",19,1,11,7
+"Wilson","Box 312","Railroad Commissioner",,"GRN","Eddie Espinoza",18,2,14,2
+"Wilson","Box 313","Railroad Commissioner",,"GRN","Eddie Espinoza",43,2,25,16
+"Wilson","Box 414","Railroad Commissioner",,"GRN","Eddie Espinoza",31,0,15,16
+"Wilson","Box 415","Railroad Commissioner",,"GRN","Eddie Espinoza",24,1,20,3
+"Wilson","Box 416","Railroad Commissioner",,"GRN","Eddie Espinoza",17,0,11,6
+"Wilson","Box 101","Railroad Commissioner",,,"Write-ins",3,0,3,0
+"Wilson","Box 102","Railroad Commissioner",,,"Write-ins",5,0,4,1
+"Wilson","Box 103","Railroad Commissioner",,,"Write-ins",1,0,1,0
+"Wilson","Box 104","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wilson","Box 205","Railroad Commissioner",,,"Write-ins",3,0,3,0
+"Wilson","Box 206","Railroad Commissioner",,,"Write-ins",1,0,1,0
+"Wilson","Box 207","Railroad Commissioner",,,"Write-ins",5,0,2,3
+"Wilson","Box 311","Railroad Commissioner",,,"Write-ins",2,0,1,1
+"Wilson","Box 312","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wilson","Box 313","Railroad Commissioner",,,"Write-ins",4,0,3,1
+"Wilson","Box 414","Railroad Commissioner",,,"Write-ins",1,0,1,0
+"Wilson","Box 415","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wilson","Box 416","Railroad Commissioner",,,"Write-ins",2,0,1,1
+"Wilson","Box 101","Railroad Commissioner",,,"Over Votes",1,0,1,0
+"Wilson","Box 102","Railroad Commissioner",,,"Over Votes",3,0,2,1
+"Wilson","Box 103","Railroad Commissioner",,,"Over Votes",1,0,1,0
+"Wilson","Box 104","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wilson","Box 205","Railroad Commissioner",,,"Over Votes",1,0,1,0
+"Wilson","Box 206","Railroad Commissioner",,,"Over Votes",3,0,3,0
+"Wilson","Box 207","Railroad Commissioner",,,"Over Votes",3,0,2,1
+"Wilson","Box 311","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wilson","Box 312","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wilson","Box 313","Railroad Commissioner",,,"Over Votes",1,0,1,0
+"Wilson","Box 414","Railroad Commissioner",,,"Over Votes",2,0,2,0
+"Wilson","Box 415","Railroad Commissioner",,,"Over Votes",1,0,1,0
+"Wilson","Box 416","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wilson","Box 101","Railroad Commissioner",,,"Under Votes",65,4,47,14
+"Wilson","Box 102","Railroad Commissioner",,,"Under Votes",65,2,46,17
+"Wilson","Box 103","Railroad Commissioner",,,"Under Votes",40,3,21,16
+"Wilson","Box 104","Railroad Commissioner",,,"Under Votes",44,0,24,20
+"Wilson","Box 205","Railroad Commissioner",,,"Under Votes",79,3,48,28
+"Wilson","Box 206","Railroad Commissioner",,,"Under Votes",74,8,59,7
+"Wilson","Box 207","Railroad Commissioner",,,"Under Votes",51,2,39,10
+"Wilson","Box 311","Railroad Commissioner",,,"Under Votes",57,5,41,11
+"Wilson","Box 312","Railroad Commissioner",,,"Under Votes",52,2,39,11
+"Wilson","Box 313","Railroad Commissioner",,,"Under Votes",81,2,56,23
+"Wilson","Box 414","Railroad Commissioner",,,"Under Votes",54,6,25,23
+"Wilson","Box 415","Railroad Commissioner",,,"Under Votes",66,3,46,17
+"Wilson","Box 416","Railroad Commissioner",,,"Under Votes",38,2,23,13
+"Wilson","Box 101","State Representative","31","REP","Ryan Guillen",2086,58,1698,330
+"Wilson","Box 102","State Representative","31","REP","Ryan Guillen",1033,31,813,189
+"Wilson","Box 103","State Representative","31","REP","Ryan Guillen",992,33,745,214
+"Wilson","Box 104","State Representative","31","REP","Ryan Guillen",790,24,590,176
+"Wilson","Box 205","State Representative","31","REP","Ryan Guillen",1922,35,1339,548
+"Wilson","Box 206","State Representative","31","REP","Ryan Guillen",1242,50,990,202
+"Wilson","Box 207","State Representative","31","REP","Ryan Guillen",1998,43,1706,249
+"Wilson","Box 311","State Representative","31","REP","Ryan Guillen",1896,53,1621,222
+"Wilson","Box 312","State Representative","31","REP","Ryan Guillen",1882,33,1610,239
+"Wilson","Box 313","State Representative","31","REP","Ryan Guillen",2537,38,2092,407
+"Wilson","Box 414","State Representative","31","REP","Ryan Guillen",1913,37,1223,653
+"Wilson","Box 415","State Representative","31","REP","Ryan Guillen",2323,51,1952,320
+"Wilson","Box 416","State Representative","31","REP","Ryan Guillen",1423,42,1140,241
+"Wilson","Box 101","State Representative","31",,"Over Votes",0,0,0,0
+"Wilson","Box 102","State Representative","31",,"Over Votes",0,0,0,0
+"Wilson","Box 103","State Representative","31",,"Over Votes",0,0,0,0
+"Wilson","Box 104","State Representative","31",,"Over Votes",0,0,0,0
+"Wilson","Box 205","State Representative","31",,"Over Votes",0,0,0,0
+"Wilson","Box 206","State Representative","31",,"Over Votes",0,0,0,0
+"Wilson","Box 207","State Representative","31",,"Over Votes",0,0,0,0
+"Wilson","Box 311","State Representative","31",,"Over Votes",0,0,0,0
+"Wilson","Box 312","State Representative","31",,"Over Votes",0,0,0,0
+"Wilson","Box 313","State Representative","31",,"Over Votes",0,0,0,0
+"Wilson","Box 414","State Representative","31",,"Over Votes",0,0,0,0
+"Wilson","Box 415","State Representative","31",,"Over Votes",0,0,0,0
+"Wilson","Box 416","State Representative","31",,"Over Votes",0,0,0,0
+"Wilson","Box 101","State Representative","31",,"Under Votes",670,47,521,102
+"Wilson","Box 102","State Representative","31",,"Under Votes",502,63,361,78
+"Wilson","Box 103","State Representative","31",,"Under Votes",397,57,272,68
+"Wilson","Box 104","State Representative","31",,"Under Votes",203,6,128,69
+"Wilson","Box 205","State Representative","31",,"Under Votes",382,23,260,99
+"Wilson","Box 206","State Representative","31",,"Under Votes",446,53,341,52
+"Wilson","Box 207","State Representative","31",,"Under Votes",541,31,446,64
+"Wilson","Box 311","State Representative","31",,"Under Votes",300,28,234,38
+"Wilson","Box 312","State Representative","31",,"Under Votes",301,28,232,41
+"Wilson","Box 313","State Representative","31",,"Under Votes",492,34,346,112
+"Wilson","Box 414","State Representative","31",,"Under Votes",367,38,202,127
+"Wilson","Box 415","State Representative","31",,"Under Votes",489,30,391,68
+"Wilson","Box 416","State Representative","31",,"Under Votes",289,17,224,48
+"Wilson","Box 101","County Attorney",,"REP","Theresa D. Nettles",2090,56,1707,327
+"Wilson","Box 102","County Attorney",,"REP","Theresa D. Nettles",1008,28,798,182
+"Wilson","Box 103","County Attorney",,"REP","Theresa D. Nettles",988,35,742,211
+"Wilson","Box 104","County Attorney",,"REP","Theresa D. Nettles",781,24,582,175
+"Wilson","Box 205","County Attorney",,"REP","Theresa D. Nettles",1908,37,1325,546
+"Wilson","Box 206","County Attorney",,"REP","Theresa D. Nettles",1234,53,986,195
+"Wilson","Box 207","County Attorney",,"REP","Theresa D. Nettles",1993,48,1695,250
+"Wilson","Box 311","County Attorney",,"REP","Theresa D. Nettles",1897,54,1623,220
+"Wilson","Box 312","County Attorney",,"REP","Theresa D. Nettles",1870,33,1598,239
+"Wilson","Box 313","County Attorney",,"REP","Theresa D. Nettles",2503,39,2070,394
+"Wilson","Box 414","County Attorney",,"REP","Theresa D. Nettles",1907,35,1213,659
+"Wilson","Box 415","County Attorney",,"REP","Theresa D. Nettles",2330,52,1962,316
+"Wilson","Box 416","County Attorney",,"REP","Theresa D. Nettles",1418,39,1142,237
+"Wilson","Box 101","County Attorney",,,"Over Votes",0,0,0,0
+"Wilson","Box 102","County Attorney",,,"Over Votes",0,0,0,0
+"Wilson","Box 103","County Attorney",,,"Over Votes",0,0,0,0
+"Wilson","Box 104","County Attorney",,,"Over Votes",0,0,0,0
+"Wilson","Box 205","County Attorney",,,"Over Votes",0,0,0,0
+"Wilson","Box 206","County Attorney",,,"Over Votes",0,0,0,0
+"Wilson","Box 207","County Attorney",,,"Over Votes",0,0,0,0
+"Wilson","Box 311","County Attorney",,,"Over Votes",0,0,0,0
+"Wilson","Box 312","County Attorney",,,"Over Votes",0,0,0,0
+"Wilson","Box 313","County Attorney",,,"Over Votes",0,0,0,0
+"Wilson","Box 414","County Attorney",,,"Over Votes",0,0,0,0
+"Wilson","Box 415","County Attorney",,,"Over Votes",0,0,0,0
+"Wilson","Box 416","County Attorney",,,"Over Votes",0,0,0,0
+"Wilson","Box 101","County Attorney",,,"Under Votes",666,49,512,105
+"Wilson","Box 102","County Attorney",,,"Under Votes",527,66,376,85
+"Wilson","Box 103","County Attorney",,,"Under Votes",401,55,275,71
+"Wilson","Box 104","County Attorney",,,"Under Votes",212,6,136,70
+"Wilson","Box 205","County Attorney",,,"Under Votes",396,21,274,101
+"Wilson","Box 206","County Attorney",,,"Under Votes",454,50,345,59
+"Wilson","Box 207","County Attorney",,,"Under Votes",546,26,457,63
+"Wilson","Box 311","County Attorney",,,"Under Votes",299,27,232,40
+"Wilson","Box 312","County Attorney",,,"Under Votes",313,28,244,41
+"Wilson","Box 313","County Attorney",,,"Under Votes",526,33,368,125
+"Wilson","Box 414","County Attorney",,,"Under Votes",373,40,212,121
+"Wilson","Box 415","County Attorney",,,"Under Votes",482,29,381,72
+"Wilson","Box 416","County Attorney",,,"Under Votes",294,20,222,52
+"Wilson","Box 101","Sheriff",,"REP","Jim Stewart",1844,54,1533,257
+"Wilson","Box 102","Sheriff",,"REP","Jim Stewart",807,23,653,131
+"Wilson","Box 103","Sheriff",,"REP","Jim Stewart",883,29,676,178
+"Wilson","Box 104","Sheriff",,"REP","Jim Stewart",708,23,525,160
+"Wilson","Box 205","Sheriff",,"REP","Jim Stewart",1844,32,1288,524
+"Wilson","Box 206","Sheriff",,"REP","Jim Stewart",1063,47,868,148
+"Wilson","Box 207","Sheriff",,"REP","Jim Stewart",1792,42,1539,211
+"Wilson","Box 311","Sheriff",,"REP","Jim Stewart",1825,47,1573,205
+"Wilson","Box 312","Sheriff",,"REP","Jim Stewart",1788,31,1539,218
+"Wilson","Box 313","Sheriff",,"REP","Jim Stewart",2427,37,2008,382
+"Wilson","Box 414","Sheriff",,"REP","Jim Stewart",1910,32,1229,649
+"Wilson","Box 415","Sheriff",,"REP","Jim Stewart",2191,53,1835,303
+"Wilson","Box 416","Sheriff",,"REP","Jim Stewart",1354,40,1090,224
+"Wilson","Box 101","Sheriff",,"DEM","Emmanuel Fultz Sr.",798,45,594,159
+"Wilson","Box 102","Sheriff",,"DEM","Emmanuel Fultz Sr.",618,65,442,111
+"Wilson","Box 103","Sheriff",,"DEM","Emmanuel Fultz Sr.",434,57,289,88
+"Wilson","Box 104","Sheriff",,"DEM","Emmanuel Fultz Sr.",244,6,164,74
+"Wilson","Box 205","Sheriff",,"DEM","Emmanuel Fultz Sr.",368,19,252,97
+"Wilson","Box 206","Sheriff",,"DEM","Emmanuel Fultz Sr.",532,46,394,92
+"Wilson","Box 207","Sheriff",,"DEM","Emmanuel Fultz Sr.",624,31,509,84
+"Wilson","Box 311","Sheriff",,"DEM","Emmanuel Fultz Sr.",295,29,222,44
+"Wilson","Box 312","Sheriff",,"DEM","Emmanuel Fultz Sr.",325,25,251,49
+"Wilson","Box 313","Sheriff",,"DEM","Emmanuel Fultz Sr.",484,32,349,103
+"Wilson","Box 414","Sheriff",,"DEM","Emmanuel Fultz Sr.",285,36,150,99
+"Wilson","Box 415","Sheriff",,"DEM","Emmanuel Fultz Sr.",521,22,438,61
+"Wilson","Box 416","Sheriff",,"DEM","Emmanuel Fultz Sr.",293,17,227,49
+"Wilson","Box 101","Sheriff",,,"Over Votes",0,0,0,0
+"Wilson","Box 102","Sheriff",,,"Over Votes",0,0,0,0
+"Wilson","Box 103","Sheriff",,,"Over Votes",0,0,0,0
+"Wilson","Box 104","Sheriff",,,"Over Votes",0,0,0,0
+"Wilson","Box 205","Sheriff",,,"Over Votes",1,0,0,1
+"Wilson","Box 206","Sheriff",,,"Over Votes",1,0,1,0
+"Wilson","Box 207","Sheriff",,,"Over Votes",0,0,0,0
+"Wilson","Box 311","Sheriff",,,"Over Votes",0,0,0,0
+"Wilson","Box 312","Sheriff",,,"Over Votes",0,0,0,0
+"Wilson","Box 313","Sheriff",,,"Over Votes",0,0,0,0
+"Wilson","Box 414","Sheriff",,,"Over Votes",1,0,1,0
+"Wilson","Box 415","Sheriff",,,"Over Votes",0,0,0,0
+"Wilson","Box 416","Sheriff",,,"Over Votes",0,0,0,0
+"Wilson","Box 101","Sheriff",,,"Under Votes",114,6,92,16
+"Wilson","Box 102","Sheriff",,,"Under Votes",110,6,79,25
+"Wilson","Box 103","Sheriff",,,"Under Votes",72,4,52,16
+"Wilson","Box 104","Sheriff",,,"Under Votes",41,1,29,11
+"Wilson","Box 205","Sheriff",,,"Under Votes",91,7,59,25
+"Wilson","Box 206","Sheriff",,,"Under Votes",92,10,68,14
+"Wilson","Box 207","Sheriff",,,"Under Votes",123,1,104,18
+"Wilson","Box 311","Sheriff",,,"Under Votes",76,5,60,11
+"Wilson","Box 312","Sheriff",,,"Under Votes",70,5,52,13
+"Wilson","Box 313","Sheriff",,,"Under Votes",118,3,81,34
+"Wilson","Box 414","Sheriff",,,"Under Votes",84,7,45,32
+"Wilson","Box 415","Sheriff",,,"Under Votes",100,6,70,24
+"Wilson","Box 416","Sheriff",,,"Under Votes",65,2,47,16
+"Wilson","Box 101","County Tax Assessor-Collector",,"REP","Dawn Polasek Barnett",2108,60,1718,330
+"Wilson","Box 102","County Tax Assessor-Collector",,"REP","Dawn Polasek Barnett",1029,38,809,182
+"Wilson","Box 103","County Tax Assessor-Collector",,"REP","Dawn Polasek Barnett",983,36,739,208
+"Wilson","Box 104","County Tax Assessor-Collector",,"REP","Dawn Polasek Barnett",786,24,576,186
+"Wilson","Box 205","County Tax Assessor-Collector",,"REP","Dawn Polasek Barnett",1946,39,1347,560
+"Wilson","Box 206","County Tax Assessor-Collector",,"REP","Dawn Polasek Barnett",1254,57,1003,194
+"Wilson","Box 207","County Tax Assessor-Collector",,"REP","Dawn Polasek Barnett",1998,49,1699,250
+"Wilson","Box 311","County Tax Assessor-Collector",,"REP","Dawn Polasek Barnett",1907,55,1627,225
+"Wilson","Box 312","County Tax Assessor-Collector",,"REP","Dawn Polasek Barnett",1885,34,1612,239
+"Wilson","Box 313","County Tax Assessor-Collector",,"REP","Dawn Polasek Barnett",2537,42,2089,406
+"Wilson","Box 414","County Tax Assessor-Collector",,"REP","Dawn Polasek Barnett",1933,36,1233,664
+"Wilson","Box 415","County Tax Assessor-Collector",,"REP","Dawn Polasek Barnett",2339,52,1972,315
+"Wilson","Box 416","County Tax Assessor-Collector",,"REP","Dawn Polasek Barnett",1428,45,1143,240
+"Wilson","Box 101","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wilson","Box 102","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wilson","Box 103","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wilson","Box 104","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wilson","Box 205","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wilson","Box 206","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wilson","Box 207","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wilson","Box 311","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wilson","Box 312","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wilson","Box 313","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wilson","Box 414","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wilson","Box 415","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wilson","Box 416","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wilson","Box 101","County Tax Assessor-Collector",,,"Under Votes",648,45,501,102
+"Wilson","Box 102","County Tax Assessor-Collector",,,"Under Votes",506,56,365,85
+"Wilson","Box 103","County Tax Assessor-Collector",,,"Under Votes",406,54,278,74
+"Wilson","Box 104","County Tax Assessor-Collector",,,"Under Votes",207,6,142,59
+"Wilson","Box 205","County Tax Assessor-Collector",,,"Under Votes",358,19,252,87
+"Wilson","Box 206","County Tax Assessor-Collector",,,"Under Votes",434,46,328,60
+"Wilson","Box 207","County Tax Assessor-Collector",,,"Under Votes",541,25,453,63
+"Wilson","Box 311","County Tax Assessor-Collector",,,"Under Votes",289,26,228,35
+"Wilson","Box 312","County Tax Assessor-Collector",,,"Under Votes",298,27,230,41
+"Wilson","Box 313","County Tax Assessor-Collector",,,"Under Votes",492,30,349,113
+"Wilson","Box 414","County Tax Assessor-Collector",,,"Under Votes",347,39,192,116
+"Wilson","Box 415","County Tax Assessor-Collector",,,"Under Votes",473,29,371,73
+"Wilson","Box 416","County Tax Assessor-Collector",,,"Under Votes",284,14,221,49
