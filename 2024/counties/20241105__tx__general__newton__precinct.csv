@@ -1,0 +1,421 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day
+"Newton","1","Ballots Cast",,,,543,421,122
+"Newton","2","Ballots Cast",,,,241,157,84
+"Newton","3","Ballots Cast",,,,358,180,178
+"Newton","4","Ballots Cast",,,,145,96,49
+"Newton","5","Ballots Cast",,,,362,197,165
+"Newton","6","Ballots Cast",,,,529,386,143
+"Newton","7","Ballots Cast",,,,90,44,46
+"Newton","8","Ballots Cast",,,,259,146,113
+"Newton","9","Ballots Cast",,,,145,71,74
+"Newton","10","Ballots Cast",,,,301,214,87
+"Newton","11, 13, 21","Ballots Cast",,,,1231,966,265
+"Newton","12","Ballots Cast",,,,184,138,46
+"Newton","14","Ballots Cast",,,,172,64,108
+"Newton","15","Ballots Cast",,,,140,93,47
+"Newton","16","Ballots Cast",,,,269,145,124
+"Newton","17","Ballots Cast",,,,52,25,27
+"Newton","18","Ballots Cast",,,,181,71,110
+"Newton","19","Ballots Cast",,,,159,85,74
+"Newton","20","Ballots Cast",,,,97,45,52
+"Newton","22","Ballots Cast",,,,246,138,108
+"Newton","23","Ballots Cast",,,,98,69,29
+"Newton","1","President",,"REP","Donald Trump/JD Vance",470,363,107
+"Newton","2","President",,"REP","Donald Trump/JD Vance",205,131,74
+"Newton","3","President",,"REP","Donald Trump/JD Vance",334,172,162
+"Newton","4","President",,"REP","Donald Trump/JD Vance",118,85,33
+"Newton","5","President",,"REP","Donald Trump/JD Vance",332,182,150
+"Newton","6","President",,"REP","Donald Trump/JD Vance",358,274,84
+"Newton","7","President",,"REP","Donald Trump/JD Vance",71,37,34
+"Newton","8","President",,"REP","Donald Trump/JD Vance",196,121,75
+"Newton","9","President",,"REP","Donald Trump/JD Vance",111,57,54
+"Newton","10","President",,"REP","Donald Trump/JD Vance",274,198,76
+"Newton","11, 13, 21","President",,"REP","Donald Trump/JD Vance",1118,882,236
+"Newton","12","President",,"REP","Donald Trump/JD Vance",168,125,43
+"Newton","14","President",,"REP","Donald Trump/JD Vance",96,45,51
+"Newton","15","President",,"REP","Donald Trump/JD Vance",126,81,45
+"Newton","16","President",,"REP","Donald Trump/JD Vance",227,125,102
+"Newton","17","President",,"REP","Donald Trump/JD Vance",12,11,1
+"Newton","18","President",,"REP","Donald Trump/JD Vance",163,60,103
+"Newton","19","President",,"REP","Donald Trump/JD Vance",150,80,70
+"Newton","20","President",,"REP","Donald Trump/JD Vance",25,17,8
+"Newton","22","President",,"REP","Donald Trump/JD Vance",134,76,58
+"Newton","23","President",,"REP","Donald Trump/JD Vance",93,67,26
+"Newton","1","President",,"DEM","Kamala Harris/Tim Walz",67,52,15
+"Newton","2","President",,"DEM","Kamala Harris/Tim Walz",35,26,9
+"Newton","3","President",,"DEM","Kamala Harris/Tim Walz",22,8,14
+"Newton","4","President",,"DEM","Kamala Harris/Tim Walz",25,10,15
+"Newton","5","President",,"DEM","Kamala Harris/Tim Walz",28,14,14
+"Newton","6","President",,"DEM","Kamala Harris/Tim Walz",165,110,55
+"Newton","7","President",,"DEM","Kamala Harris/Tim Walz",17,6,11
+"Newton","8","President",,"DEM","Kamala Harris/Tim Walz",59,22,37
+"Newton","9","President",,"DEM","Kamala Harris/Tim Walz",34,14,20
+"Newton","10","President",,"DEM","Kamala Harris/Tim Walz",24,14,10
+"Newton","11, 13, 21","President",,"DEM","Kamala Harris/Tim Walz",97,73,24
+"Newton","12","President",,"DEM","Kamala Harris/Tim Walz",12,10,2
+"Newton","14","President",,"DEM","Kamala Harris/Tim Walz",71,17,54
+"Newton","15","President",,"DEM","Kamala Harris/Tim Walz",10,8,2
+"Newton","16","President",,"DEM","Kamala Harris/Tim Walz",41,19,22
+"Newton","17","President",,"DEM","Kamala Harris/Tim Walz",38,13,25
+"Newton","18","President",,"DEM","Kamala Harris/Tim Walz",15,11,4
+"Newton","19","President",,"DEM","Kamala Harris/Tim Walz",8,4,4
+"Newton","20","President",,"DEM","Kamala Harris/Tim Walz",71,28,43
+"Newton","22","President",,"DEM","Kamala Harris/Tim Walz",109,59,50
+"Newton","23","President",,"DEM","Kamala Harris/Tim Walz",4,1,3
+"Newton","1","President",,"LIB","Chase Oliver/Mike ter Maat",0,0,0
+"Newton","2","President",,"LIB","Chase Oliver/Mike ter Maat",0,0,0
+"Newton","3","President",,"LIB","Chase Oliver/Mike ter Maat",0,0,0
+"Newton","4","President",,"LIB","Chase Oliver/Mike ter Maat",1,1,0
+"Newton","5","President",,"LIB","Chase Oliver/Mike ter Maat",0,0,0
+"Newton","6","President",,"LIB","Chase Oliver/Mike ter Maat",0,0,0
+"Newton","7","President",,"LIB","Chase Oliver/Mike ter Maat",0,0,0
+"Newton","8","President",,"LIB","Chase Oliver/Mike ter Maat",0,0,0
+"Newton","9","President",,"LIB","Chase Oliver/Mike ter Maat",0,0,0
+"Newton","10","President",,"LIB","Chase Oliver/Mike ter Maat",0,0,0
+"Newton","11, 13, 21","President",,"LIB","Chase Oliver/Mike ter Maat",3,2,1
+"Newton","12","President",,"LIB","Chase Oliver/Mike ter Maat",0,0,0
+"Newton","14","President",,"LIB","Chase Oliver/Mike ter Maat",0,0,0
+"Newton","15","President",,"LIB","Chase Oliver/Mike ter Maat",0,0,0
+"Newton","16","President",,"LIB","Chase Oliver/Mike ter Maat",0,0,0
+"Newton","17","President",,"LIB","Chase Oliver/Mike ter Maat",0,0,0
+"Newton","18","President",,"LIB","Chase Oliver/Mike ter Maat",1,0,1
+"Newton","19","President",,"LIB","Chase Oliver/Mike ter Maat",0,0,0
+"Newton","20","President",,"LIB","Chase Oliver/Mike ter Maat",1,0,1
+"Newton","22","President",,"LIB","Chase Oliver/Mike ter Maat",1,1,0
+"Newton","23","President",,"LIB","Chase Oliver/Mike ter Maat",0,0,0
+"Newton","1","President",,"GRN","Jill Stein/Rudolph Ware",2,2,0
+"Newton","2","President",,"GRN","Jill Stein/Rudolph Ware",0,0,0
+"Newton","3","President",,"GRN","Jill Stein/Rudolph Ware",1,0,1
+"Newton","4","President",,"GRN","Jill Stein/Rudolph Ware",0,0,0
+"Newton","5","President",,"GRN","Jill Stein/Rudolph Ware",0,0,0
+"Newton","6","President",,"GRN","Jill Stein/Rudolph Ware",1,1,0
+"Newton","7","President",,"GRN","Jill Stein/Rudolph Ware",1,1,0
+"Newton","8","President",,"GRN","Jill Stein/Rudolph Ware",0,0,0
+"Newton","9","President",,"GRN","Jill Stein/Rudolph Ware",0,0,0
+"Newton","10","President",,"GRN","Jill Stein/Rudolph Ware",0,0,0
+"Newton","11, 13, 21","President",,"GRN","Jill Stein/Rudolph Ware",4,3,1
+"Newton","12","President",,"GRN","Jill Stein/Rudolph Ware",0,0,0
+"Newton","14","President",,"GRN","Jill Stein/Rudolph Ware",0,0,0
+"Newton","15","President",,"GRN","Jill Stein/Rudolph Ware",0,0,0
+"Newton","16","President",,"GRN","Jill Stein/Rudolph Ware",0,0,0
+"Newton","17","President",,"GRN","Jill Stein/Rudolph Ware",0,0,0
+"Newton","18","President",,"GRN","Jill Stein/Rudolph Ware",0,0,0
+"Newton","19","President",,"GRN","Jill Stein/Rudolph Ware",0,0,0
+"Newton","20","President",,"GRN","Jill Stein/Rudolph Ware",0,0,0
+"Newton","22","President",,"GRN","Jill Stein/Rudolph Ware",0,0,0
+"Newton","23","President",,"GRN","Jill Stein/Rudolph Ware",0,0,0
+"Newton","1","President",,,"Write-ins",0,0,0
+"Newton","2","President",,,"Write-ins",0,0,0
+"Newton","3","President",,,"Write-ins",0,0,0
+"Newton","4","President",,,"Write-ins",0,0,0
+"Newton","5","President",,,"Write-ins",0,0,0
+"Newton","6","President",,,"Write-ins",0,0,0
+"Newton","7","President",,,"Write-ins",0,0,0
+"Newton","8","President",,,"Write-ins",0,0,0
+"Newton","9","President",,,"Write-ins",0,0,0
+"Newton","10","President",,,"Write-ins",0,0,0
+"Newton","11, 13, 21","President",,,"Write-ins",0,0,0
+"Newton","12","President",,,"Write-ins",1,1,0
+"Newton","14","President",,,"Write-ins",0,0,0
+"Newton","15","President",,,"Write-ins",1,1,0
+"Newton","16","President",,,"Write-ins",0,0,0
+"Newton","17","President",,,"Write-ins",0,0,0
+"Newton","18","President",,,"Write-ins",0,0,0
+"Newton","19","President",,,"Write-ins",0,0,0
+"Newton","20","President",,,"Write-ins",0,0,0
+"Newton","22","President",,,"Write-ins",0,0,0
+"Newton","23","President",,,"Write-ins",0,0,0
+"Newton","1","U.S. Senate",,"REP","Ted Cruz",458,355,103
+"Newton","2","U.S. Senate",,"REP","Ted Cruz",202,129,73
+"Newton","3","U.S. Senate",,"REP","Ted Cruz",321,167,154
+"Newton","4","U.S. Senate",,"REP","Ted Cruz",121,86,35
+"Newton","5","U.S. Senate",,"REP","Ted Cruz",325,179,146
+"Newton","6","U.S. Senate",,"REP","Ted Cruz",342,262,80
+"Newton","7","U.S. Senate",,"REP","Ted Cruz",70,37,33
+"Newton","8","U.S. Senate",,"REP","Ted Cruz",195,123,72
+"Newton","9","U.S. Senate",,"REP","Ted Cruz",106,55,51
+"Newton","10","U.S. Senate",,"REP","Ted Cruz",268,192,76
+"Newton","11, 13, 21","U.S. Senate",,"REP","Ted Cruz",1073,853,220
+"Newton","12","U.S. Senate",,"REP","Ted Cruz",165,123,42
+"Newton","14","U.S. Senate",,"REP","Ted Cruz",95,46,49
+"Newton","15","U.S. Senate",,"REP","Ted Cruz",116,77,39
+"Newton","16","U.S. Senate",,"REP","Ted Cruz",228,125,103
+"Newton","17","U.S. Senate",,"REP","Ted Cruz",13,11,2
+"Newton","18","U.S. Senate",,"REP","Ted Cruz",158,59,99
+"Newton","19","U.S. Senate",,"REP","Ted Cruz",148,79,69
+"Newton","20","U.S. Senate",,"REP","Ted Cruz",25,17,8
+"Newton","22","U.S. Senate",,"REP","Ted Cruz",128,75,53
+"Newton","23","U.S. Senate",,"REP","Ted Cruz",93,67,26
+"Newton","1","U.S. Senate",,"DEM","Colin Allred",66,50,16
+"Newton","2","U.S. Senate",,"DEM","Colin Allred",36,26,10
+"Newton","3","U.S. Senate",,"DEM","Colin Allred",25,8,17
+"Newton","4","U.S. Senate",,"DEM","Colin Allred",21,8,13
+"Newton","5","U.S. Senate",,"DEM","Colin Allred",31,17,14
+"Newton","6","U.S. Senate",,"DEM","Colin Allred",170,115,55
+"Newton","7","U.S. Senate",,"DEM","Colin Allred",17,7,10
+"Newton","8","U.S. Senate",,"DEM","Colin Allred",62,22,40
+"Newton","9","U.S. Senate",,"DEM","Colin Allred",33,13,20
+"Newton","10","U.S. Senate",,"DEM","Colin Allred",26,17,9
+"Newton","11, 13, 21","U.S. Senate",,"DEM","Colin Allred",107,82,25
+"Newton","12","U.S. Senate",,"DEM","Colin Allred",14,11,3
+"Newton","14","U.S. Senate",,"DEM","Colin Allred",70,16,54
+"Newton","15","U.S. Senate",,"DEM","Colin Allred",14,13,1
+"Newton","16","U.S. Senate",,"DEM","Colin Allred",38,19,19
+"Newton","17","U.S. Senate",,"DEM","Colin Allred",35,12,23
+"Newton","18","U.S. Senate",,"DEM","Colin Allred",19,12,7
+"Newton","19","U.S. Senate",,"DEM","Colin Allred",8,5,3
+"Newton","20","U.S. Senate",,"DEM","Colin Allred",71,28,43
+"Newton","22","U.S. Senate",,"DEM","Colin Allred",105,56,49
+"Newton","23","U.S. Senate",,"DEM","Colin Allred",4,1,3
+"Newton","1","U.S. Senate",,"LIB","Ted Brown",7,6,1
+"Newton","2","U.S. Senate",,"LIB","Ted Brown",1,1,0
+"Newton","3","U.S. Senate",,"LIB","Ted Brown",4,2,2
+"Newton","4","U.S. Senate",,"LIB","Ted Brown",1,1,0
+"Newton","5","U.S. Senate",,"LIB","Ted Brown",2,0,2
+"Newton","6","U.S. Senate",,"LIB","Ted Brown",6,3,3
+"Newton","7","U.S. Senate",,"LIB","Ted Brown",0,0,0
+"Newton","8","U.S. Senate",,"LIB","Ted Brown",1,0,1
+"Newton","9","U.S. Senate",,"LIB","Ted Brown",1,0,1
+"Newton","10","U.S. Senate",,"LIB","Ted Brown",4,2,2
+"Newton","11, 13, 21","U.S. Senate",,"LIB","Ted Brown",25,17,8
+"Newton","12","U.S. Senate",,"LIB","Ted Brown",1,0,1
+"Newton","14","U.S. Senate",,"LIB","Ted Brown",2,1,1
+"Newton","15","U.S. Senate",,"LIB","Ted Brown",5,1,4
+"Newton","16","U.S. Senate",,"LIB","Ted Brown",1,1,0
+"Newton","17","U.S. Senate",,"LIB","Ted Brown",1,0,1
+"Newton","18","U.S. Senate",,"LIB","Ted Brown",0,0,0
+"Newton","19","U.S. Senate",,"LIB","Ted Brown",1,0,1
+"Newton","20","U.S. Senate",,"LIB","Ted Brown",1,0,1
+"Newton","22","U.S. Senate",,"LIB","Ted Brown",4,2,2
+"Newton","23","U.S. Senate",,"LIB","Ted Brown",0,0,0
+"Newton","1","U.S. Senate",,,"Write-ins",0,0,0
+"Newton","2","U.S. Senate",,,"Write-ins",0,0,0
+"Newton","3","U.S. Senate",,,"Write-ins",0,0,0
+"Newton","4","U.S. Senate",,,"Write-ins",0,0,0
+"Newton","5","U.S. Senate",,,"Write-ins",0,0,0
+"Newton","6","U.S. Senate",,,"Write-ins",0,0,0
+"Newton","7","U.S. Senate",,,"Write-ins",0,0,0
+"Newton","8","U.S. Senate",,,"Write-ins",0,0,0
+"Newton","9","U.S. Senate",,,"Write-ins",1,1,0
+"Newton","10","U.S. Senate",,,"Write-ins",0,0,0
+"Newton","11, 13, 21","U.S. Senate",,,"Write-ins",0,0,0
+"Newton","12","U.S. Senate",,,"Write-ins",0,0,0
+"Newton","14","U.S. Senate",,,"Write-ins",0,0,0
+"Newton","15","U.S. Senate",,,"Write-ins",0,0,0
+"Newton","16","U.S. Senate",,,"Write-ins",0,0,0
+"Newton","17","U.S. Senate",,,"Write-ins",0,0,0
+"Newton","18","U.S. Senate",,,"Write-ins",0,0,0
+"Newton","19","U.S. Senate",,,"Write-ins",0,0,0
+"Newton","20","U.S. Senate",,,"Write-ins",0,0,0
+"Newton","22","U.S. Senate",,,"Write-ins",1,0,1
+"Newton","23","U.S. Senate",,,"Write-ins",0,0,0
+"Newton","1","U.S. House","36","REP","Brian Babin",461,355,106
+"Newton","2","U.S. House","36","REP","Brian Babin",206,132,74
+"Newton","3","U.S. House","36","REP","Brian Babin",333,171,162
+"Newton","4","U.S. House","36","REP","Brian Babin",122,86,36
+"Newton","5","U.S. House","36","REP","Brian Babin",331,181,150
+"Newton","6","U.S. House","36","REP","Brian Babin",356,272,84
+"Newton","7","U.S. House","36","REP","Brian Babin",71,37,34
+"Newton","8","U.S. House","36","REP","Brian Babin",195,120,75
+"Newton","9","U.S. House","36","REP","Brian Babin",110,55,55
+"Newton","10","U.S. House","36","REP","Brian Babin",273,196,77
+"Newton","11, 13, 21","U.S. House","36","REP","Brian Babin",1105,876,229
+"Newton","12","U.S. House","36","REP","Brian Babin",170,126,44
+"Newton","14","U.S. House","36","REP","Brian Babin",92,42,50
+"Newton","15","U.S. House","36","REP","Brian Babin",121,81,40
+"Newton","16","U.S. House","36","REP","Brian Babin",226,125,101
+"Newton","17","U.S. House","36","REP","Brian Babin",13,10,3
+"Newton","18","U.S. House","36","REP","Brian Babin",161,61,100
+"Newton","19","U.S. House","36","REP","Brian Babin",148,79,69
+"Newton","20","U.S. House","36","REP","Brian Babin",22,16,6
+"Newton","22","U.S. House","36","REP","Brian Babin",140,80,60
+"Newton","23","U.S. House","36","REP","Brian Babin",93,67,26
+"Newton","1","U.S. House","36","DEM","Dayna Steele",59,46,13
+"Newton","2","U.S. House","36","DEM","Dayna Steele",31,24,7
+"Newton","3","U.S. House","36","DEM","Dayna Steele",19,6,13
+"Newton","4","U.S. House","36","DEM","Dayna Steele",21,9,12
+"Newton","5","U.S. House","36","DEM","Dayna Steele",26,13,13
+"Newton","6","U.S. House","36","DEM","Dayna Steele",158,104,54
+"Newton","7","U.S. House","36","DEM","Dayna Steele",16,6,10
+"Newton","8","U.S. House","36","DEM","Dayna Steele",57,22,35
+"Newton","9","U.S. House","36","DEM","Dayna Steele",31,14,17
+"Newton","10","U.S. House","36","DEM","Dayna Steele",26,16,10
+"Newton","11, 13, 21","U.S. House","36","DEM","Dayna Steele",96,74,22
+"Newton","12","U.S. House","36","DEM","Dayna Steele",11,9,2
+"Newton","14","U.S. House","36","DEM","Dayna Steele",69,17,52
+"Newton","15","U.S. House","36","DEM","Dayna Steele",11,10,1
+"Newton","16","U.S. House","36","DEM","Dayna Steele",35,17,18
+"Newton","17","U.S. House","36","DEM","Dayna Steele",35,13,22
+"Newton","18","U.S. House","36","DEM","Dayna Steele",15,10,5
+"Newton","19","U.S. House","36","DEM","Dayna Steele",8,5,3
+"Newton","20","U.S. House","36","DEM","Dayna Steele",72,28,44
+"Newton","22","U.S. House","36","DEM","Dayna Steele",98,53,45
+"Newton","23","U.S. House","36","DEM","Dayna Steele",3,0,3
+"Newton","1","Railroad Commissioner",,"REP","Christi Craddick",446,349,97
+"Newton","2","Railroad Commissioner",,"REP","Christi Craddick",201,131,70
+"Newton","3","Railroad Commissioner",,"REP","Christi Craddick",310,159,151
+"Newton","4","Railroad Commissioner",,"REP","Christi Craddick",113,83,30
+"Newton","5","Railroad Commissioner",,"REP","Christi Craddick",324,177,147
+"Newton","6","Railroad Commissioner",,"REP","Christi Craddick",335,260,75
+"Newton","7","Railroad Commissioner",,"REP","Christi Craddick",70,37,33
+"Newton","8","Railroad Commissioner",,"REP","Christi Craddick",192,119,73
+"Newton","9","Railroad Commissioner",,"REP","Christi Craddick",101,51,50
+"Newton","10","Railroad Commissioner",,"REP","Christi Craddick",267,196,71
+"Newton","11, 13, 21","Railroad Commissioner",,"REP","Christi Craddick",1035,831,204
+"Newton","12","Railroad Commissioner",,"REP","Christi Craddick",158,117,41
+"Newton","14","Railroad Commissioner",,"REP","Christi Craddick",93,44,49
+"Newton","15","Railroad Commissioner",,"REP","Christi Craddick",114,76,38
+"Newton","16","Railroad Commissioner",,"REP","Christi Craddick",216,121,95
+"Newton","17","Railroad Commissioner",,"REP","Christi Craddick",9,8,1
+"Newton","18","Railroad Commissioner",,"REP","Christi Craddick",154,59,95
+"Newton","19","Railroad Commissioner",,"REP","Christi Craddick",144,78,66
+"Newton","20","Railroad Commissioner",,"REP","Christi Craddick",17,13,4
+"Newton","22","Railroad Commissioner",,"REP","Christi Craddick",130,75,55
+"Newton","23","Railroad Commissioner",,"REP","Christi Craddick",90,64,26
+"Newton","1","Railroad Commissioner",,"DEM","Katherine Culbert",58,45,13
+"Newton","2","Railroad Commissioner",,"DEM","Katherine Culbert",30,22,8
+"Newton","3","Railroad Commissioner",,"DEM","Katherine Culbert",20,7,13
+"Newton","4","Railroad Commissioner",,"DEM","Katherine Culbert",19,8,11
+"Newton","5","Railroad Commissioner",,"DEM","Katherine Culbert",24,13,11
+"Newton","6","Railroad Commissioner",,"DEM","Katherine Culbert",156,102,54
+"Newton","7","Railroad Commissioner",,"DEM","Katherine Culbert",14,6,8
+"Newton","8","Railroad Commissioner",,"DEM","Katherine Culbert",57,24,33
+"Newton","9","Railroad Commissioner",,"DEM","Katherine Culbert",32,15,17
+"Newton","10","Railroad Commissioner",,"DEM","Katherine Culbert",23,13,10
+"Newton","11, 13, 21","Railroad Commissioner",,"DEM","Katherine Culbert",82,65,17
+"Newton","12","Railroad Commissioner",,"DEM","Katherine Culbert",13,9,4
+"Newton","14","Railroad Commissioner",,"DEM","Katherine Culbert",67,16,51
+"Newton","15","Railroad Commissioner",,"DEM","Katherine Culbert",11,10,1
+"Newton","16","Railroad Commissioner",,"DEM","Katherine Culbert",36,16,20
+"Newton","17","Railroad Commissioner",,"DEM","Katherine Culbert",33,9,24
+"Newton","18","Railroad Commissioner",,"DEM","Katherine Culbert",17,10,7
+"Newton","19","Railroad Commissioner",,"DEM","Katherine Culbert",7,4,3
+"Newton","20","Railroad Commissioner",,"DEM","Katherine Culbert",73,28,45
+"Newton","22","Railroad Commissioner",,"DEM","Katherine Culbert",97,54,43
+"Newton","23","Railroad Commissioner",,"DEM","Katherine Culbert",3,0,3
+"Newton","1","Railroad Commissioner",,"LIB","Hawk Dunlap",11,10,1
+"Newton","2","Railroad Commissioner",,"LIB","Hawk Dunlap",2,1,1
+"Newton","3","Railroad Commissioner",,"LIB","Hawk Dunlap",9,5,4
+"Newton","4","Railroad Commissioner",,"LIB","Hawk Dunlap",6,4,2
+"Newton","5","Railroad Commissioner",,"LIB","Hawk Dunlap",6,1,5
+"Newton","6","Railroad Commissioner",,"LIB","Hawk Dunlap",7,2,5
+"Newton","7","Railroad Commissioner",,"LIB","Hawk Dunlap",1,0,1
+"Newton","8","Railroad Commissioner",,"LIB","Hawk Dunlap",4,0,4
+"Newton","9","Railroad Commissioner",,"LIB","Hawk Dunlap",1,0,1
+"Newton","10","Railroad Commissioner",,"LIB","Hawk Dunlap",4,1,3
+"Newton","11, 13, 21","Railroad Commissioner",,"LIB","Hawk Dunlap",33,24,9
+"Newton","12","Railroad Commissioner",,"LIB","Hawk Dunlap",3,3,0
+"Newton","14","Railroad Commissioner",,"LIB","Hawk Dunlap",1,0,1
+"Newton","15","Railroad Commissioner",,"LIB","Hawk Dunlap",6,2,4
+"Newton","16","Railroad Commissioner",,"LIB","Hawk Dunlap",5,4,1
+"Newton","17","Railroad Commissioner",,"LIB","Hawk Dunlap",1,1,0
+"Newton","18","Railroad Commissioner",,"LIB","Hawk Dunlap",2,2,0
+"Newton","19","Railroad Commissioner",,"LIB","Hawk Dunlap",3,2,1
+"Newton","20","Railroad Commissioner",,"LIB","Hawk Dunlap",3,3,0
+"Newton","22","Railroad Commissioner",,"LIB","Hawk Dunlap",6,3,3
+"Newton","23","Railroad Commissioner",,"LIB","Hawk Dunlap",0,0,0
+"Newton","1","Railroad Commissioner",,"GRN","Eddie Espinoza",3,1,2
+"Newton","2","Railroad Commissioner",,"GRN","Eddie Espinoza",2,0,2
+"Newton","3","Railroad Commissioner",,"GRN","Eddie Espinoza",1,0,1
+"Newton","4","Railroad Commissioner",,"GRN","Eddie Espinoza",1,0,1
+"Newton","5","Railroad Commissioner",,"GRN","Eddie Espinoza",1,1,0
+"Newton","6","Railroad Commissioner",,"GRN","Eddie Espinoza",4,3,1
+"Newton","7","Railroad Commissioner",,"GRN","Eddie Espinoza",1,0,1
+"Newton","8","Railroad Commissioner",,"GRN","Eddie Espinoza",0,0,0
+"Newton","9","Railroad Commissioner",,"GRN","Eddie Espinoza",0,0,0
+"Newton","10","Railroad Commissioner",,"GRN","Eddie Espinoza",1,1,0
+"Newton","11, 13, 21","Railroad Commissioner",,"GRN","Eddie Espinoza",11,8,3
+"Newton","12","Railroad Commissioner",,"GRN","Eddie Espinoza",1,0,1
+"Newton","14","Railroad Commissioner",,"GRN","Eddie Espinoza",0,0,0
+"Newton","15","Railroad Commissioner",,"GRN","Eddie Espinoza",0,0,0
+"Newton","16","Railroad Commissioner",,"GRN","Eddie Espinoza",0,0,0
+"Newton","17","Railroad Commissioner",,"GRN","Eddie Espinoza",1,1,0
+"Newton","18","Railroad Commissioner",,"GRN","Eddie Espinoza",0,0,0
+"Newton","19","Railroad Commissioner",,"GRN","Eddie Espinoza",0,0,0
+"Newton","20","Railroad Commissioner",,"GRN","Eddie Espinoza",1,1,0
+"Newton","22","Railroad Commissioner",,"GRN","Eddie Espinoza",0,0,0
+"Newton","23","Railroad Commissioner",,"GRN","Eddie Espinoza",0,0,0
+"Newton","1","Railroad Commissioner",,,"Write-ins",1,0,1
+"Newton","2","Railroad Commissioner",,,"Write-ins",0,0,0
+"Newton","3","Railroad Commissioner",,,"Write-ins",0,0,0
+"Newton","4","Railroad Commissioner",,,"Write-ins",0,0,0
+"Newton","5","Railroad Commissioner",,,"Write-ins",0,0,0
+"Newton","6","Railroad Commissioner",,,"Write-ins",0,0,0
+"Newton","7","Railroad Commissioner",,,"Write-ins",0,0,0
+"Newton","8","Railroad Commissioner",,,"Write-ins",0,0,0
+"Newton","9","Railroad Commissioner",,,"Write-ins",0,0,0
+"Newton","10","Railroad Commissioner",,,"Write-ins",0,0,0
+"Newton","11, 13, 21","Railroad Commissioner",,,"Write-ins",0,0,0
+"Newton","12","Railroad Commissioner",,,"Write-ins",0,0,0
+"Newton","14","Railroad Commissioner",,,"Write-ins",0,0,0
+"Newton","15","Railroad Commissioner",,,"Write-ins",0,0,0
+"Newton","16","Railroad Commissioner",,,"Write-ins",0,0,0
+"Newton","17","Railroad Commissioner",,,"Write-ins",0,0,0
+"Newton","18","Railroad Commissioner",,,"Write-ins",0,0,0
+"Newton","19","Railroad Commissioner",,,"Write-ins",0,0,0
+"Newton","20","Railroad Commissioner",,,"Write-ins",0,0,0
+"Newton","22","Railroad Commissioner",,,"Write-ins",0,0,0
+"Newton","23","Railroad Commissioner",,,"Write-ins",0,0,0
+"Newton","1","State Representative","11","REP","Joanne Shofner",454,350,104
+"Newton","2","State Representative","11","REP","Joanne Shofner",201,130,71
+"Newton","3","State Representative","11","REP","Joanne Shofner",323,163,160
+"Newton","4","State Representative","11","REP","Joanne Shofner",121,86,35
+"Newton","5","State Representative","11","REP","Joanne Shofner",331,182,149
+"Newton","6","State Representative","11","REP","Joanne Shofner",379,279,100
+"Newton","7","State Representative","11","REP","Joanne Shofner",70,32,38
+"Newton","8","State Representative","11","REP","Joanne Shofner",216,129,87
+"Newton","9","State Representative","11","REP","Joanne Shofner",112,55,57
+"Newton","10","State Representative","11","REP","Joanne Shofner",279,199,80
+"Newton","11, 13, 21","State Representative","11","REP","Joanne Shofner",1100,874,226
+"Newton","12","State Representative","11","REP","Joanne Shofner",164,119,45
+"Newton","14","State Representative","11","REP","Joanne Shofner",105,49,56
+"Newton","15","State Representative","11","REP","Joanne Shofner",118,82,36
+"Newton","16","State Representative","11","REP","Joanne Shofner",231,131,100
+"Newton","17","State Representative","11","REP","Joanne Shofner",19,10,9
+"Newton","18","State Representative","11","REP","Joanne Shofner",159,61,98
+"Newton","19","State Representative","11","REP","Joanne Shofner",146,80,66
+"Newton","20","State Representative","11","REP","Joanne Shofner",31,23,8
+"Newton","22","State Representative","11","REP","Joanne Shofner",166,96,70
+"Newton","23","State Representative","11","REP","Joanne Shofner",87,59,28
+"Newton","1","Sheriff",,"REP","Colton Havard",443,344,99
+"Newton","2","Sheriff",,"REP","Colton Havard",198,128,70
+"Newton","3","Sheriff",,"REP","Colton Havard",312,157,155
+"Newton","4","Sheriff",,"REP","Colton Havard",125,87,38
+"Newton","5","Sheriff",,"REP","Colton Havard",327,176,151
+"Newton","6","Sheriff",,"REP","Colton Havard",361,262,99
+"Newton","7","Sheriff",,"REP","Colton Havard",63,31,32
+"Newton","8","Sheriff",,"REP","Colton Havard",207,121,86
+"Newton","9","Sheriff",,"REP","Colton Havard",109,55,54
+"Newton","10","Sheriff",,"REP","Colton Havard",278,198,80
+"Newton","11, 13, 21","Sheriff",,"REP","Colton Havard",1078,860,218
+"Newton","12","Sheriff",,"REP","Colton Havard",157,116,41
+"Newton","14","Sheriff",,"REP","Colton Havard",105,46,59
+"Newton","15","Sheriff",,"REP","Colton Havard",111,79,32
+"Newton","16","Sheriff",,"REP","Colton Havard",239,132,107
+"Newton","17","Sheriff",,"REP","Colton Havard",19,13,6
+"Newton","18","Sheriff",,"REP","Colton Havard",149,58,91
+"Newton","19","Sheriff",,"REP","Colton Havard",145,80,65
+"Newton","20","Sheriff",,"REP","Colton Havard",23,17,6
+"Newton","22","Sheriff",,"REP","Colton Havard",174,102,72
+"Newton","23","Sheriff",,"REP","Colton Havard",88,61,27
+"Newton","1","County Tax Assessor-Collector",,"REP","Melissa Burks",430,336,94
+"Newton","2","County Tax Assessor-Collector",,"REP","Melissa Burks",186,124,62
+"Newton","3","County Tax Assessor-Collector",,"REP","Melissa Burks",312,163,149
+"Newton","4","County Tax Assessor-Collector",,"REP","Melissa Burks",125,85,40
+"Newton","5","County Tax Assessor-Collector",,"REP","Melissa Burks",313,172,141
+"Newton","6","County Tax Assessor-Collector",,"REP","Melissa Burks",378,275,103
+"Newton","7","County Tax Assessor-Collector",,"REP","Melissa Burks",63,32,31
+"Newton","8","County Tax Assessor-Collector",,"REP","Melissa Burks",213,121,92
+"Newton","9","County Tax Assessor-Collector",,"REP","Melissa Burks",112,56,56
+"Newton","10","County Tax Assessor-Collector",,"REP","Melissa Burks",276,198,78
+"Newton","11, 13, 21","County Tax Assessor-Collector",,"REP","Melissa Burks",1085,862,223
+"Newton","12","County Tax Assessor-Collector",,"REP","Melissa Burks",158,118,40
+"Newton","14","County Tax Assessor-Collector",,"REP","Melissa Burks",110,46,64
+"Newton","15","County Tax Assessor-Collector",,"REP","Melissa Burks",111,76,35
+"Newton","16","County Tax Assessor-Collector",,"REP","Melissa Burks",234,130,104
+"Newton","17","County Tax Assessor-Collector",,"REP","Melissa Burks",25,14,11
+"Newton","18","County Tax Assessor-Collector",,"REP","Melissa Burks",151,58,93
+"Newton","19","County Tax Assessor-Collector",,"REP","Melissa Burks",138,76,62
+"Newton","20","County Tax Assessor-Collector",,"REP","Melissa Burks",41,31,10
+"Newton","22","County Tax Assessor-Collector",,"REP","Melissa Burks",179,105,74
+"Newton","23","County Tax Assessor-Collector",,"REP","Melissa Burks",84,55,29

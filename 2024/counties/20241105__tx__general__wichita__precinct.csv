@@ -1,0 +1,1801 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+"Wichita","101","President",,"REP","DONALD J. TRUMP/JD VANCE",180,3,144,33
+"Wichita","101","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",36,3,29,4
+"Wichita","101","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",1,0,0,1
+"Wichita","101","President",,"GRN","JILL STEIN/RUDOLPH WARE",2,0,2,0
+"Wichita","101","President",,,"Write-ins",0,0,0,0
+"Wichita","101","President",,,"Under Votes",1,0,1,0
+"Wichita","101","President",,,"Over Votes",0,0,0,0
+"Wichita","101","U.S. Senate",,"REP","TED CRUZ",177,3,142,32
+"Wichita","101","U.S. Senate",,"DEM","COLIN ALLRED",42,3,33,6
+"Wichita","101","U.S. Senate",,"LIB","TED BROWN",0,0,0,0
+"Wichita","101","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","101","U.S. Senate",,,"Under Votes",1,0,1,0
+"Wichita","101","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","101","U.S. House","13","REP","RONNY JACKSON",195,4,155,36
+"Wichita","101","U.S. House","13",,"Under Votes",25,2,21,2
+"Wichita","101","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","101","Railroad Commissioner",,"REP","CHRISTI CRADDICK",173,3,138,32
+"Wichita","101","Railroad Commissioner",,"DEM","KATHERINE CULBERT",30,2,27,1
+"Wichita","101","Railroad Commissioner",,"LIB","HAWK DUNLAP",7,0,3,4
+"Wichita","101","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",2,0,2,0
+"Wichita","101","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","101","Railroad Commissioner",,,"Under Votes",8,1,6,1
+"Wichita","101","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","101","State Representative","69","REP","JAMES B FRANK",182,4,144,34
+"Wichita","101","State Representative","69","DEM","WALTER COPPAGE",33,1,28,4
+"Wichita","101","State Representative","69",,"Under Votes",5,1,4,0
+"Wichita","101","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","101","Sheriff",,"REP","DAVID DUKE",191,4,151,36
+"Wichita","101","Sheriff",,,"Under Votes",29,2,25,2
+"Wichita","101","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","101","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",192,4,152,36
+"Wichita","101","County Tax Assessor-Collector",,,"Under Votes",28,2,24,2
+"Wichita","101","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","102-CTYW1","President",,"REP","DONALD J. TRUMP/JD VANCE",505,12,416,77
+"Wichita","102-CTYW1","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",218,17,168,33
+"Wichita","102-CTYW1","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",5,1,3,1
+"Wichita","102-CTYW1","President",,"GRN","JILL STEIN/RUDOLPH WARE",3,0,1,2
+"Wichita","102-CTYW1","President",,,"Write-ins",0,0,0,0
+"Wichita","102-CTYW1","President",,,"Under Votes",8,0,6,2
+"Wichita","102-CTYW1","President",,,"Over Votes",0,0,0,0
+"Wichita","102-CTYW1","U.S. Senate",,"REP","TED CRUZ",504,11,417,76
+"Wichita","102-CTYW1","U.S. Senate",,"DEM","COLIN ALLRED",217,16,167,34
+"Wichita","102-CTYW1","U.S. Senate",,"LIB","TED BROWN",14,3,7,4
+"Wichita","102-CTYW1","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","102-CTYW1","U.S. Senate",,,"Under Votes",4,0,3,1
+"Wichita","102-CTYW1","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","102-CTYW1","U.S. House","13","REP","RONNY JACKSON",550,15,453,82
+"Wichita","102-CTYW1","U.S. House","13",,"Under Votes",189,15,141,33
+"Wichita","102-CTYW1","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","102-CTYW1","Railroad Commissioner",,"REP","CHRISTI CRADDICK",490,12,404,74
+"Wichita","102-CTYW1","Railroad Commissioner",,"DEM","KATHERINE CULBERT",192,13,150,29
+"Wichita","102-CTYW1","Railroad Commissioner",,"LIB","HAWK DUNLAP",19,4,12,3
+"Wichita","102-CTYW1","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",8,0,5,3
+"Wichita","102-CTYW1","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","102-CTYW1","Railroad Commissioner",,,"Under Votes",30,1,23,6
+"Wichita","102-CTYW1","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","102-CTYW1","State Senate","30","REP","BRENT HAGENBUCH",507,12,417,78
+"Wichita","102-CTYW1","State Senate","30","DEM","DALE FREY",200,15,155,30
+"Wichita","102-CTYW1","State Senate","30",,"Under Votes",32,3,22,7
+"Wichita","102-CTYW1","State Senate","30",,"Over Votes",0,0,0,0
+"Wichita","102-CTYW1","State Representative","69","REP","JAMES B FRANK",514,15,418,81
+"Wichita","102-CTYW1","State Representative","69","DEM","WALTER COPPAGE",198,12,156,30
+"Wichita","102-CTYW1","State Representative","69",,"Under Votes",27,3,20,4
+"Wichita","102-CTYW1","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","102-CTYW1","Sheriff",,"REP","DAVID DUKE",569,18,459,92
+"Wichita","102-CTYW1","Sheriff",,,"Under Votes",170,12,135,23
+"Wichita","102-CTYW1","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","102-CTYW1","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",568,18,461,89
+"Wichita","102-CTYW1","County Tax Assessor-Collector",,,"Under Votes",171,12,133,26
+"Wichita","102-CTYW1","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","103-CTYW","President",,"REP","DONALD J. TRUMP/JD VANCE",2555,49,1973,533
+"Wichita","103-CTYW","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",915,39,674,202
+"Wichita","103-CTYW","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",23,1,11,11
+"Wichita","103-CTYW","President",,"GRN","JILL STEIN/RUDOLPH WARE",8,0,6,2
+"Wichita","103-CTYW","President",,,"Write-ins",3,1,0,2
+"Wichita","103-CTYW","President",,,"Under Votes",17,0,13,4
+"Wichita","103-CTYW","President",,,"Over Votes",0,0,0,0
+"Wichita","103-CTYW","U.S. Senate",,"REP","TED CRUZ",2495,49,1947,499
+"Wichita","103-CTYW","U.S. Senate",,"DEM","COLIN ALLRED",928,38,671,219
+"Wichita","103-CTYW","U.S. Senate",,"LIB","TED BROWN",70,0,38,32
+"Wichita","103-CTYW","U.S. Senate",,,"Write-ins",2,1,1,0
+"Wichita","103-CTYW","U.S. Senate",,,"Under Votes",26,2,20,4
+"Wichita","103-CTYW","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","103-CTYW","U.S. House","13","REP","RONNY JACKSON",2857,56,2176,625
+"Wichita","103-CTYW","U.S. House","13",,"Under Votes",664,34,501,129
+"Wichita","103-CTYW","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","103-CTYW","Railroad Commissioner",,"REP","CHRISTI CRADDICK",2438,45,1911,482
+"Wichita","103-CTYW","Railroad Commissioner",,"DEM","KATHERINE CULBERT",745,31,553,161
+"Wichita","103-CTYW","Railroad Commissioner",,"LIB","HAWK DUNLAP",109,0,73,36
+"Wichita","103-CTYW","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",59,1,37,21
+"Wichita","103-CTYW","Railroad Commissioner",,,"Write-ins",1,1,0,0
+"Wichita","103-CTYW","Railroad Commissioner",,,"Under Votes",169,12,103,54
+"Wichita","103-CTYW","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","103-CTYW","State Representative","69","REP","JAMES B FRANK",2554,47,1984,523
+"Wichita","103-CTYW","State Representative","69","DEM","WALTER COPPAGE",816,31,597,188
+"Wichita","103-CTYW","State Representative","69",,"Under Votes",151,12,96,43
+"Wichita","103-CTYW","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","103-CTYW","Sheriff",,"REP","DAVID DUKE",2847,52,2188,607
+"Wichita","103-CTYW","Sheriff",,,"Under Votes",674,38,489,147
+"Wichita","103-CTYW","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","103-CTYW","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",2870,54,2205,611
+"Wichita","103-CTYW","County Tax Assessor-Collector",,,"Under Votes",651,36,472,143
+"Wichita","103-CTYW","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","104-CTYW","President",,"REP","DONALD J. TRUMP/JD VANCE",1539,47,1295,197
+"Wichita","104-CTYW","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",644,68,478,98
+"Wichita","104-CTYW","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",12,1,7,4
+"Wichita","104-CTYW","President",,"GRN","JILL STEIN/RUDOLPH WARE",7,0,3,4
+"Wichita","104-CTYW","President",,,"Write-ins",4,0,3,1
+"Wichita","104-CTYW","President",,,"Under Votes",22,2,15,5
+"Wichita","104-CTYW","President",,,"Over Votes",0,0,0,0
+"Wichita","104-CTYW","U.S. Senate",,"REP","TED CRUZ",1527,49,1292,186
+"Wichita","104-CTYW","U.S. Senate",,"DEM","COLIN ALLRED",651,65,477,109
+"Wichita","104-CTYW","U.S. Senate",,"LIB","TED BROWN",33,1,22,10
+"Wichita","104-CTYW","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","104-CTYW","U.S. Senate",,,"Under Votes",17,3,10,4
+"Wichita","104-CTYW","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","104-CTYW","U.S. House","13","REP","RONNY JACKSON",1726,58,1430,238
+"Wichita","104-CTYW","U.S. House","13",,"Under Votes",502,60,371,71
+"Wichita","104-CTYW","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","104-CTYW","Railroad Commissioner",,"REP","CHRISTI CRADDICK",1518,48,1284,186
+"Wichita","104-CTYW","Railroad Commissioner",,"DEM","KATHERINE CULBERT",535,53,401,81
+"Wichita","104-CTYW","Railroad Commissioner",,"LIB","HAWK DUNLAP",45,3,29,13
+"Wichita","104-CTYW","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",26,1,15,10
+"Wichita","104-CTYW","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","104-CTYW","Railroad Commissioner",,,"Under Votes",104,13,72,19
+"Wichita","104-CTYW","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","104-CTYW","State Senate","30","REP","BRENT HAGENBUCH",1552,47,1308,197
+"Wichita","104-CTYW","State Senate","30","DEM","DALE FREY",576,52,432,92
+"Wichita","104-CTYW","State Senate","30",,"Under Votes",100,19,61,20
+"Wichita","104-CTYW","State Senate","30",,"Over Votes",0,0,0,0
+"Wichita","104-CTYW","State Representative","69","REP","JAMES B FRANK",1558,58,1305,195
+"Wichita","104-CTYW","State Representative","69","DEM","WALTER COPPAGE",592,49,444,99
+"Wichita","104-CTYW","State Representative","69",,"Under Votes",78,11,52,15
+"Wichita","104-CTYW","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","104-CTYW","Sheriff",,"REP","DAVID DUKE",1728,64,1429,235
+"Wichita","104-CTYW","Sheriff",,,"Under Votes",500,54,372,74
+"Wichita","104-CTYW","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","104-CTYW","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",1756,67,1450,239
+"Wichita","104-CTYW","County Tax Assessor-Collector",,,"Under Votes",472,51,351,70
+"Wichita","104-CTYW","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","105","President",,"REP","DONALD J. TRUMP/JD VANCE",664,13,456,195
+"Wichita","105","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",73,1,42,30
+"Wichita","105","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",3,0,1,2
+"Wichita","105","President",,"GRN","JILL STEIN/RUDOLPH WARE",0,0,0,0
+"Wichita","105","President",,,"Write-ins",0,0,0,0
+"Wichita","105","President",,,"Under Votes",3,0,2,1
+"Wichita","105","President",,,"Over Votes",0,0,0,0
+"Wichita","105","U.S. Senate",,"REP","TED CRUZ",636,13,442,181
+"Wichita","105","U.S. Senate",,"DEM","COLIN ALLRED",85,1,48,36
+"Wichita","105","U.S. Senate",,"LIB","TED BROWN",13,0,6,7
+"Wichita","105","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","105","U.S. Senate",,,"Under Votes",9,0,5,4
+"Wichita","105","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","105","U.S. House","13","REP","RONNY JACKSON",677,11,462,204
+"Wichita","105","U.S. House","13",,"Under Votes",66,3,39,24
+"Wichita","105","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","105","Railroad Commissioner",,"REP","CHRISTI CRADDICK",613,14,424,175
+"Wichita","105","Railroad Commissioner",,"DEM","KATHERINE CULBERT",63,0,38,25
+"Wichita","105","Railroad Commissioner",,"LIB","HAWK DUNLAP",34,0,17,17
+"Wichita","105","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",5,0,5,0
+"Wichita","105","Railroad Commissioner",,,"Write-ins",1,0,0,1
+"Wichita","105","Railroad Commissioner",,,"Under Votes",27,0,17,10
+"Wichita","105","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","105","State Representative","69","REP","JAMES B FRANK",640,13,438,189
+"Wichita","105","State Representative","69","DEM","WALTER COPPAGE",79,1,48,30
+"Wichita","105","State Representative","69",,"Under Votes",24,0,15,9
+"Wichita","105","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","105","Sheriff",,"REP","DAVID DUKE",667,11,459,197
+"Wichita","105","Sheriff",,,"Under Votes",76,3,42,31
+"Wichita","105","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","105","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",668,12,453,203
+"Wichita","105","County Tax Assessor-Collector",,,"Under Votes",75,2,48,25
+"Wichita","105","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","106","President",,"REP","DONALD J. TRUMP/JD VANCE",20,1,14,5
+"Wichita","106","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",0,0,0,0
+"Wichita","106","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",0,0,0,0
+"Wichita","106","President",,"GRN","JILL STEIN/RUDOLPH WARE",0,0,0,0
+"Wichita","106","President",,,"Write-ins",0,0,0,0
+"Wichita","106","President",,,"Under Votes",0,0,0,0
+"Wichita","106","President",,,"Over Votes",0,0,0,0
+"Wichita","106","U.S. Senate",,"REP","TED CRUZ",20,1,14,5
+"Wichita","106","U.S. Senate",,"DEM","COLIN ALLRED",0,0,0,0
+"Wichita","106","U.S. Senate",,"LIB","TED BROWN",0,0,0,0
+"Wichita","106","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","106","U.S. Senate",,,"Under Votes",0,0,0,0
+"Wichita","106","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","106","U.S. House","13","REP","RONNY JACKSON",20,1,14,5
+"Wichita","106","U.S. House","13",,"Under Votes",0,0,0,0
+"Wichita","106","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","106","Railroad Commissioner",,"REP","CHRISTI CRADDICK",19,1,13,5
+"Wichita","106","Railroad Commissioner",,"DEM","KATHERINE CULBERT",0,0,0,0
+"Wichita","106","Railroad Commissioner",,"LIB","HAWK DUNLAP",1,0,1,0
+"Wichita","106","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",0,0,0,0
+"Wichita","106","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","106","Railroad Commissioner",,,"Under Votes",0,0,0,0
+"Wichita","106","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","106","State Senate","30","REP","BRENT HAGENBUCH",20,1,14,5
+"Wichita","106","State Senate","30","DEM","DALE FREY",0,0,0,0
+"Wichita","106","State Senate","30",,"Under Votes",0,0,0,0
+"Wichita","106","State Senate","30",,"Over Votes",0,0,0,0
+"Wichita","106","State Representative","69","REP","JAMES B FRANK",18,1,12,5
+"Wichita","106","State Representative","69","DEM","WALTER COPPAGE",2,0,2,0
+"Wichita","106","State Representative","69",,"Under Votes",0,0,0,0
+"Wichita","106","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","106","Sheriff",,"REP","DAVID DUKE",20,1,14,5
+"Wichita","106","Sheriff",,,"Under Votes",0,0,0,0
+"Wichita","106","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","106","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",20,1,14,5
+"Wichita","106","County Tax Assessor-Collector",,,"Under Votes",0,0,0,0
+"Wichita","106","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","107","President",,"REP","DONALD J. TRUMP/JD VANCE",18,0,7,11
+"Wichita","107","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",4,0,0,4
+"Wichita","107","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",0,0,0,0
+"Wichita","107","President",,"GRN","JILL STEIN/RUDOLPH WARE",0,0,0,0
+"Wichita","107","President",,,"Write-ins",0,0,0,0
+"Wichita","107","President",,,"Under Votes",1,0,1,0
+"Wichita","107","President",,,"Over Votes",0,0,0,0
+"Wichita","107","U.S. Senate",,"REP","TED CRUZ",18,0,8,10
+"Wichita","107","U.S. Senate",,"DEM","COLIN ALLRED",4,0,0,4
+"Wichita","107","U.S. Senate",,"LIB","TED BROWN",1,0,0,1
+"Wichita","107","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","107","U.S. Senate",,,"Under Votes",0,0,0,0
+"Wichita","107","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","107","U.S. House","13","REP","RONNY JACKSON",21,0,8,13
+"Wichita","107","U.S. House","13",,"Under Votes",2,0,0,2
+"Wichita","107","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","107","Railroad Commissioner",,"REP","CHRISTI CRADDICK",18,0,8,10
+"Wichita","107","Railroad Commissioner",,"DEM","KATHERINE CULBERT",3,0,0,3
+"Wichita","107","Railroad Commissioner",,"LIB","HAWK DUNLAP",1,0,0,1
+"Wichita","107","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",0,0,0,0
+"Wichita","107","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","107","Railroad Commissioner",,,"Under Votes",1,0,0,1
+"Wichita","107","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","107","State Senate","30","REP","BRENT HAGENBUCH",19,0,8,11
+"Wichita","107","State Senate","30","DEM","DALE FREY",4,0,0,4
+"Wichita","107","State Senate","30",,"Under Votes",0,0,0,0
+"Wichita","107","State Senate","30",,"Over Votes",0,0,0,0
+"Wichita","107","State Representative","69","REP","JAMES B FRANK",17,0,7,10
+"Wichita","107","State Representative","69","DEM","WALTER COPPAGE",4,0,0,4
+"Wichita","107","State Representative","69",,"Under Votes",2,0,1,1
+"Wichita","107","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","107","Sheriff",,"REP","DAVID DUKE",21,0,8,13
+"Wichita","107","Sheriff",,,"Under Votes",2,0,0,2
+"Wichita","107","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","107","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",20,0,8,12
+"Wichita","107","County Tax Assessor-Collector",,,"Under Votes",3,0,0,3
+"Wichita","107","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","107-CTYW","President",,"REP","DONALD J. TRUMP/JD VANCE",1744,53,1451,240
+"Wichita","107-CTYW","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",591,40,449,102
+"Wichita","107-CTYW","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",11,0,5,6
+"Wichita","107-CTYW","President",,"GRN","JILL STEIN/RUDOLPH WARE",10,0,9,1
+"Wichita","107-CTYW","President",,,"Write-ins",3,0,2,1
+"Wichita","107-CTYW","President",,,"Under Votes",17,1,13,3
+"Wichita","107-CTYW","President",,,"Over Votes",0,0,0,0
+"Wichita","107-CTYW","U.S. Senate",,"REP","TED CRUZ",1728,52,1451,225
+"Wichita","107-CTYW","U.S. Senate",,"DEM","COLIN ALLRED",587,40,445,102
+"Wichita","107-CTYW","U.S. Senate",,"LIB","TED BROWN",37,0,17,20
+"Wichita","107-CTYW","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","107-CTYW","U.S. Senate",,,"Under Votes",24,2,16,6
+"Wichita","107-CTYW","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","107-CTYW","U.S. House","13","REP","RONNY JACKSON",1937,54,1585,298
+"Wichita","107-CTYW","U.S. House","13",,"Under Votes",439,40,344,55
+"Wichita","107-CTYW","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","107-CTYW","Railroad Commissioner",,"REP","CHRISTI CRADDICK",1737,53,1450,234
+"Wichita","107-CTYW","Railroad Commissioner",,"DEM","KATHERINE CULBERT",478,27,375,76
+"Wichita","107-CTYW","Railroad Commissioner",,"LIB","HAWK DUNLAP",45,0,33,12
+"Wichita","107-CTYW","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",26,1,14,11
+"Wichita","107-CTYW","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","107-CTYW","Railroad Commissioner",,,"Under Votes",90,13,57,20
+"Wichita","107-CTYW","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","107-CTYW","State Senate","30","REP","BRENT HAGENBUCH",1765,53,1463,249
+"Wichita","107-CTYW","State Senate","30","DEM","DALE FREY",507,28,397,82
+"Wichita","107-CTYW","State Senate","30",,"Under Votes",104,13,69,22
+"Wichita","107-CTYW","State Senate","30",,"Over Votes",0,0,0,0
+"Wichita","107-CTYW","State Representative","69","REP","JAMES B FRANK",1768,53,1472,243
+"Wichita","107-CTYW","State Representative","69","DEM","WALTER COPPAGE",521,26,406,89
+"Wichita","107-CTYW","State Representative","69",,"Under Votes",87,15,51,21
+"Wichita","107-CTYW","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","107-CTYW","Sheriff",,"REP","DAVID DUKE",1936,55,1591,290
+"Wichita","107-CTYW","Sheriff",,,"Under Votes",440,39,338,63
+"Wichita","107-CTYW","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","107-CTYW","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",1959,57,1609,293
+"Wichita","107-CTYW","County Tax Assessor-Collector",,,"Under Votes",417,37,320,60
+"Wichita","107-CTYW","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","108","President",,"REP","DONALD J. TRUMP/JD VANCE",14,0,5,9
+"Wichita","108","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",7,0,1,6
+"Wichita","108","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",0,0,0,0
+"Wichita","108","President",,"GRN","JILL STEIN/RUDOLPH WARE",0,0,0,0
+"Wichita","108","President",,,"Write-ins",0,0,0,0
+"Wichita","108","President",,,"Under Votes",0,0,0,0
+"Wichita","108","President",,,"Over Votes",0,0,0,0
+"Wichita","108","U.S. Senate",,"REP","TED CRUZ",16,0,5,11
+"Wichita","108","U.S. Senate",,"DEM","COLIN ALLRED",5,0,1,4
+"Wichita","108","U.S. Senate",,"LIB","TED BROWN",0,0,0,0
+"Wichita","108","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","108","U.S. Senate",,,"Under Votes",0,0,0,0
+"Wichita","108","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","108","U.S. House","13","REP","RONNY JACKSON",17,0,5,12
+"Wichita","108","U.S. House","13",,"Under Votes",4,0,1,3
+"Wichita","108","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","108","Railroad Commissioner",,"REP","CHRISTI CRADDICK",15,0,5,10
+"Wichita","108","Railroad Commissioner",,"DEM","KATHERINE CULBERT",5,0,1,4
+"Wichita","108","Railroad Commissioner",,"LIB","HAWK DUNLAP",0,0,0,0
+"Wichita","108","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",0,0,0,0
+"Wichita","108","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","108","Railroad Commissioner",,,"Under Votes",1,0,0,1
+"Wichita","108","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","108","State Senate","30","REP","BRENT HAGENBUCH",16,0,5,11
+"Wichita","108","State Senate","30","DEM","DALE FREY",4,0,1,3
+"Wichita","108","State Senate","30",,"Under Votes",1,0,0,1
+"Wichita","108","State Senate","30",,"Over Votes",0,0,0,0
+"Wichita","108","State Representative","69","REP","JAMES B FRANK",15,0,4,11
+"Wichita","108","State Representative","69","DEM","WALTER COPPAGE",5,0,2,3
+"Wichita","108","State Representative","69",,"Under Votes",1,0,0,1
+"Wichita","108","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","108","Sheriff",,"REP","DAVID DUKE",18,0,5,13
+"Wichita","108","Sheriff",,,"Under Votes",3,0,1,2
+"Wichita","108","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","108","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",16,0,5,11
+"Wichita","108","County Tax Assessor-Collector",,,"Under Votes",5,0,1,4
+"Wichita","108","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","108-CTYW","President",,"REP","DONALD J. TRUMP/JD VANCE",2075,87,1633,355
+"Wichita","108-CTYW","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",795,75,564,156
+"Wichita","108-CTYW","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",18,2,14,2
+"Wichita","108-CTYW","President",,"GRN","JILL STEIN/RUDOLPH WARE",10,0,5,5
+"Wichita","108-CTYW","President",,,"Write-ins",3,1,1,1
+"Wichita","108-CTYW","President",,,"Under Votes",17,1,13,3
+"Wichita","108-CTYW","President",,,"Over Votes",0,0,0,0
+"Wichita","108-CTYW","U.S. Senate",,"REP","TED CRUZ",1990,87,1571,332
+"Wichita","108-CTYW","U.S. Senate",,"DEM","COLIN ALLRED",824,72,584,168
+"Wichita","108-CTYW","U.S. Senate",,"LIB","TED BROWN",66,2,48,16
+"Wichita","108-CTYW","U.S. Senate",,,"Write-ins",2,0,2,0
+"Wichita","108-CTYW","U.S. Senate",,,"Under Votes",36,5,25,6
+"Wichita","108-CTYW","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","108-CTYW","U.S. House","13","REP","RONNY JACKSON",2289,94,1787,408
+"Wichita","108-CTYW","U.S. House","13",,"Under Votes",629,72,443,114
+"Wichita","108-CTYW","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","108-CTYW","Railroad Commissioner",,"REP","CHRISTI CRADDICK",1981,84,1565,332
+"Wichita","108-CTYW","Railroad Commissioner",,"DEM","KATHERINE CULBERT",682,59,496,127
+"Wichita","108-CTYW","Railroad Commissioner",,"LIB","HAWK DUNLAP",76,2,55,19
+"Wichita","108-CTYW","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",42,1,30,11
+"Wichita","108-CTYW","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","108-CTYW","Railroad Commissioner",,,"Under Votes",137,20,84,33
+"Wichita","108-CTYW","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","108-CTYW","State Senate","30","REP","BRENT HAGENBUCH",2038,78,1614,346
+"Wichita","108-CTYW","State Senate","30","DEM","DALE FREY",741,62,539,140
+"Wichita","108-CTYW","State Senate","30",,"Under Votes",139,26,77,36
+"Wichita","108-CTYW","State Senate","30",,"Over Votes",0,0,0,0
+"Wichita","108-CTYW","State Representative","69","REP","JAMES B FRANK",2063,81,1630,352
+"Wichita","108-CTYW","State Representative","69","DEM","WALTER COPPAGE",734,59,531,144
+"Wichita","108-CTYW","State Representative","69",,"Under Votes",121,26,69,26
+"Wichita","108-CTYW","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","108-CTYW","Sheriff",,"REP","DAVID DUKE",2289,94,1798,397
+"Wichita","108-CTYW","Sheriff",,,"Under Votes",629,72,432,125
+"Wichita","108-CTYW","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","108-CTYW","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",2316,94,1821,401
+"Wichita","108-CTYW","County Tax Assessor-Collector",,,"Under Votes",602,72,409,121
+"Wichita","108-CTYW","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","109-CTYW","President",,"REP","DONALD J. TRUMP/JD VANCE",190,6,152,32
+"Wichita","109-CTYW","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",159,8,108,43
+"Wichita","109-CTYW","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",0,0,0,0
+"Wichita","109-CTYW","President",,"GRN","JILL STEIN/RUDOLPH WARE",2,0,2,0
+"Wichita","109-CTYW","President",,,"Write-ins",0,0,0,0
+"Wichita","109-CTYW","President",,,"Under Votes",3,1,1,1
+"Wichita","109-CTYW","President",,,"Over Votes",0,0,0,0
+"Wichita","109-CTYW","U.S. Senate",,"REP","TED CRUZ",185,6,148,31
+"Wichita","109-CTYW","U.S. Senate",,"DEM","COLIN ALLRED",151,9,103,39
+"Wichita","109-CTYW","U.S. Senate",,"LIB","TED BROWN",8,0,5,3
+"Wichita","109-CTYW","U.S. Senate",,,"Write-ins",2,0,1,1
+"Wichita","109-CTYW","U.S. Senate",,,"Under Votes",8,0,6,2
+"Wichita","109-CTYW","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","109-CTYW","U.S. House","13","REP","RONNY JACKSON",236,8,176,52
+"Wichita","109-CTYW","U.S. House","13",,"Under Votes",118,7,87,24
+"Wichita","109-CTYW","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","109-CTYW","Railroad Commissioner",,"REP","CHRISTI CRADDICK",185,8,149,28
+"Wichita","109-CTYW","Railroad Commissioner",,"DEM","KATHERINE CULBERT",121,7,83,31
+"Wichita","109-CTYW","Railroad Commissioner",,"LIB","HAWK DUNLAP",4,0,4,0
+"Wichita","109-CTYW","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",12,0,5,7
+"Wichita","109-CTYW","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","109-CTYW","Railroad Commissioner",,,"Under Votes",32,0,22,10
+"Wichita","109-CTYW","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","109-CTYW","State Representative","69","REP","JAMES B FRANK",176,6,138,32
+"Wichita","109-CTYW","State Representative","69","DEM","WALTER COPPAGE",127,6,87,34
+"Wichita","109-CTYW","State Representative","69",,"Under Votes",51,3,38,10
+"Wichita","109-CTYW","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","109-CTYW","Sheriff",,"REP","DAVID DUKE",236,6,177,53
+"Wichita","109-CTYW","Sheriff",,,"Under Votes",118,9,86,23
+"Wichita","109-CTYW","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","109-CTYW","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",235,9,175,51
+"Wichita","109-CTYW","County Tax Assessor-Collector",,,"Under Votes",119,6,88,25
+"Wichita","109-CTYW","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","201-CTYW","President",,"REP","DONALD J. TRUMP/JD VANCE",918,60,612,246
+"Wichita","201-CTYW","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",617,101,386,130
+"Wichita","201-CTYW","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",8,3,4,1
+"Wichita","201-CTYW","President",,"GRN","JILL STEIN/RUDOLPH WARE",4,1,2,1
+"Wichita","201-CTYW","President",,,"Write-ins",2,1,1,0
+"Wichita","201-CTYW","President",,,"Under Votes",7,2,3,2
+"Wichita","201-CTYW","President",,,"Over Votes",0,0,0,0
+"Wichita","201-CTYW","U.S. Senate",,"REP","TED CRUZ",866,57,589,220
+"Wichita","201-CTYW","U.S. Senate",,"DEM","COLIN ALLRED",615,91,388,136
+"Wichita","201-CTYW","U.S. Senate",,"LIB","TED BROWN",51,11,21,19
+"Wichita","201-CTYW","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","201-CTYW","U.S. Senate",,,"Under Votes",24,9,10,5
+"Wichita","201-CTYW","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","201-CTYW","U.S. House","13","REP","RONNY JACKSON",1079,88,702,289
+"Wichita","201-CTYW","U.S. House","13",,"Under Votes",477,80,306,91
+"Wichita","201-CTYW","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","201-CTYW","Railroad Commissioner",,"REP","CHRISTI CRADDICK",872,53,594,225
+"Wichita","201-CTYW","Railroad Commissioner",,"DEM","KATHERINE CULBERT",507,63,335,109
+"Wichita","201-CTYW","Railroad Commissioner",,"LIB","HAWK DUNLAP",54,12,22,20
+"Wichita","201-CTYW","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",26,2,16,8
+"Wichita","201-CTYW","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","201-CTYW","Railroad Commissioner",,,"Under Votes",97,38,41,18
+"Wichita","201-CTYW","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","201-CTYW","State Senate","30","REP","BRENT HAGENBUCH",908,62,609,237
+"Wichita","201-CTYW","State Senate","30","DEM","DALE FREY",549,69,360,120
+"Wichita","201-CTYW","State Senate","30",,"Under Votes",99,37,39,23
+"Wichita","201-CTYW","State Senate","30",,"Over Votes",0,0,0,0
+"Wichita","201-CTYW","State Representative","69","REP","JAMES B FRANK",920,64,610,246
+"Wichita","201-CTYW","State Representative","69","DEM","WALTER COPPAGE",537,69,355,113
+"Wichita","201-CTYW","State Representative","69",,"Under Votes",99,35,43,21
+"Wichita","201-CTYW","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","201-CTYW","Sheriff",,"REP","DAVID DUKE",1084,78,715,291
+"Wichita","201-CTYW","Sheriff",,,"Under Votes",472,90,293,89
+"Wichita","201-CTYW","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","201-CTYW","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",1093,77,723,293
+"Wichita","201-CTYW","County Tax Assessor-Collector",,,"Under Votes",463,91,285,87
+"Wichita","201-CTYW","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","202-CTYW","President",,"REP","DONALD J. TRUMP/JD VANCE",12,0,9,3
+"Wichita","202-CTYW","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",8,0,7,1
+"Wichita","202-CTYW","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",0,0,0,0
+"Wichita","202-CTYW","President",,"GRN","JILL STEIN/RUDOLPH WARE",0,0,0,0
+"Wichita","202-CTYW","President",,,"Write-ins",0,0,0,0
+"Wichita","202-CTYW","President",,,"Under Votes",0,0,0,0
+"Wichita","202-CTYW","President",,,"Over Votes",0,0,0,0
+"Wichita","202-CTYW","U.S. Senate",,"REP","TED CRUZ",11,0,9,2
+"Wichita","202-CTYW","U.S. Senate",,"DEM","COLIN ALLRED",8,0,7,1
+"Wichita","202-CTYW","U.S. Senate",,"LIB","TED BROWN",1,0,0,1
+"Wichita","202-CTYW","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","202-CTYW","U.S. Senate",,,"Under Votes",0,0,0,0
+"Wichita","202-CTYW","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","202-CTYW","U.S. House","13","REP","RONNY JACKSON",13,0,9,4
+"Wichita","202-CTYW","U.S. House","13",,"Under Votes",7,0,7,0
+"Wichita","202-CTYW","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","202-CTYW","Railroad Commissioner",,"REP","CHRISTI CRADDICK",9,0,7,2
+"Wichita","202-CTYW","Railroad Commissioner",,"DEM","KATHERINE CULBERT",8,0,7,1
+"Wichita","202-CTYW","Railroad Commissioner",,"LIB","HAWK DUNLAP",1,0,0,1
+"Wichita","202-CTYW","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",1,0,1,0
+"Wichita","202-CTYW","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","202-CTYW","Railroad Commissioner",,,"Under Votes",1,0,1,0
+"Wichita","202-CTYW","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","202-CTYW","State Representative","69","REP","JAMES B FRANK",10,0,7,3
+"Wichita","202-CTYW","State Representative","69","DEM","WALTER COPPAGE",8,0,7,1
+"Wichita","202-CTYW","State Representative","69",,"Under Votes",2,0,2,0
+"Wichita","202-CTYW","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","202-CTYW","Sheriff",,"REP","DAVID DUKE",11,0,8,3
+"Wichita","202-CTYW","Sheriff",,,"Under Votes",9,0,8,1
+"Wichita","202-CTYW","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","202-CTYW","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",11,0,8,3
+"Wichita","202-CTYW","County Tax Assessor-Collector",,,"Under Votes",9,0,8,1
+"Wichita","202-CTYW","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","202-CTYW-CVISD","President",,"REP","DONALD J. TRUMP/JD VANCE",990,15,678,297
+"Wichita","202-CTYW-CVISD","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",354,29,227,98
+"Wichita","202-CTYW-CVISD","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",9,0,5,4
+"Wichita","202-CTYW-CVISD","President",,"GRN","JILL STEIN/RUDOLPH WARE",4,0,2,2
+"Wichita","202-CTYW-CVISD","President",,,"Write-ins",0,0,0,0
+"Wichita","202-CTYW-CVISD","President",,,"Under Votes",4,0,2,2
+"Wichita","202-CTYW-CVISD","President",,,"Over Votes",0,0,0,0
+"Wichita","202-CTYW-CVISD","U.S. Senate",,"REP","TED CRUZ",926,13,645,268
+"Wichita","202-CTYW-CVISD","U.S. Senate",,"DEM","COLIN ALLRED",375,27,241,107
+"Wichita","202-CTYW-CVISD","U.S. Senate",,"LIB","TED BROWN",38,2,17,19
+"Wichita","202-CTYW-CVISD","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","202-CTYW-CVISD","U.S. Senate",,,"Under Votes",22,2,11,9
+"Wichita","202-CTYW-CVISD","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","202-CTYW-CVISD","U.S. House","13","REP","RONNY JACKSON",1067,15,729,323
+"Wichita","202-CTYW-CVISD","U.S. House","13",,"Under Votes",294,29,185,80
+"Wichita","202-CTYW-CVISD","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","202-CTYW-CVISD","Railroad Commissioner",,"REP","CHRISTI CRADDICK",902,11,635,256
+"Wichita","202-CTYW-CVISD","Railroad Commissioner",,"DEM","KATHERINE CULBERT",312,24,204,84
+"Wichita","202-CTYW-CVISD","Railroad Commissioner",,"LIB","HAWK DUNLAP",49,4,25,20
+"Wichita","202-CTYW-CVISD","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",27,1,13,13
+"Wichita","202-CTYW-CVISD","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","202-CTYW-CVISD","Railroad Commissioner",,,"Under Votes",71,4,37,30
+"Wichita","202-CTYW-CVISD","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","202-CTYW-CVISD","State Representative","69","REP","JAMES B FRANK",956,12,664,280
+"Wichita","202-CTYW-CVISD","State Representative","69","DEM","WALTER COPPAGE",333,26,210,97
+"Wichita","202-CTYW-CVISD","State Representative","69",,"Under Votes",72,6,40,26
+"Wichita","202-CTYW-CVISD","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","202-CTYW-CVISD","Sheriff",,"REP","DAVID DUKE",1091,16,741,334
+"Wichita","202-CTYW-CVISD","Sheriff",,,"Under Votes",270,28,173,69
+"Wichita","202-CTYW-CVISD","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","202-CTYW-CVISD","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",1086,18,739,329
+"Wichita","202-CTYW-CVISD","County Tax Assessor-Collector",,,"Under Votes",275,26,175,74
+"Wichita","202-CTYW-CVISD","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","202-CTYW2","President",,"REP","DONALD J. TRUMP/JD VANCE",98,4,60,34
+"Wichita","202-CTYW2","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",159,8,117,34
+"Wichita","202-CTYW2","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",1,0,1,0
+"Wichita","202-CTYW2","President",,"GRN","JILL STEIN/RUDOLPH WARE",0,0,0,0
+"Wichita","202-CTYW2","President",,,"Write-ins",0,0,0,0
+"Wichita","202-CTYW2","President",,,"Under Votes",0,0,0,0
+"Wichita","202-CTYW2","President",,,"Over Votes",0,0,0,0
+"Wichita","202-CTYW2","U.S. Senate",,"REP","TED CRUZ",93,4,58,31
+"Wichita","202-CTYW2","U.S. Senate",,"DEM","COLIN ALLRED",149,8,108,33
+"Wichita","202-CTYW2","U.S. Senate",,"LIB","TED BROWN",9,0,6,3
+"Wichita","202-CTYW2","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","202-CTYW2","U.S. Senate",,,"Under Votes",7,0,6,1
+"Wichita","202-CTYW2","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","202-CTYW2","U.S. House","13","REP","RONNY JACKSON",132,4,86,42
+"Wichita","202-CTYW2","U.S. House","13",,"Under Votes",126,8,92,26
+"Wichita","202-CTYW2","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","202-CTYW2","Railroad Commissioner",,"REP","CHRISTI CRADDICK",91,3,56,32
+"Wichita","202-CTYW2","Railroad Commissioner",,"DEM","KATHERINE CULBERT",134,8,95,31
+"Wichita","202-CTYW2","Railroad Commissioner",,"LIB","HAWK DUNLAP",8,1,7,0
+"Wichita","202-CTYW2","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",8,0,6,2
+"Wichita","202-CTYW2","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","202-CTYW2","Railroad Commissioner",,,"Under Votes",17,0,14,3
+"Wichita","202-CTYW2","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","202-CTYW2","State Representative","69","REP","JAMES B FRANK",94,4,57,33
+"Wichita","202-CTYW2","State Representative","69","DEM","WALTER COPPAGE",147,8,108,31
+"Wichita","202-CTYW2","State Representative","69",,"Under Votes",17,0,13,4
+"Wichita","202-CTYW2","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","202-CTYW2","Sheriff",,"REP","DAVID DUKE",127,6,84,37
+"Wichita","202-CTYW2","Sheriff",,,"Under Votes",131,6,94,31
+"Wichita","202-CTYW2","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","202-CTYW2","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",139,5,92,42
+"Wichita","202-CTYW2","County Tax Assessor-Collector",,,"Under Votes",119,7,86,26
+"Wichita","202-CTYW2","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","203-CTYW","President",,"REP","DONALD J. TRUMP/JD VANCE",528,81,288,159
+"Wichita","203-CTYW","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",356,93,188,75
+"Wichita","203-CTYW","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",6,1,5,0
+"Wichita","203-CTYW","President",,"GRN","JILL STEIN/RUDOLPH WARE",3,0,3,0
+"Wichita","203-CTYW","President",,,"Write-ins",2,1,0,1
+"Wichita","203-CTYW","President",,,"Under Votes",9,3,5,1
+"Wichita","203-CTYW","President",,,"Over Votes",0,0,0,0
+"Wichita","203-CTYW","U.S. Senate",,"REP","TED CRUZ",513,89,284,140
+"Wichita","203-CTYW","U.S. Senate",,"DEM","COLIN ALLRED",349,81,187,81
+"Wichita","203-CTYW","U.S. Senate",,"LIB","TED BROWN",28,4,13,11
+"Wichita","203-CTYW","U.S. Senate",,,"Write-ins",2,1,0,1
+"Wichita","203-CTYW","U.S. Senate",,,"Under Votes",12,4,5,3
+"Wichita","203-CTYW","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","203-CTYW","U.S. House","13","REP","RONNY JACKSON",598,104,325,169
+"Wichita","203-CTYW","U.S. House","13",,"Under Votes",306,75,164,67
+"Wichita","203-CTYW","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","203-CTYW","Railroad Commissioner",,"REP","CHRISTI CRADDICK",478,76,274,128
+"Wichita","203-CTYW","Railroad Commissioner",,"DEM","KATHERINE CULBERT",284,62,163,59
+"Wichita","203-CTYW","Railroad Commissioner",,"LIB","HAWK DUNLAP",40,9,18,13
+"Wichita","203-CTYW","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",18,5,6,7
+"Wichita","203-CTYW","Railroad Commissioner",,,"Write-ins",2,1,0,1
+"Wichita","203-CTYW","Railroad Commissioner",,,"Under Votes",82,26,28,28
+"Wichita","203-CTYW","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","203-CTYW","State Senate","30","REP","BRENT HAGENBUCH",515,81,289,145
+"Wichita","203-CTYW","State Senate","30","DEM","DALE FREY",310,69,170,71
+"Wichita","203-CTYW","State Senate","30",,"Under Votes",79,29,30,20
+"Wichita","203-CTYW","State Senate","30",,"Over Votes",0,0,0,0
+"Wichita","203-CTYW","State Representative","69","REP","JAMES B FRANK",530,83,294,153
+"Wichita","203-CTYW","State Representative","69","DEM","WALTER COPPAGE",297,65,165,67
+"Wichita","203-CTYW","State Representative","69",,"Under Votes",77,31,30,16
+"Wichita","203-CTYW","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","203-CTYW","Sheriff",,"REP","DAVID DUKE",595,99,332,164
+"Wichita","203-CTYW","Sheriff",,,"Under Votes",309,80,157,72
+"Wichita","203-CTYW","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","203-CTYW","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",607,103,335,169
+"Wichita","203-CTYW","County Tax Assessor-Collector",,,"Under Votes",297,76,154,67
+"Wichita","203-CTYW","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","204","President",,"REP","DONALD J. TRUMP/JD VANCE",423,2,314,107
+"Wichita","204","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",52,5,34,13
+"Wichita","204","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",3,0,3,0
+"Wichita","204","President",,"GRN","JILL STEIN/RUDOLPH WARE",2,0,1,1
+"Wichita","204","President",,,"Write-ins",0,0,0,0
+"Wichita","204","President",,,"Under Votes",1,0,0,1
+"Wichita","204","President",,,"Over Votes",0,0,0,0
+"Wichita","204","U.S. Senate",,"REP","TED CRUZ",399,2,300,97
+"Wichita","204","U.S. Senate",,"DEM","COLIN ALLRED",66,5,42,19
+"Wichita","204","U.S. Senate",,"LIB","TED BROWN",12,0,7,5
+"Wichita","204","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","204","U.S. Senate",,,"Under Votes",4,0,3,1
+"Wichita","204","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","204","U.S. House","13","REP","RONNY JACKSON",435,2,322,111
+"Wichita","204","U.S. House","13",,"Under Votes",46,5,30,11
+"Wichita","204","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","204","Railroad Commissioner",,"REP","CHRISTI CRADDICK",398,1,303,94
+"Wichita","204","Railroad Commissioner",,"DEM","KATHERINE CULBERT",47,4,29,14
+"Wichita","204","Railroad Commissioner",,"LIB","HAWK DUNLAP",16,1,8,7
+"Wichita","204","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",3,0,2,1
+"Wichita","204","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","204","Railroad Commissioner",,,"Under Votes",17,1,10,6
+"Wichita","204","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","204","State Senate","30","REP","BRENT HAGENBUCH",415,2,312,101
+"Wichita","204","State Senate","30","DEM","DALE FREY",50,4,31,15
+"Wichita","204","State Senate","30",,"Under Votes",16,1,9,6
+"Wichita","204","State Senate","30",,"Over Votes",0,0,0,0
+"Wichita","204","State Representative","69","REP","JAMES B FRANK",419,2,317,100
+"Wichita","204","State Representative","69","DEM","WALTER COPPAGE",47,4,28,15
+"Wichita","204","State Representative","69",,"Under Votes",15,1,7,7
+"Wichita","204","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","204","Sheriff",,"REP","DAVID DUKE",426,3,317,106
+"Wichita","204","Sheriff",,,"Under Votes",55,4,35,16
+"Wichita","204","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","204","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",428,3,319,106
+"Wichita","204","County Tax Assessor-Collector",,,"Under Votes",53,4,33,16
+"Wichita","204","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","205","President",,"REP","DONALD J. TRUMP/JD VANCE",2189,27,1845,317
+"Wichita","205","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",503,30,377,96
+"Wichita","205","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",14,0,11,3
+"Wichita","205","President",,"GRN","JILL STEIN/RUDOLPH WARE",9,1,5,3
+"Wichita","205","President",,,"Write-ins",2,0,2,0
+"Wichita","205","President",,,"Under Votes",4,1,2,1
+"Wichita","205","President",,,"Over Votes",0,0,0,0
+"Wichita","205","U.S. Senate",,"REP","TED CRUZ",2118,30,1785,303
+"Wichita","205","U.S. Senate",,"DEM","COLIN ALLRED",516,24,396,96
+"Wichita","205","U.S. Senate",,"LIB","TED BROWN",54,0,39,15
+"Wichita","205","U.S. Senate",,,"Write-ins",3,2,1,0
+"Wichita","205","U.S. Senate",,,"Under Votes",30,3,21,6
+"Wichita","205","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","205","U.S. House","13","REP","RONNY JACKSON",2348,35,1963,350
+"Wichita","205","U.S. House","13",,"Under Votes",373,24,279,70
+"Wichita","205","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","205","Railroad Commissioner",,"REP","CHRISTI CRADDICK",2093,23,1776,294
+"Wichita","205","Railroad Commissioner",,"DEM","KATHERINE CULBERT",426,19,329,78
+"Wichita","205","Railroad Commissioner",,"LIB","HAWK DUNLAP",72,6,50,16
+"Wichita","205","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",21,0,16,5
+"Wichita","205","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","205","Railroad Commissioner",,,"Under Votes",109,11,71,27
+"Wichita","205","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","205","State Representative","69","REP","JAMES B FRANK",2163,29,1828,306
+"Wichita","205","State Representative","69","DEM","WALTER COPPAGE",460,20,348,92
+"Wichita","205","State Representative","69",,"Under Votes",98,10,66,22
+"Wichita","205","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","205","Sheriff",,"REP","DAVID DUKE",2342,34,1953,355
+"Wichita","205","Sheriff",,,"Under Votes",379,25,289,65
+"Wichita","205","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","205","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",2360,34,1974,352
+"Wichita","205","County Tax Assessor-Collector",,,"Under Votes",361,25,268,68
+"Wichita","205","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","206","President",,"REP","DONALD J. TRUMP/JD VANCE",1679,31,1331,317
+"Wichita","206","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",347,18,247,82
+"Wichita","206","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",13,0,8,5
+"Wichita","206","President",,"GRN","JILL STEIN/RUDOLPH WARE",5,0,2,3
+"Wichita","206","President",,,"Write-ins",0,0,0,0
+"Wichita","206","President",,,"Under Votes",7,0,5,2
+"Wichita","206","President",,,"Over Votes",0,0,0,0
+"Wichita","206","U.S. Senate",,"REP","TED CRUZ",1589,27,1269,293
+"Wichita","206","U.S. Senate",,"DEM","COLIN ALLRED",387,16,275,96
+"Wichita","206","U.S. Senate",,"LIB","TED BROWN",49,5,29,15
+"Wichita","206","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","206","U.S. Senate",,,"Under Votes",26,1,20,5
+"Wichita","206","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","206","U.S. House","13","REP","RONNY JACKSON",1763,28,1383,352
+"Wichita","206","U.S. House","13",,"Under Votes",288,21,210,57
+"Wichita","206","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","206","Railroad Commissioner",,"REP","CHRISTI CRADDICK",1583,25,1270,288
+"Wichita","206","Railroad Commissioner",,"DEM","KATHERINE CULBERT",308,12,224,72
+"Wichita","206","Railroad Commissioner",,"LIB","HAWK DUNLAP",52,3,31,18
+"Wichita","206","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",22,0,16,6
+"Wichita","206","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","206","Railroad Commissioner",,,"Under Votes",86,9,52,25
+"Wichita","206","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","206","State Representative","69","REP","JAMES B FRANK",1627,27,1289,311
+"Wichita","206","State Representative","69","DEM","WALTER COPPAGE",338,13,248,77
+"Wichita","206","State Representative","69",,"Under Votes",86,9,56,21
+"Wichita","206","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","206","Sheriff",,"REP","DAVID DUKE",1718,24,1361,333
+"Wichita","206","Sheriff",,,"Under Votes",333,25,232,76
+"Wichita","206","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","206","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",1748,24,1379,345
+"Wichita","206","County Tax Assessor-Collector",,,"Under Votes",303,25,214,64
+"Wichita","206","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","207","President",,"REP","DONALD J. TRUMP/JD VANCE",30,1,24,5
+"Wichita","207","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",2,0,0,2
+"Wichita","207","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",0,0,0,0
+"Wichita","207","President",,"GRN","JILL STEIN/RUDOLPH WARE",0,0,0,0
+"Wichita","207","President",,,"Write-ins",0,0,0,0
+"Wichita","207","President",,,"Under Votes",0,0,0,0
+"Wichita","207","President",,,"Over Votes",0,0,0,0
+"Wichita","207","U.S. Senate",,"REP","TED CRUZ",29,1,24,4
+"Wichita","207","U.S. Senate",,"DEM","COLIN ALLRED",3,0,0,3
+"Wichita","207","U.S. Senate",,"LIB","TED BROWN",0,0,0,0
+"Wichita","207","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","207","U.S. Senate",,,"Under Votes",0,0,0,0
+"Wichita","207","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","207","U.S. House","13","REP","RONNY JACKSON",31,1,24,6
+"Wichita","207","U.S. House","13",,"Under Votes",1,0,0,1
+"Wichita","207","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","207","Railroad Commissioner",,"REP","CHRISTI CRADDICK",26,1,22,3
+"Wichita","207","Railroad Commissioner",,"DEM","KATHERINE CULBERT",1,0,0,1
+"Wichita","207","Railroad Commissioner",,"LIB","HAWK DUNLAP",3,0,1,2
+"Wichita","207","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",0,0,0,0
+"Wichita","207","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","207","Railroad Commissioner",,,"Under Votes",2,0,1,1
+"Wichita","207","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","207","State Representative","69","REP","JAMES B FRANK",28,1,23,4
+"Wichita","207","State Representative","69","DEM","WALTER COPPAGE",3,0,0,3
+"Wichita","207","State Representative","69",,"Under Votes",1,0,1,0
+"Wichita","207","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","207","Sheriff",,"REP","DAVID DUKE",31,1,24,6
+"Wichita","207","Sheriff",,,"Under Votes",1,0,0,1
+"Wichita","207","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","207","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",31,1,24,6
+"Wichita","207","County Tax Assessor-Collector",,,"Under Votes",1,0,0,1
+"Wichita","207","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","208","President",,"REP","DONALD J. TRUMP/JD VANCE",173,1,112,60
+"Wichita","208","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",35,0,23,12
+"Wichita","208","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",2,0,1,1
+"Wichita","208","President",,"GRN","JILL STEIN/RUDOLPH WARE",0,0,0,0
+"Wichita","208","President",,,"Write-ins",0,0,0,0
+"Wichita","208","President",,,"Under Votes",0,0,0,0
+"Wichita","208","President",,,"Over Votes",0,0,0,0
+"Wichita","208","U.S. Senate",,"REP","TED CRUZ",163,1,105,57
+"Wichita","208","U.S. Senate",,"DEM","COLIN ALLRED",37,0,24,13
+"Wichita","208","U.S. Senate",,"LIB","TED BROWN",6,0,4,2
+"Wichita","208","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","208","U.S. Senate",,,"Under Votes",4,0,3,1
+"Wichita","208","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","208","U.S. House","13","REP","RONNY JACKSON",176,1,113,62
+"Wichita","208","U.S. House","13",,"Under Votes",34,0,23,11
+"Wichita","208","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","208","Railroad Commissioner",,"REP","CHRISTI CRADDICK",152,1,100,51
+"Wichita","208","Railroad Commissioner",,"DEM","KATHERINE CULBERT",31,0,19,12
+"Wichita","208","Railroad Commissioner",,"LIB","HAWK DUNLAP",7,0,4,3
+"Wichita","208","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",4,0,3,1
+"Wichita","208","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","208","Railroad Commissioner",,,"Under Votes",16,0,10,6
+"Wichita","208","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","208","State Senate","30","REP","BRENT HAGENBUCH",165,1,108,56
+"Wichita","208","State Senate","30","DEM","DALE FREY",36,0,23,13
+"Wichita","208","State Senate","30",,"Under Votes",9,0,5,4
+"Wichita","208","State Senate","30",,"Over Votes",0,0,0,0
+"Wichita","208","State Representative","69","REP","JAMES B FRANK",166,1,108,57
+"Wichita","208","State Representative","69","DEM","WALTER COPPAGE",36,0,24,12
+"Wichita","208","State Representative","69",,"Under Votes",8,0,4,4
+"Wichita","208","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","208","Sheriff",,"REP","DAVID DUKE",171,1,104,66
+"Wichita","208","Sheriff",,,"Under Votes",39,0,32,7
+"Wichita","208","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","208","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",170,1,102,67
+"Wichita","208","County Tax Assessor-Collector",,,"Under Votes",40,0,34,6
+"Wichita","208","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","208-CTYW2","President",,"REP","DONALD J. TRUMP/JD VANCE",4,0,3,1
+"Wichita","208-CTYW2","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",1,0,1,0
+"Wichita","208-CTYW2","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",0,0,0,0
+"Wichita","208-CTYW2","President",,"GRN","JILL STEIN/RUDOLPH WARE",0,0,0,0
+"Wichita","208-CTYW2","President",,,"Write-ins",0,0,0,0
+"Wichita","208-CTYW2","President",,,"Under Votes",0,0,0,0
+"Wichita","208-CTYW2","President",,,"Over Votes",0,0,0,0
+"Wichita","208-CTYW2","U.S. Senate",,"REP","TED CRUZ",3,0,2,1
+"Wichita","208-CTYW2","U.S. Senate",,"DEM","COLIN ALLRED",1,0,1,0
+"Wichita","208-CTYW2","U.S. Senate",,"LIB","TED BROWN",0,0,0,0
+"Wichita","208-CTYW2","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","208-CTYW2","U.S. Senate",,,"Under Votes",1,0,1,0
+"Wichita","208-CTYW2","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","208-CTYW2","U.S. House","13","REP","RONNY JACKSON",3,0,2,1
+"Wichita","208-CTYW2","U.S. House","13",,"Under Votes",2,0,2,0
+"Wichita","208-CTYW2","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","208-CTYW2","Railroad Commissioner",,"REP","CHRISTI CRADDICK",1,0,1,0
+"Wichita","208-CTYW2","Railroad Commissioner",,"DEM","KATHERINE CULBERT",2,0,1,1
+"Wichita","208-CTYW2","Railroad Commissioner",,"LIB","HAWK DUNLAP",0,0,0,0
+"Wichita","208-CTYW2","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",0,0,0,0
+"Wichita","208-CTYW2","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","208-CTYW2","Railroad Commissioner",,,"Under Votes",2,0,2,0
+"Wichita","208-CTYW2","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","208-CTYW2","State Senate","30","REP","BRENT HAGENBUCH",3,0,2,1
+"Wichita","208-CTYW2","State Senate","30","DEM","DALE FREY",1,0,1,0
+"Wichita","208-CTYW2","State Senate","30",,"Under Votes",1,0,1,0
+"Wichita","208-CTYW2","State Senate","30",,"Over Votes",0,0,0,0
+"Wichita","208-CTYW2","State Representative","69","REP","JAMES B FRANK",3,0,2,1
+"Wichita","208-CTYW2","State Representative","69","DEM","WALTER COPPAGE",1,0,1,0
+"Wichita","208-CTYW2","State Representative","69",,"Under Votes",1,0,1,0
+"Wichita","208-CTYW2","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","208-CTYW2","Sheriff",,"REP","DAVID DUKE",3,0,2,1
+"Wichita","208-CTYW2","Sheriff",,,"Under Votes",2,0,2,0
+"Wichita","208-CTYW2","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","208-CTYW2","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",3,0,2,1
+"Wichita","208-CTYW2","County Tax Assessor-Collector",,,"Under Votes",2,0,2,0
+"Wichita","208-CTYW2","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","209-CTYW","President",,"REP","DONALD J. TRUMP/JD VANCE",9,0,3,6
+"Wichita","209-CTYW","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",32,1,23,8
+"Wichita","209-CTYW","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",0,0,0,0
+"Wichita","209-CTYW","President",,"GRN","JILL STEIN/RUDOLPH WARE",0,0,0,0
+"Wichita","209-CTYW","President",,,"Write-ins",0,0,0,0
+"Wichita","209-CTYW","President",,,"Under Votes",0,0,0,0
+"Wichita","209-CTYW","President",,,"Over Votes",0,0,0,0
+"Wichita","209-CTYW","U.S. Senate",,"REP","TED CRUZ",10,0,4,6
+"Wichita","209-CTYW","U.S. Senate",,"DEM","COLIN ALLRED",30,1,21,8
+"Wichita","209-CTYW","U.S. Senate",,"LIB","TED BROWN",0,0,0,0
+"Wichita","209-CTYW","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","209-CTYW","U.S. Senate",,,"Under Votes",1,0,1,0
+"Wichita","209-CTYW","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","209-CTYW","U.S. House","13","REP","RONNY JACKSON",15,0,5,10
+"Wichita","209-CTYW","U.S. House","13",,"Under Votes",26,1,21,4
+"Wichita","209-CTYW","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","209-CTYW","Railroad Commissioner",,"REP","CHRISTI CRADDICK",10,0,4,6
+"Wichita","209-CTYW","Railroad Commissioner",,"DEM","KATHERINE CULBERT",28,1,20,7
+"Wichita","209-CTYW","Railroad Commissioner",,"LIB","HAWK DUNLAP",0,0,0,0
+"Wichita","209-CTYW","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",2,0,1,1
+"Wichita","209-CTYW","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","209-CTYW","Railroad Commissioner",,,"Under Votes",1,0,1,0
+"Wichita","209-CTYW","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","209-CTYW","State Senate","30","REP","BRENT HAGENBUCH",10,0,4,6
+"Wichita","209-CTYW","State Senate","30","DEM","DALE FREY",29,0,21,8
+"Wichita","209-CTYW","State Senate","30",,"Under Votes",2,1,1,0
+"Wichita","209-CTYW","State Senate","30",,"Over Votes",0,0,0,0
+"Wichita","209-CTYW","State Representative","69","REP","JAMES B FRANK",11,0,4,7
+"Wichita","209-CTYW","State Representative","69","DEM","WALTER COPPAGE",30,1,22,7
+"Wichita","209-CTYW","State Representative","69",,"Under Votes",0,0,0,0
+"Wichita","209-CTYW","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","209-CTYW","Sheriff",,"REP","DAVID DUKE",14,0,5,9
+"Wichita","209-CTYW","Sheriff",,,"Under Votes",27,1,21,5
+"Wichita","209-CTYW","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","209-CTYW","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",13,0,4,9
+"Wichita","209-CTYW","County Tax Assessor-Collector",,,"Under Votes",28,1,22,5
+"Wichita","209-CTYW","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","210-CTYW2","President",,"REP","DONALD J. TRUMP/JD VANCE",94,1,64,29
+"Wichita","210-CTYW2","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",95,6,55,34
+"Wichita","210-CTYW2","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",2,1,0,1
+"Wichita","210-CTYW2","President",,"GRN","JILL STEIN/RUDOLPH WARE",1,0,1,0
+"Wichita","210-CTYW2","President",,,"Write-ins",0,0,0,0
+"Wichita","210-CTYW2","President",,,"Under Votes",0,0,0,0
+"Wichita","210-CTYW2","President",,,"Over Votes",0,0,0,0
+"Wichita","210-CTYW2","U.S. Senate",,"REP","TED CRUZ",82,1,56,25
+"Wichita","210-CTYW2","U.S. Senate",,"DEM","COLIN ALLRED",97,7,55,35
+"Wichita","210-CTYW2","U.S. Senate",,"LIB","TED BROWN",7,0,4,3
+"Wichita","210-CTYW2","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","210-CTYW2","U.S. Senate",,,"Under Votes",6,0,5,1
+"Wichita","210-CTYW2","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","210-CTYW2","U.S. House","13","REP","RONNY JACKSON",113,3,72,38
+"Wichita","210-CTYW2","U.S. House","13",,"Under Votes",79,5,48,26
+"Wichita","210-CTYW2","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","210-CTYW2","Railroad Commissioner",,"REP","CHRISTI CRADDICK",88,2,57,29
+"Wichita","210-CTYW2","Railroad Commissioner",,"DEM","KATHERINE CULBERT",80,5,49,26
+"Wichita","210-CTYW2","Railroad Commissioner",,"LIB","HAWK DUNLAP",5,0,3,2
+"Wichita","210-CTYW2","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",7,1,2,4
+"Wichita","210-CTYW2","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","210-CTYW2","Railroad Commissioner",,,"Under Votes",12,0,9,3
+"Wichita","210-CTYW2","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","210-CTYW2","State Senate","30","REP","BRENT HAGENBUCH",83,1,52,30
+"Wichita","210-CTYW2","State Senate","30","DEM","DALE FREY",90,7,54,29
+"Wichita","210-CTYW2","State Senate","30",,"Under Votes",19,0,14,5
+"Wichita","210-CTYW2","State Senate","30",,"Over Votes",0,0,0,0
+"Wichita","210-CTYW2","State Representative","69","REP","JAMES B FRANK",92,1,60,31
+"Wichita","210-CTYW2","State Representative","69","DEM","WALTER COPPAGE",87,7,50,30
+"Wichita","210-CTYW2","State Representative","69",,"Under Votes",13,0,10,3
+"Wichita","210-CTYW2","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","210-CTYW2","Sheriff",,"REP","DAVID DUKE",116,4,73,39
+"Wichita","210-CTYW2","Sheriff",,,"Under Votes",76,4,47,25
+"Wichita","210-CTYW2","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","210-CTYW2","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",124,4,78,42
+"Wichita","210-CTYW2","County Tax Assessor-Collector",,,"Under Votes",68,4,42,22
+"Wichita","210-CTYW2","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","211-CTYW2","President",,"REP","DONALD J. TRUMP/JD VANCE",7,0,4,3
+"Wichita","211-CTYW2","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",8,0,5,3
+"Wichita","211-CTYW2","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",0,0,0,0
+"Wichita","211-CTYW2","President",,"GRN","JILL STEIN/RUDOLPH WARE",0,0,0,0
+"Wichita","211-CTYW2","President",,,"Write-ins",0,0,0,0
+"Wichita","211-CTYW2","President",,,"Under Votes",0,0,0,0
+"Wichita","211-CTYW2","President",,,"Over Votes",0,0,0,0
+"Wichita","211-CTYW2","U.S. Senate",,"REP","TED CRUZ",5,0,3,2
+"Wichita","211-CTYW2","U.S. Senate",,"DEM","COLIN ALLRED",10,0,6,4
+"Wichita","211-CTYW2","U.S. Senate",,"LIB","TED BROWN",0,0,0,0
+"Wichita","211-CTYW2","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","211-CTYW2","U.S. Senate",,,"Under Votes",0,0,0,0
+"Wichita","211-CTYW2","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","211-CTYW2","U.S. House","13","REP","RONNY JACKSON",7,0,3,4
+"Wichita","211-CTYW2","U.S. House","13",,"Under Votes",8,0,6,2
+"Wichita","211-CTYW2","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","211-CTYW2","Railroad Commissioner",,"REP","CHRISTI CRADDICK",6,0,3,3
+"Wichita","211-CTYW2","Railroad Commissioner",,"DEM","KATHERINE CULBERT",7,0,5,2
+"Wichita","211-CTYW2","Railroad Commissioner",,"LIB","HAWK DUNLAP",0,0,0,0
+"Wichita","211-CTYW2","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",2,0,1,1
+"Wichita","211-CTYW2","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","211-CTYW2","Railroad Commissioner",,,"Under Votes",0,0,0,0
+"Wichita","211-CTYW2","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","211-CTYW2","State Representative","69","REP","JAMES B FRANK",6,0,3,3
+"Wichita","211-CTYW2","State Representative","69","DEM","WALTER COPPAGE",9,0,6,3
+"Wichita","211-CTYW2","State Representative","69",,"Under Votes",0,0,0,0
+"Wichita","211-CTYW2","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","211-CTYW2","Sheriff",,"REP","DAVID DUKE",9,0,5,4
+"Wichita","211-CTYW2","Sheriff",,,"Under Votes",6,0,4,2
+"Wichita","211-CTYW2","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","211-CTYW2","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",8,0,4,4
+"Wichita","211-CTYW2","County Tax Assessor-Collector",,,"Under Votes",7,0,5,2
+"Wichita","211-CTYW2","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","301-CTYW2","President",,"REP","DONALD J. TRUMP/JD VANCE",348,33,246,69
+"Wichita","301-CTYW2","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",143,24,82,37
+"Wichita","301-CTYW2","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",6,1,4,1
+"Wichita","301-CTYW2","President",,"GRN","JILL STEIN/RUDOLPH WARE",1,0,1,0
+"Wichita","301-CTYW2","President",,,"Write-ins",0,0,0,0
+"Wichita","301-CTYW2","President",,,"Under Votes",1,0,1,0
+"Wichita","301-CTYW2","President",,,"Over Votes",0,0,0,0
+"Wichita","301-CTYW2","U.S. Senate",,"REP","TED CRUZ",320,26,239,55
+"Wichita","301-CTYW2","U.S. Senate",,"DEM","COLIN ALLRED",158,23,89,46
+"Wichita","301-CTYW2","U.S. Senate",,"LIB","TED BROWN",13,7,4,2
+"Wichita","301-CTYW2","U.S. Senate",,,"Write-ins",1,0,0,1
+"Wichita","301-CTYW2","U.S. Senate",,,"Under Votes",7,2,2,3
+"Wichita","301-CTYW2","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","301-CTYW2","U.S. House","13","REP","RONNY JACKSON",377,39,261,77
+"Wichita","301-CTYW2","U.S. House","13",,"Under Votes",122,19,73,30
+"Wichita","301-CTYW2","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","301-CTYW2","Railroad Commissioner",,"REP","CHRISTI CRADDICK",322,24,237,61
+"Wichita","301-CTYW2","Railroad Commissioner",,"DEM","KATHERINE CULBERT",124,21,73,30
+"Wichita","301-CTYW2","Railroad Commissioner",,"LIB","HAWK DUNLAP",14,3,8,3
+"Wichita","301-CTYW2","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",12,5,4,3
+"Wichita","301-CTYW2","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","301-CTYW2","Railroad Commissioner",,,"Under Votes",27,5,12,10
+"Wichita","301-CTYW2","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","301-CTYW2","State Senate","30","REP","BRENT HAGENBUCH",333,27,242,64
+"Wichita","301-CTYW2","State Senate","30","DEM","DALE FREY",143,27,79,37
+"Wichita","301-CTYW2","State Senate","30",,"Under Votes",23,4,13,6
+"Wichita","301-CTYW2","State Senate","30",,"Over Votes",0,0,0,0
+"Wichita","301-CTYW2","State Representative","69","REP","JAMES B FRANK",336,29,241,66
+"Wichita","301-CTYW2","State Representative","69","DEM","WALTER COPPAGE",137,25,79,33
+"Wichita","301-CTYW2","State Representative","69",,"Under Votes",26,4,14,8
+"Wichita","301-CTYW2","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","301-CTYW2","Sheriff",,"REP","DAVID DUKE",382,42,265,75
+"Wichita","301-CTYW2","Sheriff",,,"Under Votes",117,16,69,32
+"Wichita","301-CTYW2","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","301-CTYW2","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",384,40,269,75
+"Wichita","301-CTYW2","County Tax Assessor-Collector",,,"Under Votes",115,18,65,32
+"Wichita","301-CTYW2","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","302-CTYW","President",,"REP","DONALD J. TRUMP/JD VANCE",442,8,339,95
+"Wichita","302-CTYW","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",288,15,215,58
+"Wichita","302-CTYW","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",4,0,2,2
+"Wichita","302-CTYW","President",,"GRN","JILL STEIN/RUDOLPH WARE",3,0,3,0
+"Wichita","302-CTYW","President",,,"Write-ins",0,0,0,0
+"Wichita","302-CTYW","President",,,"Under Votes",6,0,4,2
+"Wichita","302-CTYW","President",,,"Over Votes",0,0,0,0
+"Wichita","302-CTYW","U.S. Senate",,"REP","TED CRUZ",423,8,323,92
+"Wichita","302-CTYW","U.S. Senate",,"DEM","COLIN ALLRED",286,13,216,57
+"Wichita","302-CTYW","U.S. Senate",,"LIB","TED BROWN",21,1,13,7
+"Wichita","302-CTYW","U.S. Senate",,,"Write-ins",1,0,0,1
+"Wichita","302-CTYW","U.S. Senate",,,"Under Votes",12,1,11,0
+"Wichita","302-CTYW","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","302-CTYW","U.S. House","13","REP","RONNY JACKSON",528,11,393,124
+"Wichita","302-CTYW","U.S. House","13",,"Under Votes",215,12,170,33
+"Wichita","302-CTYW","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","302-CTYW","Railroad Commissioner",,"REP","CHRISTI CRADDICK",432,9,335,88
+"Wichita","302-CTYW","Railroad Commissioner",,"DEM","KATHERINE CULBERT",252,13,189,50
+"Wichita","302-CTYW","Railroad Commissioner",,"LIB","HAWK DUNLAP",16,0,8,8
+"Wichita","302-CTYW","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",16,0,9,7
+"Wichita","302-CTYW","Railroad Commissioner",,,"Write-ins",1,0,0,1
+"Wichita","302-CTYW","Railroad Commissioner",,,"Under Votes",26,1,22,3
+"Wichita","302-CTYW","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","302-CTYW","State Senate","30","REP","BRENT HAGENBUCH",444,9,342,93
+"Wichita","302-CTYW","State Senate","30","DEM","DALE FREY",271,11,200,60
+"Wichita","302-CTYW","State Senate","30",,"Under Votes",28,3,21,4
+"Wichita","302-CTYW","State Senate","30",,"Over Votes",0,0,0,0
+"Wichita","302-CTYW","State Representative","69","REP","JAMES B FRANK",446,9,343,94
+"Wichita","302-CTYW","State Representative","69","DEM","WALTER COPPAGE",275,11,203,61
+"Wichita","302-CTYW","State Representative","69",,"Under Votes",22,3,17,2
+"Wichita","302-CTYW","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","302-CTYW","Sheriff",,"REP","DAVID DUKE",533,11,397,125
+"Wichita","302-CTYW","Sheriff",,,"Under Votes",210,12,166,32
+"Wichita","302-CTYW","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","302-CTYW","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",542,13,403,126
+"Wichita","302-CTYW","County Tax Assessor-Collector",,,"Under Votes",201,10,160,31
+"Wichita","302-CTYW","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","302-CTYW2","President",,"REP","DONALD J. TRUMP/JD VANCE",462,15,317,130
+"Wichita","302-CTYW2","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",347,16,220,111
+"Wichita","302-CTYW2","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",9,0,5,4
+"Wichita","302-CTYW2","President",,"GRN","JILL STEIN/RUDOLPH WARE",8,0,4,4
+"Wichita","302-CTYW2","President",,,"Write-ins",3,0,1,2
+"Wichita","302-CTYW2","President",,,"Under Votes",4,0,1,3
+"Wichita","302-CTYW2","President",,,"Over Votes",0,0,0,0
+"Wichita","302-CTYW2","U.S. Senate",,"REP","TED CRUZ",437,18,309,110
+"Wichita","302-CTYW2","U.S. Senate",,"DEM","COLIN ALLRED",356,13,218,125
+"Wichita","302-CTYW2","U.S. Senate",,"LIB","TED BROWN",24,0,12,12
+"Wichita","302-CTYW2","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","302-CTYW2","U.S. Senate",,,"Under Votes",16,0,9,7
+"Wichita","302-CTYW2","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","302-CTYW2","U.S. House","13","REP","RONNY JACKSON",553,17,373,163
+"Wichita","302-CTYW2","U.S. House","13",,"Under Votes",280,14,175,91
+"Wichita","302-CTYW2","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","302-CTYW2","Railroad Commissioner",,"REP","CHRISTI CRADDICK",434,16,306,112
+"Wichita","302-CTYW2","Railroad Commissioner",,"DEM","KATHERINE CULBERT",287,13,183,91
+"Wichita","302-CTYW2","Railroad Commissioner",,"LIB","HAWK DUNLAP",23,0,16,7
+"Wichita","302-CTYW2","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",36,0,17,19
+"Wichita","302-CTYW2","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","302-CTYW2","Railroad Commissioner",,,"Under Votes",53,2,26,25
+"Wichita","302-CTYW2","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","302-CTYW2","State Senate","30","REP","BRENT HAGENBUCH",453,16,315,122
+"Wichita","302-CTYW2","State Senate","30","DEM","DALE FREY",327,12,208,107
+"Wichita","302-CTYW2","State Senate","30",,"Under Votes",53,3,25,25
+"Wichita","302-CTYW2","State Senate","30",,"Over Votes",0,0,0,0
+"Wichita","302-CTYW2","State Representative","69","REP","JAMES B FRANK",460,15,326,119
+"Wichita","302-CTYW2","State Representative","69","DEM","WALTER COPPAGE",326,13,201,112
+"Wichita","302-CTYW2","State Representative","69",,"Under Votes",47,3,21,23
+"Wichita","302-CTYW2","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","302-CTYW2","Sheriff",,"REP","DAVID DUKE",564,19,377,168
+"Wichita","302-CTYW2","Sheriff",,,"Under Votes",269,12,171,86
+"Wichita","302-CTYW2","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","302-CTYW2","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",563,19,377,167
+"Wichita","302-CTYW2","County Tax Assessor-Collector",,,"Under Votes",270,12,171,87
+"Wichita","302-CTYW2","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","303-CTYW2","President",,"REP","DONALD J. TRUMP/JD VANCE",356,6,247,103
+"Wichita","303-CTYW2","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",460,30,306,124
+"Wichita","303-CTYW2","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",7,0,4,3
+"Wichita","303-CTYW2","President",,"GRN","JILL STEIN/RUDOLPH WARE",1,0,1,0
+"Wichita","303-CTYW2","President",,,"Write-ins",0,0,0,0
+"Wichita","303-CTYW2","President",,,"Under Votes",1,0,1,0
+"Wichita","303-CTYW2","President",,,"Over Votes",0,0,0,0
+"Wichita","303-CTYW2","U.S. Senate",,"REP","TED CRUZ",336,7,237,92
+"Wichita","303-CTYW2","U.S. Senate",,"DEM","COLIN ALLRED",457,29,302,126
+"Wichita","303-CTYW2","U.S. Senate",,"LIB","TED BROWN",18,0,10,8
+"Wichita","303-CTYW2","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","303-CTYW2","U.S. Senate",,,"Under Votes",14,0,10,4
+"Wichita","303-CTYW2","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","303-CTYW2","U.S. House","13","REP","RONNY JACKSON",458,12,313,133
+"Wichita","303-CTYW2","U.S. House","13",,"Under Votes",367,24,246,97
+"Wichita","303-CTYW2","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","303-CTYW2","Railroad Commissioner",,"REP","CHRISTI CRADDICK",333,7,234,92
+"Wichita","303-CTYW2","Railroad Commissioner",,"DEM","KATHERINE CULBERT",414,25,280,109
+"Wichita","303-CTYW2","Railroad Commissioner",,"LIB","HAWK DUNLAP",20,0,13,7
+"Wichita","303-CTYW2","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",16,1,9,6
+"Wichita","303-CTYW2","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","303-CTYW2","Railroad Commissioner",,,"Under Votes",42,3,23,16
+"Wichita","303-CTYW2","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","303-CTYW2","State Senate","30","REP","BRENT HAGENBUCH",345,6,243,96
+"Wichita","303-CTYW2","State Senate","30","DEM","DALE FREY",431,25,288,118
+"Wichita","303-CTYW2","State Senate","30",,"Under Votes",49,5,28,16
+"Wichita","303-CTYW2","State Senate","30",,"Over Votes",0,0,0,0
+"Wichita","303-CTYW2","State Representative","69","REP","JAMES B FRANK",347,6,244,97
+"Wichita","303-CTYW2","State Representative","69","DEM","WALTER COPPAGE",430,25,289,116
+"Wichita","303-CTYW2","State Representative","69",,"Under Votes",48,5,26,17
+"Wichita","303-CTYW2","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","303-CTYW2","Sheriff",,"REP","DAVID DUKE",480,14,328,138
+"Wichita","303-CTYW2","Sheriff",,,"Under Votes",345,22,231,92
+"Wichita","303-CTYW2","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","303-CTYW2","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",485,15,330,140
+"Wichita","303-CTYW2","County Tax Assessor-Collector",,,"Under Votes",340,21,229,90
+"Wichita","303-CTYW2","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","304-CTYW1","President",,"REP","DONALD J. TRUMP/JD VANCE",331,23,212,96
+"Wichita","304-CTYW1","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",172,12,125,35
+"Wichita","304-CTYW1","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",5,0,3,2
+"Wichita","304-CTYW1","President",,"GRN","JILL STEIN/RUDOLPH WARE",4,0,4,0
+"Wichita","304-CTYW1","President",,,"Write-ins",0,0,0,0
+"Wichita","304-CTYW1","President",,,"Under Votes",2,1,0,1
+"Wichita","304-CTYW1","President",,,"Over Votes",0,0,0,0
+"Wichita","304-CTYW1","U.S. Senate",,"REP","TED CRUZ",320,25,208,87
+"Wichita","304-CTYW1","U.S. Senate",,"DEM","COLIN ALLRED",169,11,121,37
+"Wichita","304-CTYW1","U.S. Senate",,"LIB","TED BROWN",14,0,9,5
+"Wichita","304-CTYW1","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","304-CTYW1","U.S. Senate",,,"Under Votes",11,0,6,5
+"Wichita","304-CTYW1","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","304-CTYW1","U.S. House","13","REP","RONNY JACKSON",379,27,242,110
+"Wichita","304-CTYW1","U.S. House","13",,"Under Votes",135,9,102,24
+"Wichita","304-CTYW1","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","304-CTYW1","Railroad Commissioner",,"REP","CHRISTI CRADDICK",311,25,206,80
+"Wichita","304-CTYW1","Railroad Commissioner",,"DEM","KATHERINE CULBERT",147,8,111,28
+"Wichita","304-CTYW1","Railroad Commissioner",,"LIB","HAWK DUNLAP",16,0,8,8
+"Wichita","304-CTYW1","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",11,1,6,4
+"Wichita","304-CTYW1","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","304-CTYW1","Railroad Commissioner",,,"Under Votes",29,2,13,14
+"Wichita","304-CTYW1","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","304-CTYW1","State Senate","30","REP","BRENT HAGENBUCH",320,23,211,86
+"Wichita","304-CTYW1","State Senate","30","DEM","DALE FREY",161,11,115,35
+"Wichita","304-CTYW1","State Senate","30",,"Under Votes",33,2,18,13
+"Wichita","304-CTYW1","State Senate","30",,"Over Votes",0,0,0,0
+"Wichita","304-CTYW1","State Representative","69","REP","JAMES B FRANK",327,23,214,90
+"Wichita","304-CTYW1","State Representative","69","DEM","WALTER COPPAGE",155,10,112,33
+"Wichita","304-CTYW1","State Representative","69",,"Under Votes",32,3,18,11
+"Wichita","304-CTYW1","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","304-CTYW1","Sheriff",,"REP","DAVID DUKE",382,24,253,105
+"Wichita","304-CTYW1","Sheriff",,,"Under Votes",132,12,91,29
+"Wichita","304-CTYW1","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","304-CTYW1","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",377,24,247,106
+"Wichita","304-CTYW1","County Tax Assessor-Collector",,,"Under Votes",137,12,97,28
+"Wichita","304-CTYW1","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","305-CTYW2","President",,"REP","DONALD J. TRUMP/JD VANCE",42,0,30,12
+"Wichita","305-CTYW2","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",183,12,125,46
+"Wichita","305-CTYW2","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",2,0,1,1
+"Wichita","305-CTYW2","President",,"GRN","JILL STEIN/RUDOLPH WARE",2,0,2,0
+"Wichita","305-CTYW2","President",,,"Write-ins",0,0,0,0
+"Wichita","305-CTYW2","President",,,"Under Votes",0,0,0,0
+"Wichita","305-CTYW2","President",,,"Over Votes",0,0,0,0
+"Wichita","305-CTYW2","U.S. Senate",,"REP","TED CRUZ",40,0,27,13
+"Wichita","305-CTYW2","U.S. Senate",,"DEM","COLIN ALLRED",180,12,126,42
+"Wichita","305-CTYW2","U.S. Senate",,"LIB","TED BROWN",4,0,4,0
+"Wichita","305-CTYW2","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","305-CTYW2","U.S. Senate",,,"Under Votes",5,0,1,4
+"Wichita","305-CTYW2","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","305-CTYW2","U.S. House","13","REP","RONNY JACKSON",92,2,66,24
+"Wichita","305-CTYW2","U.S. House","13",,"Under Votes",137,10,92,35
+"Wichita","305-CTYW2","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","305-CTYW2","Railroad Commissioner",,"REP","CHRISTI CRADDICK",41,0,31,10
+"Wichita","305-CTYW2","Railroad Commissioner",,"DEM","KATHERINE CULBERT",165,12,110,43
+"Wichita","305-CTYW2","Railroad Commissioner",,"LIB","HAWK DUNLAP",3,0,2,1
+"Wichita","305-CTYW2","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",5,0,4,1
+"Wichita","305-CTYW2","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","305-CTYW2","Railroad Commissioner",,,"Under Votes",15,0,11,4
+"Wichita","305-CTYW2","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","305-CTYW2","State Representative","69","REP","JAMES B FRANK",47,1,34,12
+"Wichita","305-CTYW2","State Representative","69","DEM","WALTER COPPAGE",170,11,116,43
+"Wichita","305-CTYW2","State Representative","69",,"Under Votes",12,0,8,4
+"Wichita","305-CTYW2","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","305-CTYW2","Sheriff",,"REP","DAVID DUKE",95,4,67,24
+"Wichita","305-CTYW2","Sheriff",,,"Under Votes",134,8,91,35
+"Wichita","305-CTYW2","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","305-CTYW2","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",107,4,75,28
+"Wichita","305-CTYW2","County Tax Assessor-Collector",,,"Under Votes",122,8,83,31
+"Wichita","305-CTYW2","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","306-CTYW","President",,"REP","DONALD J. TRUMP/JD VANCE",80,2,58,20
+"Wichita","306-CTYW","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",32,2,22,8
+"Wichita","306-CTYW","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",0,0,0,0
+"Wichita","306-CTYW","President",,"GRN","JILL STEIN/RUDOLPH WARE",0,0,0,0
+"Wichita","306-CTYW","President",,,"Write-ins",0,0,0,0
+"Wichita","306-CTYW","President",,,"Under Votes",1,0,1,0
+"Wichita","306-CTYW","President",,,"Over Votes",0,0,0,0
+"Wichita","306-CTYW","U.S. Senate",,"REP","TED CRUZ",79,2,57,20
+"Wichita","306-CTYW","U.S. Senate",,"DEM","COLIN ALLRED",30,2,22,6
+"Wichita","306-CTYW","U.S. Senate",,"LIB","TED BROWN",3,0,2,1
+"Wichita","306-CTYW","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","306-CTYW","U.S. Senate",,,"Under Votes",1,0,0,1
+"Wichita","306-CTYW","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","306-CTYW","U.S. House","13","REP","RONNY JACKSON",86,2,63,21
+"Wichita","306-CTYW","U.S. House","13",,"Under Votes",27,2,18,7
+"Wichita","306-CTYW","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","306-CTYW","Railroad Commissioner",,"REP","CHRISTI CRADDICK",80,2,60,18
+"Wichita","306-CTYW","Railroad Commissioner",,"DEM","KATHERINE CULBERT",25,2,18,5
+"Wichita","306-CTYW","Railroad Commissioner",,"LIB","HAWK DUNLAP",0,0,0,0
+"Wichita","306-CTYW","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",1,0,1,0
+"Wichita","306-CTYW","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","306-CTYW","Railroad Commissioner",,,"Under Votes",7,0,2,5
+"Wichita","306-CTYW","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","306-CTYW","State Representative","69","REP","JAMES B FRANK",78,2,58,18
+"Wichita","306-CTYW","State Representative","69","DEM","WALTER COPPAGE",26,2,19,5
+"Wichita","306-CTYW","State Representative","69",,"Under Votes",9,0,4,5
+"Wichita","306-CTYW","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","306-CTYW","Sheriff",,"REP","DAVID DUKE",86,3,64,19
+"Wichita","306-CTYW","Sheriff",,,"Under Votes",27,1,17,9
+"Wichita","306-CTYW","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","306-CTYW","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",83,2,61,20
+"Wichita","306-CTYW","County Tax Assessor-Collector",,,"Under Votes",30,2,20,8
+"Wichita","306-CTYW","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","306-CTYW-CVISD","President",,"REP","DONALD J. TRUMP/JD VANCE",39,10,19,10
+"Wichita","306-CTYW-CVISD","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",9,6,3,0
+"Wichita","306-CTYW-CVISD","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",2,1,1,0
+"Wichita","306-CTYW-CVISD","President",,"GRN","JILL STEIN/RUDOLPH WARE",1,1,0,0
+"Wichita","306-CTYW-CVISD","President",,,"Write-ins",0,0,0,0
+"Wichita","306-CTYW-CVISD","President",,,"Under Votes",1,0,0,1
+"Wichita","306-CTYW-CVISD","President",,,"Over Votes",0,0,0,0
+"Wichita","306-CTYW-CVISD","U.S. Senate",,"REP","TED CRUZ",40,11,18,11
+"Wichita","306-CTYW-CVISD","U.S. Senate",,"DEM","COLIN ALLRED",9,5,4,0
+"Wichita","306-CTYW-CVISD","U.S. Senate",,"LIB","TED BROWN",1,1,0,0
+"Wichita","306-CTYW-CVISD","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","306-CTYW-CVISD","U.S. Senate",,,"Under Votes",2,1,1,0
+"Wichita","306-CTYW-CVISD","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","306-CTYW-CVISD","U.S. House","13","REP","RONNY JACKSON",40,10,20,10
+"Wichita","306-CTYW-CVISD","U.S. House","13",,"Under Votes",12,8,3,1
+"Wichita","306-CTYW-CVISD","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","306-CTYW-CVISD","Railroad Commissioner",,"REP","CHRISTI CRADDICK",35,8,19,8
+"Wichita","306-CTYW-CVISD","Railroad Commissioner",,"DEM","KATHERINE CULBERT",8,4,4,0
+"Wichita","306-CTYW-CVISD","Railroad Commissioner",,"LIB","HAWK DUNLAP",2,1,0,1
+"Wichita","306-CTYW-CVISD","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",1,1,0,0
+"Wichita","306-CTYW-CVISD","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","306-CTYW-CVISD","Railroad Commissioner",,,"Under Votes",6,4,0,2
+"Wichita","306-CTYW-CVISD","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","306-CTYW-CVISD","State Representative","69","REP","JAMES B FRANK",37,7,19,11
+"Wichita","306-CTYW-CVISD","State Representative","69","DEM","WALTER COPPAGE",11,7,4,0
+"Wichita","306-CTYW-CVISD","State Representative","69",,"Under Votes",4,4,0,0
+"Wichita","306-CTYW-CVISD","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","306-CTYW-CVISD","Sheriff",,"REP","DAVID DUKE",39,8,20,11
+"Wichita","306-CTYW-CVISD","Sheriff",,,"Under Votes",13,10,3,0
+"Wichita","306-CTYW-CVISD","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","306-CTYW-CVISD","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",37,8,19,10
+"Wichita","306-CTYW-CVISD","County Tax Assessor-Collector",,,"Under Votes",15,10,4,1
+"Wichita","306-CTYW-CVISD","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","306-CTYW1-CVISD","President",,"REP","DONALD J. TRUMP/JD VANCE",6,0,5,1
+"Wichita","306-CTYW1-CVISD","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",0,0,0,0
+"Wichita","306-CTYW1-CVISD","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",0,0,0,0
+"Wichita","306-CTYW1-CVISD","President",,"GRN","JILL STEIN/RUDOLPH WARE",0,0,0,0
+"Wichita","306-CTYW1-CVISD","President",,,"Write-ins",0,0,0,0
+"Wichita","306-CTYW1-CVISD","President",,,"Under Votes",0,0,0,0
+"Wichita","306-CTYW1-CVISD","President",,,"Over Votes",0,0,0,0
+"Wichita","306-CTYW1-CVISD","U.S. Senate",,"REP","TED CRUZ",6,0,5,1
+"Wichita","306-CTYW1-CVISD","U.S. Senate",,"DEM","COLIN ALLRED",0,0,0,0
+"Wichita","306-CTYW1-CVISD","U.S. Senate",,"LIB","TED BROWN",0,0,0,0
+"Wichita","306-CTYW1-CVISD","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","306-CTYW1-CVISD","U.S. Senate",,,"Under Votes",0,0,0,0
+"Wichita","306-CTYW1-CVISD","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","306-CTYW1-CVISD","U.S. House","13","REP","RONNY JACKSON",6,0,5,1
+"Wichita","306-CTYW1-CVISD","U.S. House","13",,"Under Votes",0,0,0,0
+"Wichita","306-CTYW1-CVISD","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","306-CTYW1-CVISD","Railroad Commissioner",,"REP","CHRISTI CRADDICK",6,0,5,1
+"Wichita","306-CTYW1-CVISD","Railroad Commissioner",,"DEM","KATHERINE CULBERT",0,0,0,0
+"Wichita","306-CTYW1-CVISD","Railroad Commissioner",,"LIB","HAWK DUNLAP",0,0,0,0
+"Wichita","306-CTYW1-CVISD","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",0,0,0,0
+"Wichita","306-CTYW1-CVISD","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","306-CTYW1-CVISD","Railroad Commissioner",,,"Under Votes",0,0,0,0
+"Wichita","306-CTYW1-CVISD","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","306-CTYW1-CVISD","State Representative","69","REP","JAMES B FRANK",6,0,5,1
+"Wichita","306-CTYW1-CVISD","State Representative","69","DEM","WALTER COPPAGE",0,0,0,0
+"Wichita","306-CTYW1-CVISD","State Representative","69",,"Under Votes",0,0,0,0
+"Wichita","306-CTYW1-CVISD","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","306-CTYW1-CVISD","Sheriff",,"REP","DAVID DUKE",6,0,5,1
+"Wichita","306-CTYW1-CVISD","Sheriff",,,"Under Votes",0,0,0,0
+"Wichita","306-CTYW1-CVISD","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","306-CTYW1-CVISD","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",6,0,5,1
+"Wichita","306-CTYW1-CVISD","County Tax Assessor-Collector",,,"Under Votes",0,0,0,0
+"Wichita","306-CTYW1-CVISD","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","307-CTYW2","President",,"REP","DONALD J. TRUMP/JD VANCE",149,2,92,55
+"Wichita","307-CTYW2","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",141,9,92,40
+"Wichita","307-CTYW2","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",4,0,2,2
+"Wichita","307-CTYW2","President",,"GRN","JILL STEIN/RUDOLPH WARE",2,0,0,2
+"Wichita","307-CTYW2","President",,,"Write-ins",2,0,2,0
+"Wichita","307-CTYW2","President",,,"Under Votes",2,0,1,1
+"Wichita","307-CTYW2","President",,,"Over Votes",0,0,0,0
+"Wichita","307-CTYW2","U.S. Senate",,"REP","TED CRUZ",133,2,88,43
+"Wichita","307-CTYW2","U.S. Senate",,"DEM","COLIN ALLRED",147,9,89,49
+"Wichita","307-CTYW2","U.S. Senate",,"LIB","TED BROWN",13,0,7,6
+"Wichita","307-CTYW2","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","307-CTYW2","U.S. Senate",,,"Under Votes",7,0,5,2
+"Wichita","307-CTYW2","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","307-CTYW2","U.S. House","13","REP","RONNY JACKSON",178,2,112,64
+"Wichita","307-CTYW2","U.S. House","13",,"Under Votes",122,9,77,36
+"Wichita","307-CTYW2","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","307-CTYW2","Railroad Commissioner",,"REP","CHRISTI CRADDICK",132,2,85,45
+"Wichita","307-CTYW2","Railroad Commissioner",,"DEM","KATHERINE CULBERT",127,6,79,42
+"Wichita","307-CTYW2","Railroad Commissioner",,"LIB","HAWK DUNLAP",8,0,4,4
+"Wichita","307-CTYW2","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",9,0,6,3
+"Wichita","307-CTYW2","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","307-CTYW2","Railroad Commissioner",,,"Under Votes",24,3,15,6
+"Wichita","307-CTYW2","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","307-CTYW2","State Representative","69","REP","JAMES B FRANK",151,2,93,56
+"Wichita","307-CTYW2","State Representative","69","DEM","WALTER COPPAGE",126,6,81,39
+"Wichita","307-CTYW2","State Representative","69",,"Under Votes",23,3,15,5
+"Wichita","307-CTYW2","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","307-CTYW2","Sheriff",,"REP","DAVID DUKE",192,5,119,68
+"Wichita","307-CTYW2","Sheriff",,,"Under Votes",108,6,70,32
+"Wichita","307-CTYW2","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","307-CTYW2","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",194,5,123,66
+"Wichita","307-CTYW2","County Tax Assessor-Collector",,,"Under Votes",106,6,66,34
+"Wichita","307-CTYW2","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","308","President",,"REP","DONALD J. TRUMP/JD VANCE",2589,28,2075,486
+"Wichita","308","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",314,9,234,71
+"Wichita","308","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",15,0,12,3
+"Wichita","308","President",,"GRN","JILL STEIN/RUDOLPH WARE",3,0,2,1
+"Wichita","308","President",,,"Write-ins",0,0,0,0
+"Wichita","308","President",,,"Under Votes",9,0,9,0
+"Wichita","308","President",,,"Over Votes",0,0,0,0
+"Wichita","308","U.S. Senate",,"REP","TED CRUZ",2500,30,2025,445
+"Wichita","308","U.S. Senate",,"DEM","COLIN ALLRED",355,7,255,93
+"Wichita","308","U.S. Senate",,"LIB","TED BROWN",54,0,35,19
+"Wichita","308","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","308","U.S. Senate",,,"Under Votes",21,0,17,4
+"Wichita","308","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","308","U.S. House","13","REP","RONNY JACKSON",2650,31,2131,488
+"Wichita","308","U.S. House","13",,"Under Votes",280,6,201,73
+"Wichita","308","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","308","Railroad Commissioner",,"REP","CHRISTI CRADDICK",2430,28,1958,444
+"Wichita","308","Railroad Commissioner",,"DEM","KATHERINE CULBERT",263,5,199,59
+"Wichita","308","Railroad Commissioner",,"LIB","HAWK DUNLAP",99,1,68,30
+"Wichita","308","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",25,0,18,7
+"Wichita","308","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","308","Railroad Commissioner",,,"Under Votes",113,3,89,21
+"Wichita","308","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","308","State Representative","69","REP","JAMES B FRANK",2527,29,2032,466
+"Wichita","308","State Representative","69","DEM","WALTER COPPAGE",287,4,213,70
+"Wichita","308","State Representative","69",,"Under Votes",116,4,87,25
+"Wichita","308","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","308","Sheriff",,"REP","DAVID DUKE",2615,28,2095,492
+"Wichita","308","Sheriff",,,"Under Votes",315,9,237,69
+"Wichita","308","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","308","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",2647,30,2121,496
+"Wichita","308","County Tax Assessor-Collector",,,"Under Votes",283,7,211,65
+"Wichita","308","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","309","President",,"REP","DONALD J. TRUMP/JD VANCE",1053,10,822,221
+"Wichita","309","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",128,8,94,26
+"Wichita","309","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",7,0,2,5
+"Wichita","309","President",,"GRN","JILL STEIN/RUDOLPH WARE",1,0,1,0
+"Wichita","309","President",,,"Write-ins",2,0,2,0
+"Wichita","309","President",,,"Under Votes",5,0,5,0
+"Wichita","309","President",,,"Over Votes",0,0,0,0
+"Wichita","309","U.S. Senate",,"REP","TED CRUZ",1026,9,805,212
+"Wichita","309","U.S. Senate",,"DEM","COLIN ALLRED",138,9,101,28
+"Wichita","309","U.S. Senate",,"LIB","TED BROWN",23,0,14,9
+"Wichita","309","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","309","U.S. Senate",,,"Under Votes",9,0,6,3
+"Wichita","309","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","309","U.S. House","13","REP","RONNY JACKSON",1070,14,828,228
+"Wichita","309","U.S. House","13",,"Under Votes",126,4,98,24
+"Wichita","309","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","309","Railroad Commissioner",,"REP","CHRISTI CRADDICK",981,11,770,200
+"Wichita","309","Railroad Commissioner",,"DEM","KATHERINE CULBERT",110,6,86,18
+"Wichita","309","Railroad Commissioner",,"LIB","HAWK DUNLAP",42,1,24,17
+"Wichita","309","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",7,0,6,1
+"Wichita","309","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","309","Railroad Commissioner",,,"Under Votes",56,0,40,16
+"Wichita","309","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","309","State Representative","69","REP","JAMES B FRANK",1024,10,802,212
+"Wichita","309","State Representative","69","DEM","WALTER COPPAGE",115,6,86,23
+"Wichita","309","State Representative","69",,"Under Votes",57,2,38,17
+"Wichita","309","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","309","Sheriff",,"REP","DAVID DUKE",1048,12,813,223
+"Wichita","309","Sheriff",,,"Under Votes",148,6,113,29
+"Wichita","309","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","309","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",1062,12,827,223
+"Wichita","309","County Tax Assessor-Collector",,,"Under Votes",134,6,99,29
+"Wichita","309","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","309-CTYW","President",,"REP","DONALD J. TRUMP/JD VANCE",0,0,0,0
+"Wichita","309-CTYW","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",4,1,3,0
+"Wichita","309-CTYW","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",0,0,0,0
+"Wichita","309-CTYW","President",,"GRN","JILL STEIN/RUDOLPH WARE",0,0,0,0
+"Wichita","309-CTYW","President",,,"Write-ins",0,0,0,0
+"Wichita","309-CTYW","President",,,"Under Votes",0,0,0,0
+"Wichita","309-CTYW","President",,,"Over Votes",0,0,0,0
+"Wichita","309-CTYW","U.S. Senate",,"REP","TED CRUZ",0,0,0,0
+"Wichita","309-CTYW","U.S. Senate",,"DEM","COLIN ALLRED",4,1,3,0
+"Wichita","309-CTYW","U.S. Senate",,"LIB","TED BROWN",0,0,0,0
+"Wichita","309-CTYW","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","309-CTYW","U.S. Senate",,,"Under Votes",0,0,0,0
+"Wichita","309-CTYW","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","309-CTYW","U.S. House","13","REP","RONNY JACKSON",1,0,1,0
+"Wichita","309-CTYW","U.S. House","13",,"Under Votes",3,1,2,0
+"Wichita","309-CTYW","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","309-CTYW","Railroad Commissioner",,"REP","CHRISTI CRADDICK",1,0,1,0
+"Wichita","309-CTYW","Railroad Commissioner",,"DEM","KATHERINE CULBERT",2,1,1,0
+"Wichita","309-CTYW","Railroad Commissioner",,"LIB","HAWK DUNLAP",1,0,1,0
+"Wichita","309-CTYW","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",0,0,0,0
+"Wichita","309-CTYW","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","309-CTYW","Railroad Commissioner",,,"Under Votes",0,0,0,0
+"Wichita","309-CTYW","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","309-CTYW","State Representative","69","REP","JAMES B FRANK",0,0,0,0
+"Wichita","309-CTYW","State Representative","69","DEM","WALTER COPPAGE",4,1,3,0
+"Wichita","309-CTYW","State Representative","69",,"Under Votes",0,0,0,0
+"Wichita","309-CTYW","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","309-CTYW","Sheriff",,"REP","DAVID DUKE",1,0,1,0
+"Wichita","309-CTYW","Sheriff",,,"Under Votes",3,1,2,0
+"Wichita","309-CTYW","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","309-CTYW","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",2,0,2,0
+"Wichita","309-CTYW","County Tax Assessor-Collector",,,"Under Votes",2,1,1,0
+"Wichita","309-CTYW","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","309-CVISD","President",,"REP","DONALD J. TRUMP/JD VANCE",70,0,50,20
+"Wichita","309-CVISD","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",19,1,12,6
+"Wichita","309-CVISD","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",0,0,0,0
+"Wichita","309-CVISD","President",,"GRN","JILL STEIN/RUDOLPH WARE",1,0,0,1
+"Wichita","309-CVISD","President",,,"Write-ins",0,0,0,0
+"Wichita","309-CVISD","President",,,"Under Votes",0,0,0,0
+"Wichita","309-CVISD","President",,,"Over Votes",0,0,0,0
+"Wichita","309-CVISD","U.S. Senate",,"REP","TED CRUZ",68,0,52,16
+"Wichita","309-CVISD","U.S. Senate",,"DEM","COLIN ALLRED",18,1,9,8
+"Wichita","309-CVISD","U.S. Senate",,"LIB","TED BROWN",0,0,0,0
+"Wichita","309-CVISD","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","309-CVISD","U.S. Senate",,,"Under Votes",4,0,1,3
+"Wichita","309-CVISD","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","309-CVISD","U.S. House","13","REP","RONNY JACKSON",71,0,53,18
+"Wichita","309-CVISD","U.S. House","13",,"Under Votes",19,1,9,9
+"Wichita","309-CVISD","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","309-CVISD","Railroad Commissioner",,"REP","CHRISTI CRADDICK",64,0,50,14
+"Wichita","309-CVISD","Railroad Commissioner",,"DEM","KATHERINE CULBERT",14,1,10,3
+"Wichita","309-CVISD","Railroad Commissioner",,"LIB","HAWK DUNLAP",1,0,0,1
+"Wichita","309-CVISD","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",0,0,0,0
+"Wichita","309-CVISD","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","309-CVISD","Railroad Commissioner",,,"Under Votes",11,0,2,9
+"Wichita","309-CVISD","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","309-CVISD","State Representative","69","REP","JAMES B FRANK",72,0,56,16
+"Wichita","309-CVISD","State Representative","69","DEM","WALTER COPPAGE",10,1,5,4
+"Wichita","309-CVISD","State Representative","69",,"Under Votes",8,0,1,7
+"Wichita","309-CVISD","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","309-CVISD","Sheriff",,"REP","DAVID DUKE",74,0,56,18
+"Wichita","309-CVISD","Sheriff",,,"Under Votes",16,1,6,9
+"Wichita","309-CVISD","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","309-CVISD","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",73,0,54,19
+"Wichita","309-CVISD","County Tax Assessor-Collector",,,"Under Votes",17,1,8,8
+"Wichita","309-CVISD","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","309-CTYW-CVISD","President",,"REP","DONALD J. TRUMP/JD VANCE",11,0,6,5
+"Wichita","309-CTYW-CVISD","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",10,0,7,3
+"Wichita","309-CTYW-CVISD","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",0,0,0,0
+"Wichita","309-CTYW-CVISD","President",,"GRN","JILL STEIN/RUDOLPH WARE",0,0,0,0
+"Wichita","309-CTYW-CVISD","President",,,"Write-ins",0,0,0,0
+"Wichita","309-CTYW-CVISD","President",,,"Under Votes",0,0,0,0
+"Wichita","309-CTYW-CVISD","President",,,"Over Votes",0,0,0,0
+"Wichita","309-CTYW-CVISD","U.S. Senate",,"REP","TED CRUZ",10,0,6,4
+"Wichita","309-CTYW-CVISD","U.S. Senate",,"DEM","COLIN ALLRED",10,0,7,3
+"Wichita","309-CTYW-CVISD","U.S. Senate",,"LIB","TED BROWN",1,0,0,1
+"Wichita","309-CTYW-CVISD","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","309-CTYW-CVISD","U.S. Senate",,,"Under Votes",0,0,0,0
+"Wichita","309-CTYW-CVISD","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","309-CTYW-CVISD","U.S. House","13","REP","RONNY JACKSON",12,0,7,5
+"Wichita","309-CTYW-CVISD","U.S. House","13",,"Under Votes",9,0,6,3
+"Wichita","309-CTYW-CVISD","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","309-CTYW-CVISD","Railroad Commissioner",,"REP","CHRISTI CRADDICK",11,0,7,4
+"Wichita","309-CTYW-CVISD","Railroad Commissioner",,"DEM","KATHERINE CULBERT",7,0,4,3
+"Wichita","309-CTYW-CVISD","Railroad Commissioner",,"LIB","HAWK DUNLAP",1,0,0,1
+"Wichita","309-CTYW-CVISD","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",0,0,0,0
+"Wichita","309-CTYW-CVISD","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","309-CTYW-CVISD","Railroad Commissioner",,,"Under Votes",2,0,2,0
+"Wichita","309-CTYW-CVISD","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","309-CTYW-CVISD","State Representative","69","REP","JAMES B FRANK",11,0,7,4
+"Wichita","309-CTYW-CVISD","State Representative","69","DEM","WALTER COPPAGE",9,0,5,4
+"Wichita","309-CTYW-CVISD","State Representative","69",,"Under Votes",1,0,1,0
+"Wichita","309-CTYW-CVISD","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","309-CTYW-CVISD","Sheriff",,"REP","DAVID DUKE",16,0,10,6
+"Wichita","309-CTYW-CVISD","Sheriff",,,"Under Votes",5,0,3,2
+"Wichita","309-CTYW-CVISD","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","309-CTYW-CVISD","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",16,0,10,6
+"Wichita","309-CTYW-CVISD","County Tax Assessor-Collector",,,"Under Votes",5,0,3,2
+"Wichita","309-CTYW-CVISD","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","310-CTYW2","President",,"REP","DONALD J. TRUMP/JD VANCE",294,14,190,90
+"Wichita","310-CTYW2","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",481,38,300,143
+"Wichita","310-CTYW2","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",3,0,2,1
+"Wichita","310-CTYW2","President",,"GRN","JILL STEIN/RUDOLPH WARE",5,0,3,2
+"Wichita","310-CTYW2","President",,,"Write-ins",0,0,0,0
+"Wichita","310-CTYW2","President",,,"Under Votes",1,0,1,0
+"Wichita","310-CTYW2","President",,,"Over Votes",0,0,0,0
+"Wichita","310-CTYW2","U.S. Senate",,"REP","TED CRUZ",279,15,184,80
+"Wichita","310-CTYW2","U.S. Senate",,"DEM","COLIN ALLRED",460,35,285,140
+"Wichita","310-CTYW2","U.S. Senate",,"LIB","TED BROWN",22,0,15,7
+"Wichita","310-CTYW2","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","310-CTYW2","U.S. Senate",,,"Under Votes",23,2,12,9
+"Wichita","310-CTYW2","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","310-CTYW2","U.S. House","13","REP","RONNY JACKSON",404,21,257,126
+"Wichita","310-CTYW2","U.S. House","13",,"Under Votes",380,31,239,110
+"Wichita","310-CTYW2","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","310-CTYW2","Railroad Commissioner",,"REP","CHRISTI CRADDICK",282,13,194,75
+"Wichita","310-CTYW2","Railroad Commissioner",,"DEM","KATHERINE CULBERT",416,34,260,122
+"Wichita","310-CTYW2","Railroad Commissioner",,"LIB","HAWK DUNLAP",17,0,5,12
+"Wichita","310-CTYW2","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",24,0,13,11
+"Wichita","310-CTYW2","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","310-CTYW2","Railroad Commissioner",,,"Under Votes",45,5,24,16
+"Wichita","310-CTYW2","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","310-CTYW2","State Senate","30","REP","BRENT HAGENBUCH",285,10,194,81
+"Wichita","310-CTYW2","State Senate","30","DEM","DALE FREY",440,33,270,137
+"Wichita","310-CTYW2","State Senate","30",,"Under Votes",59,9,32,18
+"Wichita","310-CTYW2","State Senate","30",,"Over Votes",0,0,0,0
+"Wichita","310-CTYW2","State Representative","69","REP","JAMES B FRANK",285,10,194,81
+"Wichita","310-CTYW2","State Representative","69","DEM","WALTER COPPAGE",442,33,270,139
+"Wichita","310-CTYW2","State Representative","69",,"Under Votes",57,9,32,16
+"Wichita","310-CTYW2","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","310-CTYW2","Sheriff",,"REP","DAVID DUKE",407,20,260,127
+"Wichita","310-CTYW2","Sheriff",,,"Under Votes",377,32,236,109
+"Wichita","310-CTYW2","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","310-CTYW2","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",424,19,274,131
+"Wichita","310-CTYW2","County Tax Assessor-Collector",,,"Under Votes",360,33,222,105
+"Wichita","310-CTYW2","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","401-CTYW1","President",,"REP","DONALD J. TRUMP/JD VANCE",1176,51,960,165
+"Wichita","401-CTYW1","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",436,40,320,76
+"Wichita","401-CTYW1","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",13,0,9,4
+"Wichita","401-CTYW1","President",,"GRN","JILL STEIN/RUDOLPH WARE",8,0,3,5
+"Wichita","401-CTYW1","President",,,"Write-ins",4,0,3,1
+"Wichita","401-CTYW1","President",,,"Under Votes",15,3,11,1
+"Wichita","401-CTYW1","President",,,"Over Votes",0,0,0,0
+"Wichita","401-CTYW1","U.S. Senate",,"REP","TED CRUZ",1161,51,954,156
+"Wichita","401-CTYW1","U.S. Senate",,"DEM","COLIN ALLRED",455,40,331,84
+"Wichita","401-CTYW1","U.S. Senate",,"LIB","TED BROWN",25,2,13,10
+"Wichita","401-CTYW1","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","401-CTYW1","U.S. Senate",,,"Under Votes",11,1,8,2
+"Wichita","401-CTYW1","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","401-CTYW1","U.S. House","13","REP","RONNY JACKSON",1263,56,1021,186
+"Wichita","401-CTYW1","U.S. House","13",,"Under Votes",389,38,285,66
+"Wichita","401-CTYW1","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","401-CTYW1","Railroad Commissioner",,"REP","CHRISTI CRADDICK",1123,52,918,153
+"Wichita","401-CTYW1","Railroad Commissioner",,"DEM","KATHERINE CULBERT",366,30,279,57
+"Wichita","401-CTYW1","Railroad Commissioner",,"LIB","HAWK DUNLAP",49,2,38,9
+"Wichita","401-CTYW1","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",24,2,12,10
+"Wichita","401-CTYW1","Railroad Commissioner",,,"Write-ins",1,0,0,1
+"Wichita","401-CTYW1","Railroad Commissioner",,,"Under Votes",89,8,59,22
+"Wichita","401-CTYW1","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","401-CTYW1","State Representative","69","REP","JAMES B FRANK",1184,51,965,168
+"Wichita","401-CTYW1","State Representative","69","DEM","WALTER COPPAGE",385,33,288,64
+"Wichita","401-CTYW1","State Representative","69",,"Under Votes",83,10,53,20
+"Wichita","401-CTYW1","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","401-CTYW1","Sheriff",,"REP","DAVID DUKE",1286,58,1038,190
+"Wichita","401-CTYW1","Sheriff",,,"Under Votes",366,36,268,62
+"Wichita","401-CTYW1","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","401-CTYW1","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",1299,60,1046,193
+"Wichita","401-CTYW1","County Tax Assessor-Collector",,,"Under Votes",353,34,260,59
+"Wichita","401-CTYW1","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","402-CTYW1","President",,"REP","DONALD J. TRUMP/JD VANCE",346,17,247,82
+"Wichita","402-CTYW1","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",138,10,98,30
+"Wichita","402-CTYW1","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",4,0,2,2
+"Wichita","402-CTYW1","President",,"GRN","JILL STEIN/RUDOLPH WARE",0,0,0,0
+"Wichita","402-CTYW1","President",,,"Write-ins",0,0,0,0
+"Wichita","402-CTYW1","President",,,"Under Votes",1,0,1,0
+"Wichita","402-CTYW1","President",,,"Over Votes",0,0,0,0
+"Wichita","402-CTYW1","U.S. Senate",,"REP","TED CRUZ",327,18,236,73
+"Wichita","402-CTYW1","U.S. Senate",,"DEM","COLIN ALLRED",144,9,101,34
+"Wichita","402-CTYW1","U.S. Senate",,"LIB","TED BROWN",17,0,10,7
+"Wichita","402-CTYW1","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","402-CTYW1","U.S. Senate",,,"Under Votes",1,0,1,0
+"Wichita","402-CTYW1","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","402-CTYW1","U.S. House","13","REP","RONNY JACKSON",371,19,269,83
+"Wichita","402-CTYW1","U.S. House","13",,"Under Votes",118,8,79,31
+"Wichita","402-CTYW1","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","402-CTYW1","Railroad Commissioner",,"REP","CHRISTI CRADDICK",323,17,236,70
+"Wichita","402-CTYW1","Railroad Commissioner",,"DEM","KATHERINE CULBERT",120,5,86,29
+"Wichita","402-CTYW1","Railroad Commissioner",,"LIB","HAWK DUNLAP",15,0,10,5
+"Wichita","402-CTYW1","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",6,1,2,3
+"Wichita","402-CTYW1","Railroad Commissioner",,,"Write-ins",1,0,0,1
+"Wichita","402-CTYW1","Railroad Commissioner",,,"Under Votes",24,4,14,6
+"Wichita","402-CTYW1","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","402-CTYW1","State Representative","69","REP","JAMES B FRANK",337,19,240,78
+"Wichita","402-CTYW1","State Representative","69","DEM","WALTER COPPAGE",131,5,93,33
+"Wichita","402-CTYW1","State Representative","69",,"Under Votes",21,3,15,3
+"Wichita","402-CTYW1","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","402-CTYW1","Sheriff",,"REP","DAVID DUKE",368,20,264,84
+"Wichita","402-CTYW1","Sheriff",,,"Under Votes",121,7,84,30
+"Wichita","402-CTYW1","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","402-CTYW1","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",373,19,266,88
+"Wichita","402-CTYW1","County Tax Assessor-Collector",,,"Under Votes",116,8,82,26
+"Wichita","402-CTYW1","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","403-CTYW","President",,"REP","DONALD J. TRUMP/JD VANCE",1509,28,1158,323
+"Wichita","403-CTYW","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",620,34,462,124
+"Wichita","403-CTYW","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",18,0,6,12
+"Wichita","403-CTYW","President",,"GRN","JILL STEIN/RUDOLPH WARE",11,0,10,1
+"Wichita","403-CTYW","President",,,"Write-ins",0,0,0,0
+"Wichita","403-CTYW","President",,,"Under Votes",7,2,5,0
+"Wichita","403-CTYW","President",,,"Over Votes",0,0,0,0
+"Wichita","403-CTYW","U.S. Senate",,"REP","TED CRUZ",1430,27,1110,293
+"Wichita","403-CTYW","U.S. Senate",,"DEM","COLIN ALLRED",656,35,481,140
+"Wichita","403-CTYW","U.S. Senate",,"LIB","TED BROWN",60,2,37,21
+"Wichita","403-CTYW","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","403-CTYW","U.S. Senate",,,"Under Votes",19,0,13,6
+"Wichita","403-CTYW","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","403-CTYW","U.S. House","13","REP","RONNY JACKSON",1666,34,1261,371
+"Wichita","403-CTYW","U.S. House","13",,"Under Votes",499,30,380,89
+"Wichita","403-CTYW","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","403-CTYW","Railroad Commissioner",,"REP","CHRISTI CRADDICK",1416,27,1094,295
+"Wichita","403-CTYW","Railroad Commissioner",,"DEM","KATHERINE CULBERT",538,31,403,104
+"Wichita","403-CTYW","Railroad Commissioner",,"LIB","HAWK DUNLAP",78,2,47,29
+"Wichita","403-CTYW","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",36,0,25,11
+"Wichita","403-CTYW","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","403-CTYW","Railroad Commissioner",,,"Under Votes",97,4,72,21
+"Wichita","403-CTYW","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","403-CTYW","State Representative","69","REP","JAMES B FRANK",1486,29,1137,320
+"Wichita","403-CTYW","State Representative","69","DEM","WALTER COPPAGE",583,32,431,120
+"Wichita","403-CTYW","State Representative","69",,"Under Votes",96,3,73,20
+"Wichita","403-CTYW","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","403-CTYW","Sheriff",,"REP","DAVID DUKE",1681,39,1273,369
+"Wichita","403-CTYW","Sheriff",,,"Under Votes",484,25,368,91
+"Wichita","403-CTYW","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","403-CTYW","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",1697,36,1290,371
+"Wichita","403-CTYW","County Tax Assessor-Collector",,,"Under Votes",468,28,351,89
+"Wichita","403-CTYW","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","404-CTYW1","President",,"REP","DONALD J. TRUMP/JD VANCE",1506,59,1217,230
+"Wichita","404-CTYW1","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",561,33,435,93
+"Wichita","404-CTYW1","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",17,2,11,4
+"Wichita","404-CTYW1","President",,"GRN","JILL STEIN/RUDOLPH WARE",4,0,2,2
+"Wichita","404-CTYW1","President",,,"Write-ins",1,0,0,1
+"Wichita","404-CTYW1","President",,,"Under Votes",23,1,18,4
+"Wichita","404-CTYW1","President",,,"Over Votes",0,0,0,0
+"Wichita","404-CTYW1","U.S. Senate",,"REP","TED CRUZ",1481,58,1208,215
+"Wichita","404-CTYW1","U.S. Senate",,"DEM","COLIN ALLRED",579,33,446,100
+"Wichita","404-CTYW1","U.S. Senate",,"LIB","TED BROWN",26,2,10,14
+"Wichita","404-CTYW1","U.S. Senate",,,"Write-ins",1,1,0,0
+"Wichita","404-CTYW1","U.S. Senate",,,"Under Votes",25,1,19,5
+"Wichita","404-CTYW1","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","404-CTYW1","U.S. House","13","REP","RONNY JACKSON",1671,71,1335,265
+"Wichita","404-CTYW1","U.S. House","13",,"Under Votes",441,24,348,69
+"Wichita","404-CTYW1","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","404-CTYW1","Railroad Commissioner",,"REP","CHRISTI CRADDICK",1503,58,1218,227
+"Wichita","404-CTYW1","Railroad Commissioner",,"DEM","KATHERINE CULBERT",464,25,369,70
+"Wichita","404-CTYW1","Railroad Commissioner",,"LIB","HAWK DUNLAP",50,4,31,15
+"Wichita","404-CTYW1","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",13,1,9,3
+"Wichita","404-CTYW1","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","404-CTYW1","Railroad Commissioner",,,"Under Votes",82,7,56,19
+"Wichita","404-CTYW1","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","404-CTYW1","State Representative","69","REP","JAMES B FRANK",1537,56,1241,240
+"Wichita","404-CTYW1","State Representative","69","DEM","WALTER COPPAGE",489,27,381,81
+"Wichita","404-CTYW1","State Representative","69",,"Under Votes",86,12,61,13
+"Wichita","404-CTYW1","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","404-CTYW1","Sheriff",,"REP","DAVID DUKE",1705,64,1364,277
+"Wichita","404-CTYW1","Sheriff",,,"Under Votes",407,31,319,57
+"Wichita","404-CTYW1","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","404-CTYW1","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",1727,68,1381,278
+"Wichita","404-CTYW1","County Tax Assessor-Collector",,,"Under Votes",385,27,302,56
+"Wichita","404-CTYW1","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","405-CTYW1","President",,"REP","DONALD J. TRUMP/JD VANCE",1288,29,965,294
+"Wichita","405-CTYW1","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",802,47,562,193
+"Wichita","405-CTYW1","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",15,1,7,7
+"Wichita","405-CTYW1","President",,"GRN","JILL STEIN/RUDOLPH WARE",14,0,10,4
+"Wichita","405-CTYW1","President",,,"Write-ins",2,0,0,2
+"Wichita","405-CTYW1","President",,,"Under Votes",21,1,13,7
+"Wichita","405-CTYW1","President",,,"Over Votes",0,0,0,0
+"Wichita","405-CTYW1","U.S. Senate",,"REP","TED CRUZ",1244,32,942,270
+"Wichita","405-CTYW1","U.S. Senate",,"DEM","COLIN ALLRED",814,45,566,203
+"Wichita","405-CTYW1","U.S. Senate",,"LIB","TED BROWN",56,0,33,23
+"Wichita","405-CTYW1","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","405-CTYW1","U.S. Senate",,,"Under Votes",28,1,16,11
+"Wichita","405-CTYW1","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","405-CTYW1","U.S. House","13","REP","RONNY JACKSON",1517,34,1113,370
+"Wichita","405-CTYW1","U.S. House","13",,"Under Votes",625,44,444,137
+"Wichita","405-CTYW1","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","405-CTYW1","Railroad Commissioner",,"REP","CHRISTI CRADDICK",1213,25,918,270
+"Wichita","405-CTYW1","Railroad Commissioner",,"DEM","KATHERINE CULBERT",689,41,489,159
+"Wichita","405-CTYW1","Railroad Commissioner",,"LIB","HAWK DUNLAP",72,3,49,20
+"Wichita","405-CTYW1","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",63,1,39,23
+"Wichita","405-CTYW1","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","405-CTYW1","Railroad Commissioner",,,"Under Votes",105,8,62,35
+"Wichita","405-CTYW1","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","405-CTYW1","State Representative","69","REP","JAMES B FRANK",1285,30,960,295
+"Wichita","405-CTYW1","State Representative","69","DEM","WALTER COPPAGE",753,38,534,181
+"Wichita","405-CTYW1","State Representative","69",,"Under Votes",104,10,63,31
+"Wichita","405-CTYW1","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","405-CTYW1","Sheriff",,"REP","DAVID DUKE",1522,33,1117,372
+"Wichita","405-CTYW1","Sheriff",,,"Under Votes",620,45,440,135
+"Wichita","405-CTYW1","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","405-CTYW1","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",1546,35,1139,372
+"Wichita","405-CTYW1","County Tax Assessor-Collector",,,"Under Votes",596,43,418,135
+"Wichita","405-CTYW1","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","406-CTYW","President",,"REP","DONALD J. TRUMP/JD VANCE",1523,52,1175,296
+"Wichita","406-CTYW","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",663,43,494,126
+"Wichita","406-CTYW","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",17,0,12,5
+"Wichita","406-CTYW","President",,"GRN","JILL STEIN/RUDOLPH WARE",5,0,5,0
+"Wichita","406-CTYW","President",,,"Write-ins",0,0,0,0
+"Wichita","406-CTYW","President",,,"Under Votes",8,0,4,4
+"Wichita","406-CTYW","President",,,"Over Votes",0,0,0,0
+"Wichita","406-CTYW","U.S. Senate",,"REP","TED CRUZ",1455,51,1131,273
+"Wichita","406-CTYW","U.S. Senate",,"DEM","COLIN ALLRED",690,41,509,140
+"Wichita","406-CTYW","U.S. Senate",,"LIB","TED BROWN",51,2,37,12
+"Wichita","406-CTYW","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","406-CTYW","U.S. Senate",,,"Under Votes",20,1,13,6
+"Wichita","406-CTYW","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","406-CTYW","U.S. House","13","REP","RONNY JACKSON",1718,60,1316,342
+"Wichita","406-CTYW","U.S. House","13",,"Under Votes",498,35,374,89
+"Wichita","406-CTYW","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","406-CTYW","Railroad Commissioner",,"REP","CHRISTI CRADDICK",1451,53,1116,282
+"Wichita","406-CTYW","Railroad Commissioner",,"DEM","KATHERINE CULBERT",562,35,427,100
+"Wichita","406-CTYW","Railroad Commissioner",,"LIB","HAWK DUNLAP",81,2,63,16
+"Wichita","406-CTYW","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",41,0,28,13
+"Wichita","406-CTYW","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","406-CTYW","Railroad Commissioner",,,"Under Votes",81,5,56,20
+"Wichita","406-CTYW","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","406-CTYW","State Representative","69","REP","JAMES B FRANK",1511,52,1170,289
+"Wichita","406-CTYW","State Representative","69","DEM","WALTER COPPAGE",621,37,465,119
+"Wichita","406-CTYW","State Representative","69",,"Under Votes",84,6,55,23
+"Wichita","406-CTYW","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","406-CTYW","Sheriff",,"REP","DAVID DUKE",1733,63,1323,347
+"Wichita","406-CTYW","Sheriff",,,"Under Votes",483,32,367,84
+"Wichita","406-CTYW","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","406-CTYW","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",1742,62,1332,348
+"Wichita","406-CTYW","County Tax Assessor-Collector",,,"Under Votes",474,33,358,83
+"Wichita","406-CTYW","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","407","President",,"REP","DONALD J. TRUMP/JD VANCE",506,9,401,96
+"Wichita","407","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",45,4,32,9
+"Wichita","407","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",2,0,1,1
+"Wichita","407","President",,"GRN","JILL STEIN/RUDOLPH WARE",1,0,1,0
+"Wichita","407","President",,,"Write-ins",0,0,0,0
+"Wichita","407","President",,,"Under Votes",7,0,4,3
+"Wichita","407","President",,,"Over Votes",0,0,0,0
+"Wichita","407","U.S. Senate",,"REP","TED CRUZ",489,9,396,84
+"Wichita","407","U.S. Senate",,"DEM","COLIN ALLRED",55,4,35,16
+"Wichita","407","U.S. Senate",,"LIB","TED BROWN",10,0,3,7
+"Wichita","407","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","407","U.S. Senate",,,"Under Votes",7,0,5,2
+"Wichita","407","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","407","U.S. House","13","REP","RONNY JACKSON",509,7,403,99
+"Wichita","407","U.S. House","13",,"Under Votes",52,6,36,10
+"Wichita","407","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","407","Railroad Commissioner",,"REP","CHRISTI CRADDICK",476,6,382,88
+"Wichita","407","Railroad Commissioner",,"DEM","KATHERINE CULBERT",35,2,27,6
+"Wichita","407","Railroad Commissioner",,"LIB","HAWK DUNLAP",20,3,9,8
+"Wichita","407","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",5,1,2,2
+"Wichita","407","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","407","Railroad Commissioner",,,"Under Votes",25,1,19,5
+"Wichita","407","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","407","State Representative","69","REP","JAMES B FRANK",495,9,395,91
+"Wichita","407","State Representative","69","DEM","WALTER COPPAGE",45,4,28,13
+"Wichita","407","State Representative","69",,"Under Votes",21,0,16,5
+"Wichita","407","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","407","Sheriff",,"REP","DAVID DUKE",507,9,400,98
+"Wichita","407","Sheriff",,,"Under Votes",54,4,39,11
+"Wichita","407","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","407","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",506,11,396,99
+"Wichita","407","County Tax Assessor-Collector",,,"Under Votes",55,2,43,10
+"Wichita","407","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","407-CVISD","President",,"REP","DONALD J. TRUMP/JD VANCE",7,0,4,3
+"Wichita","407-CVISD","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",1,1,0,0
+"Wichita","407-CVISD","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",0,0,0,0
+"Wichita","407-CVISD","President",,"GRN","JILL STEIN/RUDOLPH WARE",0,0,0,0
+"Wichita","407-CVISD","President",,,"Write-ins",0,0,0,0
+"Wichita","407-CVISD","President",,,"Under Votes",0,0,0,0
+"Wichita","407-CVISD","President",,,"Over Votes",0,0,0,0
+"Wichita","407-CVISD","U.S. Senate",,"REP","TED CRUZ",6,0,3,3
+"Wichita","407-CVISD","U.S. Senate",,"DEM","COLIN ALLRED",1,1,0,0
+"Wichita","407-CVISD","U.S. Senate",,"LIB","TED BROWN",0,0,0,0
+"Wichita","407-CVISD","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","407-CVISD","U.S. Senate",,,"Under Votes",1,0,1,0
+"Wichita","407-CVISD","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","407-CVISD","U.S. House","13","REP","RONNY JACKSON",7,0,4,3
+"Wichita","407-CVISD","U.S. House","13",,"Under Votes",1,1,0,0
+"Wichita","407-CVISD","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","407-CVISD","Railroad Commissioner",,"REP","CHRISTI CRADDICK",6,0,3,3
+"Wichita","407-CVISD","Railroad Commissioner",,"DEM","KATHERINE CULBERT",1,1,0,0
+"Wichita","407-CVISD","Railroad Commissioner",,"LIB","HAWK DUNLAP",0,0,0,0
+"Wichita","407-CVISD","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",0,0,0,0
+"Wichita","407-CVISD","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","407-CVISD","Railroad Commissioner",,,"Under Votes",1,0,1,0
+"Wichita","407-CVISD","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","407-CVISD","State Representative","69","REP","JAMES B FRANK",7,0,4,3
+"Wichita","407-CVISD","State Representative","69","DEM","WALTER COPPAGE",1,1,0,0
+"Wichita","407-CVISD","State Representative","69",,"Under Votes",0,0,0,0
+"Wichita","407-CVISD","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","407-CVISD","Sheriff",,"REP","DAVID DUKE",7,0,4,3
+"Wichita","407-CVISD","Sheriff",,,"Under Votes",1,1,0,0
+"Wichita","407-CVISD","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","407-CVISD","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",7,0,4,3
+"Wichita","407-CVISD","County Tax Assessor-Collector",,,"Under Votes",1,1,0,0
+"Wichita","407-CVISD","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","408","President",,"REP","DONALD J. TRUMP/JD VANCE",512,5,370,137
+"Wichita","408","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",98,2,72,24
+"Wichita","408","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",9,0,3,6
+"Wichita","408","President",,"GRN","JILL STEIN/RUDOLPH WARE",1,0,0,1
+"Wichita","408","President",,,"Write-ins",0,0,0,0
+"Wichita","408","President",,,"Under Votes",2,0,1,1
+"Wichita","408","President",,,"Over Votes",0,0,0,0
+"Wichita","408","U.S. Senate",,"REP","TED CRUZ",486,5,357,124
+"Wichita","408","U.S. Senate",,"DEM","COLIN ALLRED",108,2,74,32
+"Wichita","408","U.S. Senate",,"LIB","TED BROWN",22,0,11,11
+"Wichita","408","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","408","U.S. Senate",,,"Under Votes",6,0,4,2
+"Wichita","408","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","408","U.S. House","13","REP","RONNY JACKSON",528,4,377,147
+"Wichita","408","U.S. House","13",,"Under Votes",94,3,69,22
+"Wichita","408","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","408","Railroad Commissioner",,"REP","CHRISTI CRADDICK",479,3,350,126
+"Wichita","408","Railroad Commissioner",,"DEM","KATHERINE CULBERT",85,3,62,20
+"Wichita","408","Railroad Commissioner",,"LIB","HAWK DUNLAP",21,0,12,9
+"Wichita","408","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",8,0,4,4
+"Wichita","408","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","408","Railroad Commissioner",,,"Under Votes",29,1,18,10
+"Wichita","408","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","408","State Representative","69","REP","JAMES B FRANK",502,4,366,132
+"Wichita","408","State Representative","69","DEM","WALTER COPPAGE",99,2,69,28
+"Wichita","408","State Representative","69",,"Under Votes",21,1,11,9
+"Wichita","408","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","408","Sheriff",,"REP","DAVID DUKE",529,5,381,143
+"Wichita","408","Sheriff",,,"Under Votes",93,2,65,26
+"Wichita","408","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","408","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",530,4,380,146
+"Wichita","408","County Tax Assessor-Collector",,,"Under Votes",92,3,66,23
+"Wichita","408","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","409","President",,"REP","DONALD J. TRUMP/JD VANCE",340,7,265,68
+"Wichita","409","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",54,5,37,12
+"Wichita","409","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",1,0,0,1
+"Wichita","409","President",,"GRN","JILL STEIN/RUDOLPH WARE",1,0,0,1
+"Wichita","409","President",,,"Write-ins",0,0,0,0
+"Wichita","409","President",,,"Under Votes",1,0,0,1
+"Wichita","409","President",,,"Over Votes",0,0,0,0
+"Wichita","409","U.S. Senate",,"REP","TED CRUZ",336,8,262,66
+"Wichita","409","U.S. Senate",,"DEM","COLIN ALLRED",54,4,35,15
+"Wichita","409","U.S. Senate",,"LIB","TED BROWN",4,0,4,0
+"Wichita","409","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","409","U.S. Senate",,,"Under Votes",3,0,1,2
+"Wichita","409","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","409","U.S. House","13","REP","RONNY JACKSON",347,10,262,75
+"Wichita","409","U.S. House","13",,"Under Votes",50,2,40,8
+"Wichita","409","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","409","Railroad Commissioner",,"REP","CHRISTI CRADDICK",323,8,248,67
+"Wichita","409","Railroad Commissioner",,"DEM","KATHERINE CULBERT",47,3,33,11
+"Wichita","409","Railroad Commissioner",,"LIB","HAWK DUNLAP",6,0,5,1
+"Wichita","409","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",4,0,3,1
+"Wichita","409","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","409","Railroad Commissioner",,,"Under Votes",17,1,13,3
+"Wichita","409","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","409","State Representative","69","REP","JAMES B FRANK",334,8,257,69
+"Wichita","409","State Representative","69","DEM","WALTER COPPAGE",50,3,37,10
+"Wichita","409","State Representative","69",,"Under Votes",13,1,8,4
+"Wichita","409","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","409","Sheriff",,"REP","DAVID DUKE",343,9,261,73
+"Wichita","409","Sheriff",,,"Under Votes",54,3,41,10
+"Wichita","409","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","409","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",346,9,262,75
+"Wichita","409","County Tax Assessor-Collector",,,"Under Votes",51,3,40,8
+"Wichita","409","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Wichita","410-CTYW1","President",,"REP","DONALD J. TRUMP/JD VANCE",175,5,142,28
+"Wichita","410-CTYW1","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",77,10,54,13
+"Wichita","410-CTYW1","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",4,0,4,0
+"Wichita","410-CTYW1","President",,"GRN","JILL STEIN/RUDOLPH WARE",0,0,0,0
+"Wichita","410-CTYW1","President",,,"Write-ins",0,0,0,0
+"Wichita","410-CTYW1","President",,,"Under Votes",4,0,3,1
+"Wichita","410-CTYW1","President",,,"Over Votes",0,0,0,0
+"Wichita","410-CTYW1","U.S. Senate",,"REP","TED CRUZ",176,5,144,27
+"Wichita","410-CTYW1","U.S. Senate",,"DEM","COLIN ALLRED",75,10,55,10
+"Wichita","410-CTYW1","U.S. Senate",,"LIB","TED BROWN",8,0,3,5
+"Wichita","410-CTYW1","U.S. Senate",,,"Write-ins",0,0,0,0
+"Wichita","410-CTYW1","U.S. Senate",,,"Under Votes",1,0,1,0
+"Wichita","410-CTYW1","U.S. Senate",,,"Over Votes",0,0,0,0
+"Wichita","410-CTYW1","U.S. House","13","REP","RONNY JACKSON",200,5,156,39
+"Wichita","410-CTYW1","U.S. House","13",,"Under Votes",60,10,47,3
+"Wichita","410-CTYW1","U.S. House","13",,"Over Votes",0,0,0,0
+"Wichita","410-CTYW1","Railroad Commissioner",,"REP","CHRISTI CRADDICK",172,5,140,27
+"Wichita","410-CTYW1","Railroad Commissioner",,"DEM","KATHERINE CULBERT",60,8,45,7
+"Wichita","410-CTYW1","Railroad Commissioner",,"LIB","HAWK DUNLAP",10,0,7,3
+"Wichita","410-CTYW1","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",4,1,1,2
+"Wichita","410-CTYW1","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Wichita","410-CTYW1","Railroad Commissioner",,,"Under Votes",14,1,10,3
+"Wichita","410-CTYW1","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Wichita","410-CTYW1","State Senate","30","REP","BRENT HAGENBUCH",175,5,141,29
+"Wichita","410-CTYW1","State Senate","30","DEM","DALE FREY",69,9,50,10
+"Wichita","410-CTYW1","State Senate","30",,"Under Votes",16,1,12,3
+"Wichita","410-CTYW1","State Senate","30",,"Over Votes",0,0,0,0
+"Wichita","410-CTYW1","State Representative","69","REP","JAMES B FRANK",173,6,138,29
+"Wichita","410-CTYW1","State Representative","69","DEM","WALTER COPPAGE",78,9,59,10
+"Wichita","410-CTYW1","State Representative","69",,"Under Votes",9,0,6,3
+"Wichita","410-CTYW1","State Representative","69",,"Over Votes",0,0,0,0
+"Wichita","410-CTYW1","Sheriff",,"REP","DAVID DUKE",214,9,166,39
+"Wichita","410-CTYW1","Sheriff",,,"Under Votes",46,6,37,3
+"Wichita","410-CTYW1","Sheriff",,,"Over Votes",0,0,0,0
+"Wichita","410-CTYW1","County Tax Assessor-Collector",,"REP","TOMMY SMYTH",212,9,165,38
+"Wichita","410-CTYW1","County Tax Assessor-Collector",,,"Under Votes",48,6,38,4
+"Wichita","410-CTYW1","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0

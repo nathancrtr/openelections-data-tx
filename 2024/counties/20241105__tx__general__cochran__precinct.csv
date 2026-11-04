@@ -1,0 +1,155 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+"Cochran","Early Voting","Ballots Cast",,,,495,0,495,0
+"Cochran","Mail","Ballots Cast",,,,55,55,0,0
+"Cochran","Box 101","Ballots Cast",,,,62,0,0,62
+"Cochran","Box 202","Ballots Cast",,,,150,0,0,150
+"Cochran","Box 303","Ballots Cast",,,,19,0,0,19
+"Cochran","Box 306","Ballots Cast",,,,59,0,0,59
+"Cochran","Box 404","Ballots Cast",,,,56,0,0,56
+"Cochran","Early Voting","President",,"REP","DONALD J. TRUMP/J D VANCE",456,0,456,0
+"Cochran","Mail","President",,"REP","DONALD J. TRUMP/J D VANCE",41,41,0,0
+"Cochran","Box 101","President",,"REP","DONALD J. TRUMP/J D VANCE",47,0,0,47
+"Cochran","Box 202","President",,"REP","DONALD J. TRUMP/J D VANCE",127,0,0,127
+"Cochran","Box 303","President",,"REP","DONALD J. TRUMP/J D VANCE",19,0,0,19
+"Cochran","Box 306","President",,"REP","DONALD J. TRUMP/J D VANCE",52,0,0,52
+"Cochran","Box 404","President",,"REP","DONALD J. TRUMP/J D VANCE",35,0,0,35
+"Cochran","Early Voting","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",85,0,85,0
+"Cochran","Mail","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",11,11,0,0
+"Cochran","Box 101","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",13,0,0,13
+"Cochran","Box 202","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",23,0,0,23
+"Cochran","Box 303","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",0,0,0,0
+"Cochran","Box 306","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",7,0,0,7
+"Cochran","Box 404","President",,"DEM","KAMALA D. HARRIS/TIM WALZ",19,0,0,19
+"Cochran","Early Voting","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",6,0,6,0
+"Cochran","Mail","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",2,2,0,0
+"Cochran","Box 101","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",1,0,0,1
+"Cochran","Box 202","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",0,0,0,0
+"Cochran","Box 303","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",0,0,0,0
+"Cochran","Box 306","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",0,0,0,0
+"Cochran","Box 404","President",,"LIB","CHASE OLIVER/MIKE TER MAAT",2,0,0,2
+"Cochran","Early Voting","President",,"GRN","JILL STEIN/RUDOLPH WARE",1,0,1,0
+"Cochran","Mail","President",,"GRN","JILL STEIN/RUDOLPH WARE",0,0,0,0
+"Cochran","Box 101","President",,"GRN","JILL STEIN/RUDOLPH WARE",0,0,0,0
+"Cochran","Box 202","President",,"GRN","JILL STEIN/RUDOLPH WARE",0,0,0,0
+"Cochran","Box 303","President",,"GRN","JILL STEIN/RUDOLPH WARE",0,0,0,0
+"Cochran","Box 306","President",,"GRN","JILL STEIN/RUDOLPH WARE",0,0,0,0
+"Cochran","Box 404","President",,"GRN","JILL STEIN/RUDOLPH WARE",0,0,0,0
+"Cochran","Early Voting","President",,,"Write-ins",0,0,0,0
+"Cochran","Mail","President",,,"Write-ins",0,0,0,0
+"Cochran","Box 101","President",,,"Write-ins",0,0,0,0
+"Cochran","Box 202","President",,,"Write-ins",0,0,0,0
+"Cochran","Box 303","President",,,"Write-ins",0,0,0,0
+"Cochran","Box 306","President",,,"Write-ins",0,0,0,0
+"Cochran","Box 404","President",,,"Write-ins",0,0,0,0
+"Cochran","Early Voting","U.S. Senate",,"REP","TED CRUZ",443,0,443,0
+"Cochran","Mail","U.S. Senate",,"REP","TED CRUZ",43,43,0,0
+"Cochran","Box 101","U.S. Senate",,"REP","TED CRUZ",47,0,0,47
+"Cochran","Box 202","U.S. Senate",,"REP","TED CRUZ",122,0,0,122
+"Cochran","Box 303","U.S. Senate",,"REP","TED CRUZ",18,0,0,18
+"Cochran","Box 306","U.S. Senate",,"REP","TED CRUZ",45,0,0,45
+"Cochran","Box 404","U.S. Senate",,"REP","TED CRUZ",31,0,0,31
+"Cochran","Early Voting","U.S. Senate",,"DEM","COLIN ALLRED",83,0,83,0
+"Cochran","Mail","U.S. Senate",,"DEM","COLIN ALLRED",11,11,0,0
+"Cochran","Box 101","U.S. Senate",,"DEM","COLIN ALLRED",14,0,0,14
+"Cochran","Box 202","U.S. Senate",,"DEM","COLIN ALLRED",22,0,0,22
+"Cochran","Box 303","U.S. Senate",,"DEM","COLIN ALLRED",1,0,0,1
+"Cochran","Box 306","U.S. Senate",,"DEM","COLIN ALLRED",9,0,0,9
+"Cochran","Box 404","U.S. Senate",,"DEM","COLIN ALLRED",19,0,0,19
+"Cochran","Early Voting","U.S. Senate",,"LIB","TED BROWN",16,0,16,0
+"Cochran","Mail","U.S. Senate",,"LIB","TED BROWN",1,1,0,0
+"Cochran","Box 101","U.S. Senate",,"LIB","TED BROWN",0,0,0,0
+"Cochran","Box 202","U.S. Senate",,"LIB","TED BROWN",2,0,0,2
+"Cochran","Box 303","U.S. Senate",,"LIB","TED BROWN",0,0,0,0
+"Cochran","Box 306","U.S. Senate",,"LIB","TED BROWN",2,0,0,2
+"Cochran","Box 404","U.S. Senate",,"LIB","TED BROWN",4,0,0,4
+"Cochran","Early Voting","U.S. Senate",,,"Write-ins",0,0,0,0
+"Cochran","Mail","U.S. Senate",,,"Write-ins",0,0,0,0
+"Cochran","Box 101","U.S. Senate",,,"Write-ins",1,0,0,1
+"Cochran","Box 202","U.S. Senate",,,"Write-ins",0,0,0,0
+"Cochran","Box 303","U.S. Senate",,,"Write-ins",0,0,0,0
+"Cochran","Box 306","U.S. Senate",,,"Write-ins",0,0,0,0
+"Cochran","Box 404","U.S. Senate",,,"Write-ins",0,0,0,0
+"Cochran","Early Voting","U.S. House","19","REP","JODEY C. ARRINGTON",468,0,468,0
+"Cochran","Mail","U.S. House","19","REP","JODEY C. ARRINGTON",43,43,0,0
+"Cochran","Box 101","U.S. House","19","REP","JODEY C. ARRINGTON",46,0,0,46
+"Cochran","Box 202","U.S. House","19","REP","JODEY C. ARRINGTON",127,0,0,127
+"Cochran","Box 303","U.S. House","19","REP","JODEY C. ARRINGTON",16,0,0,16
+"Cochran","Box 306","U.S. House","19","REP","JODEY C. ARRINGTON",46,0,0,46
+"Cochran","Box 404","U.S. House","19","REP","JODEY C. ARRINGTON",32,0,0,32
+"Cochran","Early Voting","U.S. House","19","LIB","BERNARD JOHNSON",40,0,40,0
+"Cochran","Mail","U.S. House","19","LIB","BERNARD JOHNSON",5,5,0,0
+"Cochran","Box 101","U.S. House","19","LIB","BERNARD JOHNSON",7,0,0,7
+"Cochran","Box 202","U.S. House","19","LIB","BERNARD JOHNSON",8,0,0,8
+"Cochran","Box 303","U.S. House","19","LIB","BERNARD JOHNSON",0,0,0,0
+"Cochran","Box 306","U.S. House","19","LIB","BERNARD JOHNSON",1,0,0,1
+"Cochran","Box 404","U.S. House","19","LIB","BERNARD JOHNSON",10,0,0,10
+"Cochran","Early Voting","U.S. House","19","IND","NATHAN LEWIS",21,0,21,0
+"Cochran","Mail","U.S. House","19","IND","NATHAN LEWIS",5,5,0,0
+"Cochran","Box 101","U.S. House","19","IND","NATHAN LEWIS",4,0,0,4
+"Cochran","Box 202","U.S. House","19","IND","NATHAN LEWIS",8,0,0,8
+"Cochran","Box 303","U.S. House","19","IND","NATHAN LEWIS",3,0,0,3
+"Cochran","Box 306","U.S. House","19","IND","NATHAN LEWIS",7,0,0,7
+"Cochran","Box 404","U.S. House","19","IND","NATHAN LEWIS",5,0,0,5
+"Cochran","Early Voting","Railroad Commissioner",,"REP","CHRISTI CRADDICK",421,0,421,0
+"Cochran","Mail","Railroad Commissioner",,"REP","CHRISTI CRADDICK",42,42,0,0
+"Cochran","Box 101","Railroad Commissioner",,"REP","CHRISTI CRADDICK",37,0,0,37
+"Cochran","Box 202","Railroad Commissioner",,"REP","CHRISTI CRADDICK",116,0,0,116
+"Cochran","Box 303","Railroad Commissioner",,"REP","CHRISTI CRADDICK",16,0,0,16
+"Cochran","Box 306","Railroad Commissioner",,"REP","CHRISTI CRADDICK",45,0,0,45
+"Cochran","Box 404","Railroad Commissioner",,"REP","CHRISTI CRADDICK",26,0,0,26
+"Cochran","Early Voting","Railroad Commissioner",,"DEM","KATHERINE CULBERT",68,0,68,0
+"Cochran","Mail","Railroad Commissioner",,"DEM","KATHERINE CULBERT",9,9,0,0
+"Cochran","Box 101","Railroad Commissioner",,"DEM","KATHERINE CULBERT",13,0,0,13
+"Cochran","Box 202","Railroad Commissioner",,"DEM","KATHERINE CULBERT",16,0,0,16
+"Cochran","Box 303","Railroad Commissioner",,"DEM","KATHERINE CULBERT",2,0,0,2
+"Cochran","Box 306","Railroad Commissioner",,"DEM","KATHERINE CULBERT",4,0,0,4
+"Cochran","Box 404","Railroad Commissioner",,"DEM","KATHERINE CULBERT",17,0,0,17
+"Cochran","Early Voting","Railroad Commissioner",,"LIB","HAWK DUNLAP",20,0,20,0
+"Cochran","Mail","Railroad Commissioner",,"LIB","HAWK DUNLAP",2,2,0,0
+"Cochran","Box 101","Railroad Commissioner",,"LIB","HAWK DUNLAP",4,0,0,4
+"Cochran","Box 202","Railroad Commissioner",,"LIB","HAWK DUNLAP",5,0,0,5
+"Cochran","Box 303","Railroad Commissioner",,"LIB","HAWK DUNLAP",1,0,0,1
+"Cochran","Box 306","Railroad Commissioner",,"LIB","HAWK DUNLAP",4,0,0,4
+"Cochran","Box 404","Railroad Commissioner",,"LIB","HAWK DUNLAP",2,0,0,2
+"Cochran","Early Voting","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",19,0,19,0
+"Cochran","Mail","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",1,1,0,0
+"Cochran","Box 101","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",1,0,0,1
+"Cochran","Box 202","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",7,0,0,7
+"Cochran","Box 303","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",0,0,0,0
+"Cochran","Box 306","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",2,0,0,2
+"Cochran","Box 404","Railroad Commissioner",,"GRN","EDDIE ESPINOZA",6,0,0,6
+"Cochran","Early Voting","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Cochran","Mail","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Cochran","Box 101","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Cochran","Box 202","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Cochran","Box 303","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Cochran","Box 306","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Cochran","Box 404","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Cochran","Early Voting","State Representative","88","REP","KEN KING",461,0,461,0
+"Cochran","Mail","State Representative","88","REP","KEN KING",41,41,0,0
+"Cochran","Box 101","State Representative","88","REP","KEN KING",51,0,0,51
+"Cochran","Box 202","State Representative","88","REP","KEN KING",129,0,0,129
+"Cochran","Box 303","State Representative","88","REP","KEN KING",17,0,0,17
+"Cochran","Box 306","State Representative","88","REP","KEN KING",48,0,0,48
+"Cochran","Box 404","State Representative","88","REP","KEN KING",34,0,0,34
+"Cochran","Early Voting","County Attorney",,"REP","AMANDA MARTIN",458,0,458,0
+"Cochran","Mail","County Attorney",,"REP","AMANDA MARTIN",41,41,0,0
+"Cochran","Box 101","County Attorney",,"REP","AMANDA MARTIN",49,0,0,49
+"Cochran","Box 202","County Attorney",,"REP","AMANDA MARTIN",127,0,0,127
+"Cochran","Box 303","County Attorney",,"REP","AMANDA MARTIN",15,0,0,15
+"Cochran","Box 306","County Attorney",,"REP","AMANDA MARTIN",49,0,0,49
+"Cochran","Box 404","County Attorney",,"REP","AMANDA MARTIN",40,0,0,40
+"Cochran","Early Voting","Sheriff",,"REP","JORGE DE LA CRUZ",437,0,437,0
+"Cochran","Mail","Sheriff",,"REP","JORGE DE LA CRUZ",40,40,0,0
+"Cochran","Box 101","Sheriff",,"REP","JORGE DE LA CRUZ",47,0,0,47
+"Cochran","Box 202","Sheriff",,"REP","JORGE DE LA CRUZ",122,0,0,122
+"Cochran","Box 303","Sheriff",,"REP","JORGE DE LA CRUZ",16,0,0,16
+"Cochran","Box 306","Sheriff",,"REP","JORGE DE LA CRUZ",48,0,0,48
+"Cochran","Box 404","Sheriff",,"REP","JORGE DE LA CRUZ",38,0,0,38
+"Cochran","Early Voting","County Tax Assessor-Collector",,"REP","DIXIE MENDOZA",501,0,501,0
+"Cochran","Mail","County Tax Assessor-Collector",,"REP","DIXIE MENDOZA",47,47,0,0
+"Cochran","Box 101","County Tax Assessor-Collector",,"REP","DIXIE MENDOZA",53,0,0,53
+"Cochran","Box 202","County Tax Assessor-Collector",,"REP","DIXIE MENDOZA",131,0,0,131
+"Cochran","Box 303","County Tax Assessor-Collector",,"REP","DIXIE MENDOZA",15,0,0,15
+"Cochran","Box 306","County Tax Assessor-Collector",,"REP","DIXIE MENDOZA",53,0,0,53
+"Cochran","Box 404","County Tax Assessor-Collector",,"REP","DIXIE MENDOZA",41,0,0,41
