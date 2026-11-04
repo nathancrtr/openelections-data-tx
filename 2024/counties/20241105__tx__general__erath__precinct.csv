@@ -1,0 +1,757 @@
+county,precinct,office,district,party,candidate,votes
+Erath,Precinct No. 10,Ballots Cast,,,,806
+Erath,Precinct No. 11,Ballots Cast,,,,376
+Erath,Precinct No. 12,Ballots Cast,,,,970
+Erath,Precinct No. 18,Ballots Cast,,,,1471
+Erath,Precinct No. 19,Ballots Cast,,,,1155
+Erath,Precinct No. 20,Ballots Cast,,,,880
+Erath,Precinct No. 21,Ballots Cast,,,,1098
+Erath,Precinct No. 23,Ballots Cast,,,,436
+Erath,Precinct No. 24,Ballots Cast,,,,1096
+Erath,Precinct No. 25,Ballots Cast,,,,646
+Erath,Precinct No. 30,Ballots Cast,,,,575
+Erath,Precinct No. 31,Ballots Cast,,,,1067
+Erath,Precinct No. 32,Ballots Cast,,,,1324
+Erath,Precinct No. 33,Ballots Cast,,,,600
+Erath,Precinct No. 34,Ballots Cast,,,,1284
+Erath,Precinct No. 35,Ballots Cast,,,,95
+Erath,Precinct No. 41,Ballots Cast,,,,696
+Erath,Precinct No. 44,Ballots Cast,,,,1867
+Erath,Precinct No. 45,Ballots Cast,,,,1134
+Erath,Precinct No. 46,Ballots Cast,,,,523
+Erath,Precinct No. 47,Ballots Cast,,,,342
+Erath,Precinct No. 10,President,,REP,Donald J. Trump,637
+Erath,Precinct No. 10,President,,DEM,Kamala D. Harris,165
+Erath,Precinct No. 10,President,,LIB,Chase Oliver,0
+Erath,Precinct No. 10,President,,GRN,Jill Stein,2
+Erath,Precinct No. 10,President,,,Over Votes,0
+Erath,Precinct No. 10,President,,,Under Votes,0
+Erath,Precinct No. 10,President,,,Write-ins,2
+Erath,Precinct No. 10,U.S. Senate,,REP,Ted Cruz,587
+Erath,Precinct No. 10,U.S. Senate,,DEM,Colin Allred,178
+Erath,Precinct No. 10,U.S. Senate,,LIB,Ted Brown,25
+Erath,Precinct No. 10,U.S. Senate,,,Over Votes,0
+Erath,Precinct No. 10,U.S. Senate,,,Under Votes,16
+Erath,Precinct No. 10,U.S. Senate,,,Write-ins,0
+Erath,Precinct No. 10,U.S. House,25,REP,Roger Williams,538
+Erath,Precinct No. 10,U.S. House,25,,Over Votes,0
+Erath,Precinct No. 10,U.S. House,25,,Under Votes,231
+Erath,Precinct No. 10,U.S. House,25,,Write-ins,37
+Erath,Precinct No. 10,Railroad Commissioner,,REP,Christi Craddick,570
+Erath,Precinct No. 10,Railroad Commissioner,,DEM,Katherine Culbert,146
+Erath,Precinct No. 10,Railroad Commissioner,,LIB,Hawk Dunlap,23
+Erath,Precinct No. 10,Railroad Commissioner,,GRN,Eddie Espinoza,13
+Erath,Precinct No. 10,Railroad Commissioner,,,Over Votes,0
+Erath,Precinct No. 10,Railroad Commissioner,,,Under Votes,54
+Erath,Precinct No. 10,Railroad Commissioner,,,Write-ins,0
+Erath,Precinct No. 10,State Representative,59,REP,Shelby Slawson,469
+Erath,Precinct No. 10,State Representative,59,DEM,Hannah Bohm,148
+Erath,Precinct No. 10,State Representative,59,,Over Votes,9
+Erath,Precinct No. 10,State Representative,59,,Under Votes,180
+Erath,Precinct No. 10,County Attorney,,REP,Bethany Espinoza,529
+Erath,Precinct No. 10,County Attorney,,,Under Votes,277
+Erath,Precinct No. 10,Sheriff,,REP,Matt Coates,523
+Erath,Precinct No. 10,Sheriff,,,Under Votes,283
+Erath,Precinct No. 10,County Tax Assessor-Collector,,REP,Valerie Stephen,475
+Erath,Precinct No. 10,County Tax Assessor-Collector,,DEM,Marycruz Serrano,138
+Erath,Precinct No. 10,County Tax Assessor-Collector,,,Under Votes,193
+Erath,Precinct No. 11,President,,REP,Donald J. Trump,268
+Erath,Precinct No. 11,President,,DEM,Kamala D. Harris,100
+Erath,Precinct No. 11,President,,LIB,Chase Oliver,3
+Erath,Precinct No. 11,President,,GRN,Jill Stein,3
+Erath,Precinct No. 11,President,,,Over Votes,0
+Erath,Precinct No. 11,President,,,Under Votes,1
+Erath,Precinct No. 11,President,,,Write-ins,1
+Erath,Precinct No. 11,U.S. Senate,,REP,Ted Cruz,249
+Erath,Precinct No. 11,U.S. Senate,,DEM,Colin Allred,114
+Erath,Precinct No. 11,U.S. Senate,,LIB,Ted Brown,8
+Erath,Precinct No. 11,U.S. Senate,,,Over Votes,0
+Erath,Precinct No. 11,U.S. Senate,,,Under Votes,5
+Erath,Precinct No. 11,U.S. Senate,,,Write-ins,0
+Erath,Precinct No. 11,U.S. House,25,REP,Roger Williams,283
+Erath,Precinct No. 11,U.S. House,25,,Over Votes,0
+Erath,Precinct No. 11,U.S. House,25,,Under Votes,70
+Erath,Precinct No. 11,U.S. House,25,,Write-ins,23
+Erath,Precinct No. 11,Railroad Commissioner,,REP,Christi Craddick,240
+Erath,Precinct No. 11,Railroad Commissioner,,DEM,Katherine Culbert,90
+Erath,Precinct No. 11,Railroad Commissioner,,LIB,Hawk Dunlap,11
+Erath,Precinct No. 11,Railroad Commissioner,,GRN,Eddie Espinoza,12
+Erath,Precinct No. 11,Railroad Commissioner,,,Over Votes,0
+Erath,Precinct No. 11,Railroad Commissioner,,,Under Votes,23
+Erath,Precinct No. 11,Railroad Commissioner,,,Write-ins,0
+Erath,Precinct No. 11,State Representative,59,REP,Shelby Slawson,240
+Erath,Precinct No. 11,State Representative,59,DEM,Hannah Bohm,98
+Erath,Precinct No. 11,State Representative,59,,Over Votes,2
+Erath,Precinct No. 11,State Representative,59,,Under Votes,36
+Erath,Precinct No. 11,County Attorney,,REP,Bethany Espinoza,272
+Erath,Precinct No. 11,County Attorney,,,Under Votes,104
+Erath,Precinct No. 11,Sheriff,,REP,Matt Coates,268
+Erath,Precinct No. 11,Sheriff,,,Under Votes,108
+Erath,Precinct No. 11,County Tax Assessor-Collector,,REP,Valerie Stephen,237
+Erath,Precinct No. 11,County Tax Assessor-Collector,,DEM,Marycruz Serrano,98
+Erath,Precinct No. 11,County Tax Assessor-Collector,,,Under Votes,41
+Erath,Precinct No. 12,President,,REP,Donald J. Trump,776
+Erath,Precinct No. 12,President,,DEM,Kamala D. Harris,177
+Erath,Precinct No. 12,President,,LIB,Chase Oliver,8
+Erath,Precinct No. 12,President,,GRN,Jill Stein,1
+Erath,Precinct No. 12,President,,,Over Votes,0
+Erath,Precinct No. 12,President,,,Under Votes,3
+Erath,Precinct No. 12,President,,,Write-ins,5
+Erath,Precinct No. 12,U.S. Senate,,REP,Ted Cruz,753
+Erath,Precinct No. 12,U.S. Senate,,DEM,Colin Allred,183
+Erath,Precinct No. 12,U.S. Senate,,LIB,Ted Brown,28
+Erath,Precinct No. 12,U.S. Senate,,,Over Votes,0
+Erath,Precinct No. 12,U.S. Senate,,,Under Votes,6
+Erath,Precinct No. 12,U.S. Senate,,,Write-ins,0
+Erath,Precinct No. 12,U.S. House,25,REP,Roger Williams,830
+Erath,Precinct No. 12,U.S. House,25,,Over Votes,0
+Erath,Precinct No. 12,U.S. House,25,,Under Votes,123
+Erath,Precinct No. 12,U.S. House,25,,Write-ins,17
+Erath,Precinct No. 12,Railroad Commissioner,,REP,Christi Craddick,747
+Erath,Precinct No. 12,Railroad Commissioner,,DEM,Katherine Culbert,145
+Erath,Precinct No. 12,Railroad Commissioner,,LIB,Hawk Dunlap,29
+Erath,Precinct No. 12,Railroad Commissioner,,GRN,Eddie Espinoza,10
+Erath,Precinct No. 12,Railroad Commissioner,,,Over Votes,0
+Erath,Precinct No. 12,Railroad Commissioner,,,Under Votes,38
+Erath,Precinct No. 12,Railroad Commissioner,,,Write-ins,1
+Erath,Precinct No. 12,State Representative,59,REP,Shelby Slawson,763
+Erath,Precinct No. 12,State Representative,59,DEM,Hannah Bohm,160
+Erath,Precinct No. 12,State Representative,59,,Over Votes,4
+Erath,Precinct No. 12,State Representative,59,,Under Votes,43
+Erath,Precinct No. 12,County Attorney,,REP,Bethany Espinoza,825
+Erath,Precinct No. 12,County Attorney,,,Under Votes,145
+Erath,Precinct No. 12,Sheriff,,REP,Matt Coates,823
+Erath,Precinct No. 12,Sheriff,,,Under Votes,147
+Erath,Precinct No. 12,County Tax Assessor-Collector,,REP,Valerie Stephen,777
+Erath,Precinct No. 12,County Tax Assessor-Collector,,DEM,Marycruz Serrano,140
+Erath,Precinct No. 12,County Tax Assessor-Collector,,,Under Votes,53
+Erath,Precinct No. 18,President,,REP,Donald J. Trump,1253
+Erath,Precinct No. 18,President,,DEM,Kamala D. Harris,203
+Erath,Precinct No. 18,President,,LIB,Chase Oliver,7
+Erath,Precinct No. 18,President,,GRN,Jill Stein,0
+Erath,Precinct No. 18,President,,,Over Votes,0
+Erath,Precinct No. 18,President,,,Under Votes,3
+Erath,Precinct No. 18,President,,,Write-ins,5
+Erath,Precinct No. 18,U.S. Senate,,REP,Ted Cruz,1198
+Erath,Precinct No. 18,U.S. Senate,,DEM,Colin Allred,230
+Erath,Precinct No. 18,U.S. Senate,,LIB,Ted Brown,30
+Erath,Precinct No. 18,U.S. Senate,,,Over Votes,0
+Erath,Precinct No. 18,U.S. Senate,,,Under Votes,13
+Erath,Precinct No. 18,U.S. Senate,,,Write-ins,0
+Erath,Precinct No. 18,U.S. House,25,REP,Roger Williams,1272
+Erath,Precinct No. 18,U.S. House,25,,Over Votes,0
+Erath,Precinct No. 18,U.S. House,25,,Under Votes,175
+Erath,Precinct No. 18,U.S. House,25,,Write-ins,24
+Erath,Precinct No. 18,Railroad Commissioner,,REP,Christi Craddick,1204
+Erath,Precinct No. 18,Railroad Commissioner,,DEM,Katherine Culbert,166
+Erath,Precinct No. 18,Railroad Commissioner,,LIB,Hawk Dunlap,41
+Erath,Precinct No. 18,Railroad Commissioner,,GRN,Eddie Espinoza,14
+Erath,Precinct No. 18,Railroad Commissioner,,,Over Votes,0
+Erath,Precinct No. 18,Railroad Commissioner,,,Under Votes,46
+Erath,Precinct No. 18,Railroad Commissioner,,,Write-ins,0
+Erath,Precinct No. 18,State Representative,59,REP,Shelby Slawson,1219
+Erath,Precinct No. 18,State Representative,59,DEM,Hannah Bohm,185
+Erath,Precinct No. 18,State Representative,59,,Over Votes,1
+Erath,Precinct No. 18,State Representative,59,,Under Votes,66
+Erath,Precinct No. 18,County Attorney,,REP,Bethany Espinoza,1255
+Erath,Precinct No. 18,County Attorney,,,Under Votes,216
+Erath,Precinct No. 18,Sheriff,,REP,Matt Coates,1272
+Erath,Precinct No. 18,Sheriff,,,Under Votes,199
+Erath,Precinct No. 18,County Tax Assessor-Collector,,REP,Valerie Stephen,1227
+Erath,Precinct No. 18,County Tax Assessor-Collector,,DEM,Marycruz Serrano,170
+Erath,Precinct No. 18,County Tax Assessor-Collector,,,Under Votes,74
+Erath,Precinct No. 19,President,,REP,Donald J. Trump,1006
+Erath,Precinct No. 19,President,,DEM,Kamala D. Harris,136
+Erath,Precinct No. 19,President,,LIB,Chase Oliver,3
+Erath,Precinct No. 19,President,,GRN,Jill Stein,3
+Erath,Precinct No. 19,President,,,Over Votes,2
+Erath,Precinct No. 19,President,,,Under Votes,2
+Erath,Precinct No. 19,President,,,Write-ins,3
+Erath,Precinct No. 19,U.S. Senate,,REP,Ted Cruz,941
+Erath,Precinct No. 19,U.S. Senate,,DEM,Colin Allred,165
+Erath,Precinct No. 19,U.S. Senate,,LIB,Ted Brown,27
+Erath,Precinct No. 19,U.S. Senate,,,Over Votes,1
+Erath,Precinct No. 19,U.S. Senate,,,Under Votes,21
+Erath,Precinct No. 19,U.S. Senate,,,Write-ins,0
+Erath,Precinct No. 19,U.S. House,25,REP,Roger Williams,995
+Erath,Precinct No. 19,U.S. House,25,,Over Votes,1
+Erath,Precinct No. 19,U.S. House,25,,Under Votes,136
+Erath,Precinct No. 19,U.S. House,25,,Write-ins,23
+Erath,Precinct No. 19,Railroad Commissioner,,REP,Christi Craddick,929
+Erath,Precinct No. 19,Railroad Commissioner,,DEM,Katherine Culbert,112
+Erath,Precinct No. 19,Railroad Commissioner,,LIB,Hawk Dunlap,31
+Erath,Precinct No. 19,Railroad Commissioner,,GRN,Eddie Espinoza,11
+Erath,Precinct No. 19,Railroad Commissioner,,,Over Votes,2
+Erath,Precinct No. 19,Railroad Commissioner,,,Under Votes,70
+Erath,Precinct No. 19,Railroad Commissioner,,,Write-ins,0
+Erath,Precinct No. 19,State Representative,59,REP,Shelby Slawson,948
+Erath,Precinct No. 19,State Representative,59,DEM,Hannah Bohm,130
+Erath,Precinct No. 19,State Representative,59,,Over Votes,3
+Erath,Precinct No. 19,State Representative,59,,Under Votes,74
+Erath,Precinct No. 19,County Attorney,,REP,Bethany Espinoza,988
+Erath,Precinct No. 19,County Attorney,,,Under Votes,167
+Erath,Precinct No. 19,Sheriff,,REP,Matt Coates,969
+Erath,Precinct No. 19,Sheriff,,,Under Votes,186
+Erath,Precinct No. 19,County Tax Assessor-Collector,,REP,Valerie Stephen,954
+Erath,Precinct No. 19,County Tax Assessor-Collector,,DEM,Marycruz Serrano,124
+Erath,Precinct No. 19,County Tax Assessor-Collector,,,Under Votes,77
+Erath,Precinct No. 20,President,,REP,Donald J. Trump,729
+Erath,Precinct No. 20,President,,DEM,Kamala D. Harris,146
+Erath,Precinct No. 20,President,,LIB,Chase Oliver,3
+Erath,Precinct No. 20,President,,GRN,Jill Stein,2
+Erath,Precinct No. 20,President,,,Over Votes,0
+Erath,Precinct No. 20,President,,,Under Votes,0
+Erath,Precinct No. 20,President,,,Write-ins,0
+Erath,Precinct No. 20,U.S. Senate,,REP,Ted Cruz,679
+Erath,Precinct No. 20,U.S. Senate,,DEM,Colin Allred,163
+Erath,Precinct No. 20,U.S. Senate,,LIB,Ted Brown,20
+Erath,Precinct No. 20,U.S. Senate,,,Over Votes,0
+Erath,Precinct No. 20,U.S. Senate,,,Under Votes,18
+Erath,Precinct No. 20,U.S. Senate,,,Write-ins,0
+Erath,Precinct No. 20,U.S. House,25,REP,Roger Williams,758
+Erath,Precinct No. 20,U.S. House,25,,Over Votes,0
+Erath,Precinct No. 20,U.S. House,25,,Under Votes,116
+Erath,Precinct No. 20,U.S. House,25,,Write-ins,6
+Erath,Precinct No. 20,Railroad Commissioner,,REP,Christi Craddick,668
+Erath,Precinct No. 20,Railroad Commissioner,,DEM,Katherine Culbert,123
+Erath,Precinct No. 20,Railroad Commissioner,,LIB,Hawk Dunlap,18
+Erath,Precinct No. 20,Railroad Commissioner,,GRN,Eddie Espinoza,18
+Erath,Precinct No. 20,Railroad Commissioner,,,Over Votes,0
+Erath,Precinct No. 20,Railroad Commissioner,,,Under Votes,53
+Erath,Precinct No. 20,Railroad Commissioner,,,Write-ins,0
+Erath,Precinct No. 20,State Representative,59,REP,Shelby Slawson,706
+Erath,Precinct No. 20,State Representative,59,DEM,Hannah Bohm,128
+Erath,Precinct No. 20,State Representative,59,,Over Votes,0
+Erath,Precinct No. 20,State Representative,59,,Under Votes,46
+Erath,Precinct No. 20,County Attorney,,REP,Bethany Espinoza,732
+Erath,Precinct No. 20,County Attorney,,,Under Votes,148
+Erath,Precinct No. 20,Sheriff,,REP,Matt Coates,739
+Erath,Precinct No. 20,Sheriff,,,Under Votes,141
+Erath,Precinct No. 20,County Tax Assessor-Collector,,REP,Valerie Stephen,709
+Erath,Precinct No. 20,County Tax Assessor-Collector,,DEM,Marycruz Serrano,133
+Erath,Precinct No. 20,County Tax Assessor-Collector,,,Under Votes,38
+Erath,Precinct No. 21,President,,REP,Donald J. Trump,897
+Erath,Precinct No. 21,President,,DEM,Kamala D. Harris,187
+Erath,Precinct No. 21,President,,LIB,Chase Oliver,7
+Erath,Precinct No. 21,President,,GRN,Jill Stein,3
+Erath,Precinct No. 21,President,,,Over Votes,0
+Erath,Precinct No. 21,President,,,Under Votes,3
+Erath,Precinct No. 21,President,,,Write-ins,1
+Erath,Precinct No. 21,U.S. Senate,,REP,Ted Cruz,859
+Erath,Precinct No. 21,U.S. Senate,,DEM,Colin Allred,200
+Erath,Precinct No. 21,U.S. Senate,,LIB,Ted Brown,19
+Erath,Precinct No. 21,U.S. Senate,,,Over Votes,0
+Erath,Precinct No. 21,U.S. Senate,,,Under Votes,20
+Erath,Precinct No. 21,U.S. Senate,,,Write-ins,0
+Erath,Precinct No. 21,U.S. House,25,REP,Roger Williams,927
+Erath,Precinct No. 21,U.S. House,25,,Over Votes,0
+Erath,Precinct No. 21,U.S. House,25,,Under Votes,156
+Erath,Precinct No. 21,U.S. House,25,,Write-ins,15
+Erath,Precinct No. 21,Railroad Commissioner,,REP,Christi Craddick,836
+Erath,Precinct No. 21,Railroad Commissioner,,DEM,Katherine Culbert,148
+Erath,Precinct No. 21,Railroad Commissioner,,LIB,Hawk Dunlap,44
+Erath,Precinct No. 21,Railroad Commissioner,,GRN,Eddie Espinoza,21
+Erath,Precinct No. 21,Railroad Commissioner,,,Over Votes,0
+Erath,Precinct No. 21,Railroad Commissioner,,,Under Votes,49
+Erath,Precinct No. 21,Railroad Commissioner,,,Write-ins,0
+Erath,Precinct No. 21,State Representative,59,REP,Shelby Slawson,870
+Erath,Precinct No. 21,State Representative,59,DEM,Hannah Bohm,167
+Erath,Precinct No. 21,State Representative,59,,Over Votes,4
+Erath,Precinct No. 21,State Representative,59,,Under Votes,57
+Erath,Precinct No. 21,County Attorney,,REP,Bethany Espinoza,912
+Erath,Precinct No. 21,County Attorney,,,Under Votes,186
+Erath,Precinct No. 21,Sheriff,,REP,Matt Coates,902
+Erath,Precinct No. 21,Sheriff,,,Under Votes,196
+Erath,Precinct No. 21,County Tax Assessor-Collector,,REP,Valerie Stephen,869
+Erath,Precinct No. 21,County Tax Assessor-Collector,,DEM,Marycruz Serrano,175
+Erath,Precinct No. 21,County Tax Assessor-Collector,,,Under Votes,54
+Erath,Precinct No. 23,President,,REP,Donald J. Trump,356
+Erath,Precinct No. 23,President,,DEM,Kamala D. Harris,75
+Erath,Precinct No. 23,President,,LIB,Chase Oliver,4
+Erath,Precinct No. 23,President,,GRN,Jill Stein,0
+Erath,Precinct No. 23,President,,,Over Votes,0
+Erath,Precinct No. 23,President,,,Under Votes,1
+Erath,Precinct No. 23,President,,,Write-ins,0
+Erath,Precinct No. 23,U.S. Senate,,REP,Ted Cruz,344
+Erath,Precinct No. 23,U.S. Senate,,DEM,Colin Allred,74
+Erath,Precinct No. 23,U.S. Senate,,LIB,Ted Brown,9
+Erath,Precinct No. 23,U.S. Senate,,,Over Votes,0
+Erath,Precinct No. 23,U.S. Senate,,,Under Votes,8
+Erath,Precinct No. 23,U.S. Senate,,,Write-ins,1
+Erath,Precinct No. 23,U.S. House,25,REP,Roger Williams,365
+Erath,Precinct No. 23,U.S. House,25,,Over Votes,0
+Erath,Precinct No. 23,U.S. House,25,,Under Votes,64
+Erath,Precinct No. 23,U.S. House,25,,Write-ins,7
+Erath,Precinct No. 23,Railroad Commissioner,,REP,Christi Craddick,332
+Erath,Precinct No. 23,Railroad Commissioner,,DEM,Katherine Culbert,59
+Erath,Precinct No. 23,Railroad Commissioner,,LIB,Hawk Dunlap,16
+Erath,Precinct No. 23,Railroad Commissioner,,GRN,Eddie Espinoza,1
+Erath,Precinct No. 23,Railroad Commissioner,,,Over Votes,0
+Erath,Precinct No. 23,Railroad Commissioner,,,Under Votes,28
+Erath,Precinct No. 23,Railroad Commissioner,,,Write-ins,0
+Erath,Precinct No. 23,State Representative,59,REP,Shelby Slawson,346
+Erath,Precinct No. 23,State Representative,59,DEM,Hannah Bohm,65
+Erath,Precinct No. 23,State Representative,59,,Over Votes,0
+Erath,Precinct No. 23,State Representative,59,,Under Votes,25
+Erath,Precinct No. 23,County Attorney,,REP,Bethany Espinoza,358
+Erath,Precinct No. 23,County Attorney,,,Under Votes,78
+Erath,Precinct No. 23,Sheriff,,REP,Matt Coates,365
+Erath,Precinct No. 23,Sheriff,,,Under Votes,71
+Erath,Precinct No. 23,County Tax Assessor-Collector,,REP,Valerie Stephen,345
+Erath,Precinct No. 23,County Tax Assessor-Collector,,DEM,Marycruz Serrano,70
+Erath,Precinct No. 23,County Tax Assessor-Collector,,,Under Votes,21
+Erath,Precinct No. 24,President,,REP,Donald J. Trump,856
+Erath,Precinct No. 24,President,,DEM,Kamala D. Harris,222
+Erath,Precinct No. 24,President,,LIB,Chase Oliver,5
+Erath,Precinct No. 24,President,,GRN,Jill Stein,2
+Erath,Precinct No. 24,President,,,Over Votes,0
+Erath,Precinct No. 24,President,,,Under Votes,5
+Erath,Precinct No. 24,President,,,Write-ins,6
+Erath,Precinct No. 24,U.S. Senate,,REP,Ted Cruz,817
+Erath,Precinct No. 24,U.S. Senate,,DEM,Colin Allred,247
+Erath,Precinct No. 24,U.S. Senate,,LIB,Ted Brown,18
+Erath,Precinct No. 24,U.S. Senate,,,Over Votes,0
+Erath,Precinct No. 24,U.S. Senate,,,Under Votes,12
+Erath,Precinct No. 24,U.S. Senate,,,Write-ins,2
+Erath,Precinct No. 24,U.S. House,25,REP,Roger Williams,908
+Erath,Precinct No. 24,U.S. House,25,,Over Votes,1
+Erath,Precinct No. 24,U.S. House,25,,Under Votes,153
+Erath,Precinct No. 24,U.S. House,25,,Write-ins,34
+Erath,Precinct No. 24,Railroad Commissioner,,REP,Christi Craddick,817
+Erath,Precinct No. 24,Railroad Commissioner,,DEM,Katherine Culbert,175
+Erath,Precinct No. 24,Railroad Commissioner,,LIB,Hawk Dunlap,24
+Erath,Precinct No. 24,Railroad Commissioner,,GRN,Eddie Espinoza,14
+Erath,Precinct No. 24,Railroad Commissioner,,,Over Votes,0
+Erath,Precinct No. 24,Railroad Commissioner,,,Under Votes,66
+Erath,Precinct No. 24,Railroad Commissioner,,,Write-ins,0
+Erath,Precinct No. 24,State Representative,59,REP,Shelby Slawson,818
+Erath,Precinct No. 24,State Representative,59,DEM,Hannah Bohm,194
+Erath,Precinct No. 24,State Representative,59,,Over Votes,5
+Erath,Precinct No. 24,State Representative,59,,Under Votes,79
+Erath,Precinct No. 24,County Attorney,,REP,Bethany Espinoza,895
+Erath,Precinct No. 24,County Attorney,,,Under Votes,201
+Erath,Precinct No. 24,Sheriff,,REP,Matt Coates,914
+Erath,Precinct No. 24,Sheriff,,,Under Votes,182
+Erath,Precinct No. 24,County Tax Assessor-Collector,,REP,Valerie Stephen,825
+Erath,Precinct No. 24,County Tax Assessor-Collector,,DEM,Marycruz Serrano,199
+Erath,Precinct No. 24,County Tax Assessor-Collector,,,Under Votes,72
+Erath,Precinct No. 25,President,,REP,Donald J. Trump,579
+Erath,Precinct No. 25,President,,DEM,Kamala D. Harris,59
+Erath,Precinct No. 25,President,,LIB,Chase Oliver,4
+Erath,Precinct No. 25,President,,GRN,Jill Stein,3
+Erath,Precinct No. 25,President,,,Over Votes,0
+Erath,Precinct No. 25,President,,,Under Votes,1
+Erath,Precinct No. 25,President,,,Write-ins,0
+Erath,Precinct No. 25,U.S. Senate,,REP,Ted Cruz,557
+Erath,Precinct No. 25,U.S. Senate,,DEM,Colin Allred,64
+Erath,Precinct No. 25,U.S. Senate,,LIB,Ted Brown,16
+Erath,Precinct No. 25,U.S. Senate,,,Over Votes,0
+Erath,Precinct No. 25,U.S. Senate,,,Under Votes,9
+Erath,Precinct No. 25,U.S. Senate,,,Write-ins,0
+Erath,Precinct No. 25,U.S. House,25,REP,Roger Williams,567
+Erath,Precinct No. 25,U.S. House,25,,Over Votes,0
+Erath,Precinct No. 25,U.S. House,25,,Under Votes,74
+Erath,Precinct No. 25,U.S. House,25,,Write-ins,5
+Erath,Precinct No. 25,Railroad Commissioner,,REP,Christi Craddick,541
+Erath,Precinct No. 25,Railroad Commissioner,,DEM,Katherine Culbert,47
+Erath,Precinct No. 25,Railroad Commissioner,,LIB,Hawk Dunlap,21
+Erath,Precinct No. 25,Railroad Commissioner,,GRN,Eddie Espinoza,10
+Erath,Precinct No. 25,Railroad Commissioner,,,Over Votes,0
+Erath,Precinct No. 25,Railroad Commissioner,,,Under Votes,27
+Erath,Precinct No. 25,Railroad Commissioner,,,Write-ins,0
+Erath,Precinct No. 25,State Representative,59,REP,Shelby Slawson,548
+Erath,Precinct No. 25,State Representative,59,DEM,Hannah Bohm,63
+Erath,Precinct No. 25,State Representative,59,,Over Votes,0
+Erath,Precinct No. 25,State Representative,59,,Under Votes,35
+Erath,Precinct No. 25,County Attorney,,REP,Bethany Espinoza,553
+Erath,Precinct No. 25,County Attorney,,,Under Votes,93
+Erath,Precinct No. 25,Sheriff,,REP,Matt Coates,540
+Erath,Precinct No. 25,Sheriff,,,Under Votes,106
+Erath,Precinct No. 25,County Tax Assessor-Collector,,REP,Valerie Stephen,550
+Erath,Precinct No. 25,County Tax Assessor-Collector,,DEM,Marycruz Serrano,62
+Erath,Precinct No. 25,County Tax Assessor-Collector,,,Under Votes,34
+Erath,Precinct No. 30,President,,REP,Donald J. Trump,523
+Erath,Precinct No. 30,President,,DEM,Kamala D. Harris,48
+Erath,Precinct No. 30,President,,LIB,Chase Oliver,1
+Erath,Precinct No. 30,President,,GRN,Jill Stein,1
+Erath,Precinct No. 30,President,,,Over Votes,0
+Erath,Precinct No. 30,President,,,Under Votes,1
+Erath,Precinct No. 30,President,,,Write-ins,1
+Erath,Precinct No. 30,U.S. Senate,,REP,Ted Cruz,510
+Erath,Precinct No. 30,U.S. Senate,,DEM,Colin Allred,54
+Erath,Precinct No. 30,U.S. Senate,,LIB,Ted Brown,9
+Erath,Precinct No. 30,U.S. Senate,,,Over Votes,0
+Erath,Precinct No. 30,U.S. Senate,,,Under Votes,2
+Erath,Precinct No. 30,U.S. Senate,,,Write-ins,0
+Erath,Precinct No. 30,U.S. House,25,REP,Roger Williams,516
+Erath,Precinct No. 30,U.S. House,25,,Over Votes,0
+Erath,Precinct No. 30,U.S. House,25,,Under Votes,51
+Erath,Precinct No. 30,U.S. House,25,,Write-ins,8
+Erath,Precinct No. 30,Railroad Commissioner,,REP,Christi Craddick,496
+Erath,Precinct No. 30,Railroad Commissioner,,DEM,Katherine Culbert,46
+Erath,Precinct No. 30,Railroad Commissioner,,LIB,Hawk Dunlap,11
+Erath,Precinct No. 30,Railroad Commissioner,,GRN,Eddie Espinoza,2
+Erath,Precinct No. 30,Railroad Commissioner,,,Over Votes,0
+Erath,Precinct No. 30,Railroad Commissioner,,,Under Votes,20
+Erath,Precinct No. 30,Railroad Commissioner,,,Write-ins,0
+Erath,Precinct No. 30,State Representative,59,REP,Shelby Slawson,497
+Erath,Precinct No. 30,State Representative,59,DEM,Hannah Bohm,55
+Erath,Precinct No. 30,State Representative,59,,Over Votes,1
+Erath,Precinct No. 30,State Representative,59,,Under Votes,22
+Erath,Precinct No. 30,County Attorney,,REP,Bethany Espinoza,495
+Erath,Precinct No. 30,County Attorney,,,Under Votes,80
+Erath,Precinct No. 30,Sheriff,,REP,Matt Coates,504
+Erath,Precinct No. 30,Sheriff,,,Under Votes,71
+Erath,Precinct No. 30,County Tax Assessor-Collector,,REP,Valerie Stephen,492
+Erath,Precinct No. 30,County Tax Assessor-Collector,,DEM,Marycruz Serrano,47
+Erath,Precinct No. 30,County Tax Assessor-Collector,,,Under Votes,36
+Erath,Precinct No. 31,President,,REP,Donald J. Trump,919
+Erath,Precinct No. 31,President,,DEM,Kamala D. Harris,135
+Erath,Precinct No. 31,President,,LIB,Chase Oliver,8
+Erath,Precinct No. 31,President,,GRN,Jill Stein,1
+Erath,Precinct No. 31,President,,,Over Votes,0
+Erath,Precinct No. 31,President,,,Under Votes,2
+Erath,Precinct No. 31,President,,,Write-ins,2
+Erath,Precinct No. 31,U.S. Senate,,REP,Ted Cruz,897
+Erath,Precinct No. 31,U.S. Senate,,DEM,Colin Allred,146
+Erath,Precinct No. 31,U.S. Senate,,LIB,Ted Brown,15
+Erath,Precinct No. 31,U.S. Senate,,,Over Votes,0
+Erath,Precinct No. 31,U.S. Senate,,,Under Votes,9
+Erath,Precinct No. 31,U.S. Senate,,,Write-ins,0
+Erath,Precinct No. 31,U.S. House,25,REP,Roger Williams,940
+Erath,Precinct No. 31,U.S. House,25,,Over Votes,0
+Erath,Precinct No. 31,U.S. House,25,,Under Votes,121
+Erath,Precinct No. 31,U.S. House,25,,Write-ins,6
+Erath,Precinct No. 31,Railroad Commissioner,,REP,Christi Craddick,878
+Erath,Precinct No. 31,Railroad Commissioner,,DEM,Katherine Culbert,112
+Erath,Precinct No. 31,Railroad Commissioner,,LIB,Hawk Dunlap,23
+Erath,Precinct No. 31,Railroad Commissioner,,GRN,Eddie Espinoza,14
+Erath,Precinct No. 31,Railroad Commissioner,,,Over Votes,0
+Erath,Precinct No. 31,Railroad Commissioner,,,Under Votes,39
+Erath,Precinct No. 31,Railroad Commissioner,,,Write-ins,1
+Erath,Precinct No. 31,State Representative,59,REP,Shelby Slawson,897
+Erath,Precinct No. 31,State Representative,59,DEM,Hannah Bohm,123
+Erath,Precinct No. 31,State Representative,59,,Over Votes,0
+Erath,Precinct No. 31,State Representative,59,,Under Votes,47
+Erath,Precinct No. 31,County Attorney,,REP,Bethany Espinoza,926
+Erath,Precinct No. 31,County Attorney,,,Under Votes,141
+Erath,Precinct No. 31,Sheriff,,REP,Matt Coates,921
+Erath,Precinct No. 31,Sheriff,,,Under Votes,146
+Erath,Precinct No. 31,County Tax Assessor-Collector,,REP,Valerie Stephen,913
+Erath,Precinct No. 31,County Tax Assessor-Collector,,DEM,Marycruz Serrano,107
+Erath,Precinct No. 31,County Tax Assessor-Collector,,,Under Votes,47
+Erath,Precinct No. 32,President,,REP,Donald J. Trump,1115
+Erath,Precinct No. 32,President,,DEM,Kamala D. Harris,190
+Erath,Precinct No. 32,President,,LIB,Chase Oliver,9
+Erath,Precinct No. 32,President,,GRN,Jill Stein,4
+Erath,Precinct No. 32,President,,,Over Votes,0
+Erath,Precinct No. 32,President,,,Under Votes,3
+Erath,Precinct No. 32,President,,,Write-ins,3
+Erath,Precinct No. 32,U.S. Senate,,REP,Ted Cruz,1075
+Erath,Precinct No. 32,U.S. Senate,,DEM,Colin Allred,196
+Erath,Precinct No. 32,U.S. Senate,,LIB,Ted Brown,32
+Erath,Precinct No. 32,U.S. Senate,,,Over Votes,0
+Erath,Precinct No. 32,U.S. Senate,,,Under Votes,20
+Erath,Precinct No. 32,U.S. Senate,,,Write-ins,1
+Erath,Precinct No. 32,U.S. House,25,REP,Roger Williams,1113
+Erath,Precinct No. 32,U.S. House,25,,Over Votes,0
+Erath,Precinct No. 32,U.S. House,25,,Under Votes,185
+Erath,Precinct No. 32,U.S. House,25,,Write-ins,26
+Erath,Precinct No. 32,Railroad Commissioner,,REP,Christi Craddick,1061
+Erath,Precinct No. 32,Railroad Commissioner,,DEM,Katherine Culbert,147
+Erath,Precinct No. 32,Railroad Commissioner,,LIB,Hawk Dunlap,40
+Erath,Precinct No. 32,Railroad Commissioner,,GRN,Eddie Espinoza,23
+Erath,Precinct No. 32,Railroad Commissioner,,,Over Votes,0
+Erath,Precinct No. 32,Railroad Commissioner,,,Under Votes,52
+Erath,Precinct No. 32,Railroad Commissioner,,,Write-ins,1
+Erath,Precinct No. 32,State Representative,59,REP,Shelby Slawson,1043
+Erath,Precinct No. 32,State Representative,59,DEM,Hannah Bohm,181
+Erath,Precinct No. 32,State Representative,59,,Over Votes,5
+Erath,Precinct No. 32,State Representative,59,,Under Votes,95
+Erath,Precinct No. 32,County Attorney,,REP,Bethany Espinoza,1101
+Erath,Precinct No. 32,County Attorney,,,Under Votes,223
+Erath,Precinct No. 32,Sheriff,,REP,Matt Coates,1104
+Erath,Precinct No. 32,Sheriff,,,Under Votes,220
+Erath,Precinct No. 32,County Tax Assessor-Collector,,REP,Valerie Stephen,1063
+Erath,Precinct No. 32,County Tax Assessor-Collector,,DEM,Marycruz Serrano,164
+Erath,Precinct No. 32,County Tax Assessor-Collector,,,Under Votes,97
+Erath,Precinct No. 33,President,,REP,Donald J. Trump,415
+Erath,Precinct No. 33,President,,DEM,Kamala D. Harris,170
+Erath,Precinct No. 33,President,,LIB,Chase Oliver,7
+Erath,Precinct No. 33,President,,GRN,Jill Stein,2
+Erath,Precinct No. 33,President,,,Over Votes,1
+Erath,Precinct No. 33,President,,,Under Votes,3
+Erath,Precinct No. 33,President,,,Write-ins,2
+Erath,Precinct No. 33,U.S. Senate,,REP,Ted Cruz,387
+Erath,Precinct No. 33,U.S. Senate,,DEM,Colin Allred,175
+Erath,Precinct No. 33,U.S. Senate,,LIB,Ted Brown,24
+Erath,Precinct No. 33,U.S. Senate,,,Over Votes,1
+Erath,Precinct No. 33,U.S. Senate,,,Under Votes,13
+Erath,Precinct No. 33,U.S. Senate,,,Write-ins,0
+Erath,Precinct No. 33,U.S. House,25,REP,Roger Williams,392
+Erath,Precinct No. 33,U.S. House,25,,Over Votes,0
+Erath,Precinct No. 33,U.S. House,25,,Under Votes,167
+Erath,Precinct No. 33,U.S. House,25,,Write-ins,41
+Erath,Precinct No. 33,Railroad Commissioner,,REP,Christi Craddick,369
+Erath,Precinct No. 33,Railroad Commissioner,,DEM,Katherine Culbert,142
+Erath,Precinct No. 33,Railroad Commissioner,,LIB,Hawk Dunlap,25
+Erath,Precinct No. 33,Railroad Commissioner,,GRN,Eddie Espinoza,15
+Erath,Precinct No. 33,Railroad Commissioner,,,Over Votes,0
+Erath,Precinct No. 33,Railroad Commissioner,,,Under Votes,48
+Erath,Precinct No. 33,Railroad Commissioner,,,Write-ins,1
+Erath,Precinct No. 33,State Representative,59,REP,Shelby Slawson,318
+Erath,Precinct No. 33,State Representative,59,DEM,Hannah Bohm,152
+Erath,Precinct No. 33,State Representative,59,,Over Votes,7
+Erath,Precinct No. 33,State Representative,59,,Under Votes,123
+Erath,Precinct No. 33,County Attorney,,REP,Bethany Espinoza,387
+Erath,Precinct No. 33,County Attorney,,,Under Votes,213
+Erath,Precinct No. 33,Sheriff,,REP,Matt Coates,382
+Erath,Precinct No. 33,Sheriff,,,Under Votes,218
+Erath,Precinct No. 33,County Tax Assessor-Collector,,REP,Valerie Stephen,325
+Erath,Precinct No. 33,County Tax Assessor-Collector,,DEM,Marycruz Serrano,143
+Erath,Precinct No. 33,County Tax Assessor-Collector,,,Under Votes,132
+Erath,Precinct No. 34,President,,REP,Donald J. Trump,1108
+Erath,Precinct No. 34,President,,DEM,Kamala D. Harris,157
+Erath,Precinct No. 34,President,,LIB,Chase Oliver,8
+Erath,Precinct No. 34,President,,GRN,Jill Stein,0
+Erath,Precinct No. 34,President,,,Over Votes,0
+Erath,Precinct No. 34,President,,,Under Votes,4
+Erath,Precinct No. 34,President,,,Write-ins,7
+Erath,Precinct No. 34,U.S. Senate,,REP,Ted Cruz,1078
+Erath,Precinct No. 34,U.S. Senate,,DEM,Colin Allred,173
+Erath,Precinct No. 34,U.S. Senate,,LIB,Ted Brown,20
+Erath,Precinct No. 34,U.S. Senate,,,Over Votes,0
+Erath,Precinct No. 34,U.S. Senate,,,Under Votes,11
+Erath,Precinct No. 34,U.S. Senate,,,Write-ins,2
+Erath,Precinct No. 34,U.S. House,25,REP,Roger Williams,1132
+Erath,Precinct No. 34,U.S. House,25,,Over Votes,0
+Erath,Precinct No. 34,U.S. House,25,,Under Votes,133
+Erath,Precinct No. 34,U.S. House,25,,Write-ins,19
+Erath,Precinct No. 34,Railroad Commissioner,,REP,Christi Craddick,1078
+Erath,Precinct No. 34,Railroad Commissioner,,DEM,Katherine Culbert,120
+Erath,Precinct No. 34,Railroad Commissioner,,LIB,Hawk Dunlap,34
+Erath,Precinct No. 34,Railroad Commissioner,,GRN,Eddie Espinoza,8
+Erath,Precinct No. 34,Railroad Commissioner,,,Over Votes,1
+Erath,Precinct No. 34,Railroad Commissioner,,,Under Votes,43
+Erath,Precinct No. 34,Railroad Commissioner,,,Write-ins,0
+Erath,Precinct No. 34,State Representative,59,REP,Shelby Slawson,1085
+Erath,Precinct No. 34,State Representative,59,DEM,Hannah Bohm,144
+Erath,Precinct No. 34,State Representative,59,,Over Votes,2
+Erath,Precinct No. 34,State Representative,59,,Under Votes,53
+Erath,Precinct No. 34,County Attorney,,REP,Bethany Espinoza,1118
+Erath,Precinct No. 34,County Attorney,,,Under Votes,166
+Erath,Precinct No. 34,Sheriff,,REP,Matt Coates,1116
+Erath,Precinct No. 34,Sheriff,,,Under Votes,168
+Erath,Precinct No. 34,County Tax Assessor-Collector,,REP,Valerie Stephen,1105
+Erath,Precinct No. 34,County Tax Assessor-Collector,,DEM,Marycruz Serrano,123
+Erath,Precinct No. 34,County Tax Assessor-Collector,,,Under Votes,56
+Erath,Precinct No. 35,President,,REP,Donald J. Trump,57
+Erath,Precinct No. 35,President,,DEM,Kamala D. Harris,38
+Erath,Precinct No. 35,President,,LIB,Chase Oliver,0
+Erath,Precinct No. 35,President,,GRN,Jill Stein,0
+Erath,Precinct No. 35,President,,,Over Votes,0
+Erath,Precinct No. 35,President,,,Under Votes,0
+Erath,Precinct No. 35,President,,,Write-ins,0
+Erath,Precinct No. 35,U.S. Senate,,REP,Ted Cruz,59
+Erath,Precinct No. 35,U.S. Senate,,DEM,Colin Allred,32
+Erath,Precinct No. 35,U.S. Senate,,LIB,Ted Brown,2
+Erath,Precinct No. 35,U.S. Senate,,,Over Votes,0
+Erath,Precinct No. 35,U.S. Senate,,,Under Votes,2
+Erath,Precinct No. 35,U.S. Senate,,,Write-ins,0
+Erath,Precinct No. 35,U.S. House,25,REP,Roger Williams,50
+Erath,Precinct No. 35,U.S. House,25,,Over Votes,1
+Erath,Precinct No. 35,U.S. House,25,,Under Votes,19
+Erath,Precinct No. 35,U.S. House,25,,Write-ins,25
+Erath,Precinct No. 35,Railroad Commissioner,,REP,Christi Craddick,54
+Erath,Precinct No. 35,Railroad Commissioner,,DEM,Katherine Culbert,24
+Erath,Precinct No. 35,Railroad Commissioner,,LIB,Hawk Dunlap,6
+Erath,Precinct No. 35,Railroad Commissioner,,GRN,Eddie Espinoza,2
+Erath,Precinct No. 35,Railroad Commissioner,,,Over Votes,0
+Erath,Precinct No. 35,Railroad Commissioner,,,Under Votes,9
+Erath,Precinct No. 35,Railroad Commissioner,,,Write-ins,0
+Erath,Precinct No. 35,State Representative,59,REP,Shelby Slawson,40
+Erath,Precinct No. 35,State Representative,59,DEM,Hannah Bohm,23
+Erath,Precinct No. 35,State Representative,59,,Over Votes,3
+Erath,Precinct No. 35,State Representative,59,,Under Votes,29
+Erath,Precinct No. 35,County Attorney,,REP,Bethany Espinoza,54
+Erath,Precinct No. 35,County Attorney,,,Under Votes,41
+Erath,Precinct No. 35,Sheriff,,REP,Matt Coates,53
+Erath,Precinct No. 35,Sheriff,,,Under Votes,42
+Erath,Precinct No. 35,County Tax Assessor-Collector,,REP,Valerie Stephen,43
+Erath,Precinct No. 35,County Tax Assessor-Collector,,DEM,Marycruz Serrano,21
+Erath,Precinct No. 35,County Tax Assessor-Collector,,,Under Votes,31
+Erath,Precinct No. 41,President,,REP,Donald J. Trump,628
+Erath,Precinct No. 41,President,,DEM,Kamala D. Harris,66
+Erath,Precinct No. 41,President,,LIB,Chase Oliver,1
+Erath,Precinct No. 41,President,,GRN,Jill Stein,0
+Erath,Precinct No. 41,President,,,Over Votes,0
+Erath,Precinct No. 41,President,,,Under Votes,1
+Erath,Precinct No. 41,President,,,Write-ins,0
+Erath,Precinct No. 41,U.S. Senate,,REP,Ted Cruz,609
+Erath,Precinct No. 41,U.S. Senate,,DEM,Colin Allred,71
+Erath,Precinct No. 41,U.S. Senate,,LIB,Ted Brown,7
+Erath,Precinct No. 41,U.S. Senate,,,Over Votes,0
+Erath,Precinct No. 41,U.S. Senate,,,Under Votes,9
+Erath,Precinct No. 41,U.S. Senate,,,Write-ins,0
+Erath,Precinct No. 41,U.S. House,25,REP,Roger Williams,614
+Erath,Precinct No. 41,U.S. House,25,,Over Votes,0
+Erath,Precinct No. 41,U.S. House,25,,Under Votes,68
+Erath,Precinct No. 41,U.S. House,25,,Write-ins,14
+Erath,Precinct No. 41,Railroad Commissioner,,REP,Christi Craddick,589
+Erath,Precinct No. 41,Railroad Commissioner,,DEM,Katherine Culbert,54
+Erath,Precinct No. 41,Railroad Commissioner,,LIB,Hawk Dunlap,22
+Erath,Precinct No. 41,Railroad Commissioner,,GRN,Eddie Espinoza,2
+Erath,Precinct No. 41,Railroad Commissioner,,,Over Votes,0
+Erath,Precinct No. 41,Railroad Commissioner,,,Under Votes,29
+Erath,Precinct No. 41,Railroad Commissioner,,,Write-ins,0
+Erath,Precinct No. 41,State Representative,59,REP,Shelby Slawson,590
+Erath,Precinct No. 41,State Representative,59,DEM,Hannah Bohm,68
+Erath,Precinct No. 41,State Representative,59,,Over Votes,1
+Erath,Precinct No. 41,State Representative,59,,Under Votes,37
+Erath,Precinct No. 41,County Attorney,,REP,Bethany Espinoza,594
+Erath,Precinct No. 41,County Attorney,,,Under Votes,102
+Erath,Precinct No. 41,Sheriff,,REP,Matt Coates,597
+Erath,Precinct No. 41,Sheriff,,,Under Votes,99
+Erath,Precinct No. 41,County Tax Assessor-Collector,,REP,Valerie Stephen,593
+Erath,Precinct No. 41,County Tax Assessor-Collector,,DEM,Marycruz Serrano,65
+Erath,Precinct No. 41,County Tax Assessor-Collector,,,Under Votes,38
+Erath,Precinct No. 44,President,,REP,Donald J. Trump,1662
+Erath,Precinct No. 44,President,,DEM,Kamala D. Harris,196
+Erath,Precinct No. 44,President,,LIB,Chase Oliver,2
+Erath,Precinct No. 44,President,,GRN,Jill Stein,1
+Erath,Precinct No. 44,President,,,Over Votes,0
+Erath,Precinct No. 44,President,,,Under Votes,2
+Erath,Precinct No. 44,President,,,Write-ins,4
+Erath,Precinct No. 44,U.S. Senate,,REP,Ted Cruz,1605
+Erath,Precinct No. 44,U.S. Senate,,DEM,Colin Allred,219
+Erath,Precinct No. 44,U.S. Senate,,LIB,Ted Brown,23
+Erath,Precinct No. 44,U.S. Senate,,,Over Votes,0
+Erath,Precinct No. 44,U.S. Senate,,,Under Votes,19
+Erath,Precinct No. 44,U.S. Senate,,,Write-ins,1
+Erath,Precinct No. 44,U.S. House,25,REP,Roger Williams,1654
+Erath,Precinct No. 44,U.S. House,25,,Over Votes,1
+Erath,Precinct No. 44,U.S. House,25,,Under Votes,175
+Erath,Precinct No. 44,U.S. House,25,,Write-ins,37
+Erath,Precinct No. 44,Railroad Commissioner,,REP,Christi Craddick,1575
+Erath,Precinct No. 44,Railroad Commissioner,,DEM,Katherine Culbert,165
+Erath,Precinct No. 44,Railroad Commissioner,,LIB,Hawk Dunlap,54
+Erath,Precinct No. 44,Railroad Commissioner,,GRN,Eddie Espinoza,12
+Erath,Precinct No. 44,Railroad Commissioner,,,Over Votes,0
+Erath,Precinct No. 44,Railroad Commissioner,,,Under Votes,61
+Erath,Precinct No. 44,Railroad Commissioner,,,Write-ins,0
+Erath,Precinct No. 44,State Representative,59,REP,Shelby Slawson,1599
+Erath,Precinct No. 44,State Representative,59,DEM,Hannah Bohm,188
+Erath,Precinct No. 44,State Representative,59,,Over Votes,4
+Erath,Precinct No. 44,State Representative,59,,Under Votes,76
+Erath,Precinct No. 44,County Attorney,,REP,Bethany Espinoza,1624
+Erath,Precinct No. 44,County Attorney,,,Under Votes,243
+Erath,Precinct No. 44,Sheriff,,REP,Matt Coates,1623
+Erath,Precinct No. 44,Sheriff,,,Under Votes,244
+Erath,Precinct No. 44,County Tax Assessor-Collector,,REP,Valerie Stephen,1607
+Erath,Precinct No. 44,County Tax Assessor-Collector,,DEM,Marycruz Serrano,179
+Erath,Precinct No. 44,County Tax Assessor-Collector,,,Under Votes,81
+Erath,Precinct No. 45,President,,REP,Donald J. Trump,871
+Erath,Precinct No. 45,President,,DEM,Kamala D. Harris,246
+Erath,Precinct No. 45,President,,LIB,Chase Oliver,7
+Erath,Precinct No. 45,President,,GRN,Jill Stein,4
+Erath,Precinct No. 45,President,,,Over Votes,1
+Erath,Precinct No. 45,President,,,Under Votes,2
+Erath,Precinct No. 45,President,,,Write-ins,3
+Erath,Precinct No. 45,U.S. Senate,,REP,Ted Cruz,829
+Erath,Precinct No. 45,U.S. Senate,,DEM,Colin Allred,260
+Erath,Precinct No. 45,U.S. Senate,,LIB,Ted Brown,19
+Erath,Precinct No. 45,U.S. Senate,,,Over Votes,1
+Erath,Precinct No. 45,U.S. Senate,,,Under Votes,25
+Erath,Precinct No. 45,U.S. Senate,,,Write-ins,0
+Erath,Precinct No. 45,U.S. House,25,REP,Roger Williams,755
+Erath,Precinct No. 45,U.S. House,25,,Over Votes,0
+Erath,Precinct No. 45,U.S. House,25,,Under Votes,349
+Erath,Precinct No. 45,U.S. House,25,,Write-ins,30
+Erath,Precinct No. 45,Railroad Commissioner,,REP,Christi Craddick,812
+Erath,Precinct No. 45,Railroad Commissioner,,DEM,Katherine Culbert,201
+Erath,Precinct No. 45,Railroad Commissioner,,LIB,Hawk Dunlap,38
+Erath,Precinct No. 45,Railroad Commissioner,,GRN,Eddie Espinoza,11
+Erath,Precinct No. 45,Railroad Commissioner,,,Over Votes,1
+Erath,Precinct No. 45,Railroad Commissioner,,,Under Votes,71
+Erath,Precinct No. 45,Railroad Commissioner,,,Write-ins,0
+Erath,Precinct No. 45,State Representative,59,REP,Shelby Slawson,658
+Erath,Precinct No. 45,State Representative,59,DEM,Hannah Bohm,219
+Erath,Precinct No. 45,State Representative,59,,Over Votes,6
+Erath,Precinct No. 45,State Representative,59,,Under Votes,251
+Erath,Precinct No. 45,County Attorney,,REP,Bethany Espinoza,741
+Erath,Precinct No. 45,County Attorney,,,Under Votes,393
+Erath,Precinct No. 45,Sheriff,,REP,Matt Coates,737
+Erath,Precinct No. 45,Sheriff,,,Under Votes,397
+Erath,Precinct No. 45,County Tax Assessor-Collector,,REP,Valerie Stephen,663
+Erath,Precinct No. 45,County Tax Assessor-Collector,,DEM,Marycruz Serrano,208
+Erath,Precinct No. 45,County Tax Assessor-Collector,,,Under Votes,263
+Erath,Precinct No. 46,President,,REP,Donald J. Trump,423
+Erath,Precinct No. 46,President,,DEM,Kamala D. Harris,89
+Erath,Precinct No. 46,President,,LIB,Chase Oliver,5
+Erath,Precinct No. 46,President,,GRN,Jill Stein,3
+Erath,Precinct No. 46,President,,,Over Votes,0
+Erath,Precinct No. 46,President,,,Under Votes,0
+Erath,Precinct No. 46,President,,,Write-ins,3
+Erath,Precinct No. 46,U.S. Senate,,REP,Ted Cruz,388
+Erath,Precinct No. 46,U.S. Senate,,DEM,Colin Allred,105
+Erath,Precinct No. 46,U.S. Senate,,LIB,Ted Brown,20
+Erath,Precinct No. 46,U.S. Senate,,,Over Votes,0
+Erath,Precinct No. 46,U.S. Senate,,,Under Votes,9
+Erath,Precinct No. 46,U.S. Senate,,,Write-ins,1
+Erath,Precinct No. 46,U.S. House,25,REP,Roger Williams,410
+Erath,Precinct No. 46,U.S. House,25,,Over Votes,0
+Erath,Precinct No. 46,U.S. House,25,,Under Votes,89
+Erath,Precinct No. 46,U.S. House,25,,Write-ins,24
+Erath,Precinct No. 46,Railroad Commissioner,,REP,Christi Craddick,384
+Erath,Precinct No. 46,Railroad Commissioner,,DEM,Katherine Culbert,89
+Erath,Precinct No. 46,Railroad Commissioner,,LIB,Hawk Dunlap,18
+Erath,Precinct No. 46,Railroad Commissioner,,GRN,Eddie Espinoza,8
+Erath,Precinct No. 46,Railroad Commissioner,,,Over Votes,0
+Erath,Precinct No. 46,Railroad Commissioner,,,Under Votes,24
+Erath,Precinct No. 46,Railroad Commissioner,,,Write-ins,0
+Erath,Precinct No. 46,State Representative,59,REP,Shelby Slawson,374
+Erath,Precinct No. 46,State Representative,59,DEM,Hannah Bohm,89
+Erath,Precinct No. 46,State Representative,59,,Over Votes,1
+Erath,Precinct No. 46,State Representative,59,,Under Votes,59
+Erath,Precinct No. 46,County Attorney,,REP,Bethany Espinoza,412
+Erath,Precinct No. 46,County Attorney,,,Under Votes,111
+Erath,Precinct No. 46,Sheriff,,REP,Matt Coates,413
+Erath,Precinct No. 46,Sheriff,,,Under Votes,110
+Erath,Precinct No. 46,County Tax Assessor-Collector,,REP,Valerie Stephen,375
+Erath,Precinct No. 46,County Tax Assessor-Collector,,DEM,Marycruz Serrano,91
+Erath,Precinct No. 46,County Tax Assessor-Collector,,,Under Votes,57
+Erath,Precinct No. 47,President,,REP,Donald J. Trump,271
+Erath,Precinct No. 47,President,,DEM,Kamala D. Harris,66
+Erath,Precinct No. 47,President,,LIB,Chase Oliver,3
+Erath,Precinct No. 47,President,,GRN,Jill Stein,0
+Erath,Precinct No. 47,President,,,Over Votes,0
+Erath,Precinct No. 47,President,,,Under Votes,0
+Erath,Precinct No. 47,President,,,Write-ins,2
+Erath,Precinct No. 47,U.S. Senate,,REP,Ted Cruz,251
+Erath,Precinct No. 47,U.S. Senate,,DEM,Colin Allred,77
+Erath,Precinct No. 47,U.S. Senate,,LIB,Ted Brown,9
+Erath,Precinct No. 47,U.S. Senate,,,Over Votes,0
+Erath,Precinct No. 47,U.S. Senate,,,Under Votes,5
+Erath,Precinct No. 47,U.S. Senate,,,Write-ins,0
+Erath,Precinct No. 47,U.S. House,25,REP,Roger Williams,282
+Erath,Precinct No. 47,U.S. House,25,,Over Votes,0
+Erath,Precinct No. 47,U.S. House,25,,Under Votes,53
+Erath,Precinct No. 47,U.S. House,25,,Write-ins,7
+Erath,Precinct No. 47,Railroad Commissioner,,REP,Christi Craddick,265
+Erath,Precinct No. 47,Railroad Commissioner,,DEM,Katherine Culbert,53
+Erath,Precinct No. 47,Railroad Commissioner,,LIB,Hawk Dunlap,5
+Erath,Precinct No. 47,Railroad Commissioner,,GRN,Eddie Espinoza,1
+Erath,Precinct No. 47,Railroad Commissioner,,,Over Votes,0
+Erath,Precinct No. 47,Railroad Commissioner,,,Under Votes,18
+Erath,Precinct No. 47,Railroad Commissioner,,,Write-ins,0
+Erath,Precinct No. 47,State Representative,59,REP,Shelby Slawson,254
+Erath,Precinct No. 47,State Representative,59,DEM,Hannah Bohm,59
+Erath,Precinct No. 47,State Representative,59,,Over Votes,0
+Erath,Precinct No. 47,State Representative,59,,Under Votes,29
+Erath,Precinct No. 47,County Attorney,,REP,Bethany Espinoza,279
+Erath,Precinct No. 47,County Attorney,,,Under Votes,63
+Erath,Precinct No. 47,Sheriff,,REP,Matt Coates,280
+Erath,Precinct No. 47,Sheriff,,,Under Votes,62
+Erath,Precinct No. 47,County Tax Assessor-Collector,,REP,Valerie Stephen,258
+Erath,Precinct No. 47,County Tax Assessor-Collector,,DEM,Marycruz Serrano,62
+Erath,Precinct No. 47,County Tax Assessor-Collector,,,Under Votes,22
