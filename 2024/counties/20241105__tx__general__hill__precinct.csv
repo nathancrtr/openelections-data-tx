@@ -1,0 +1,508 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+"Hill","Hillsboro Pct 1","Registered Voters",,,,1831,0,0,0
+"Hill","Hillsboro Pct 1","Ballots Cast",,,,1106,0,0,0
+"Hill","Hillsboro Pct 1","President",,"REP","Donald J. Trump/JD Vance",802,20,634,148
+"Hill","Hillsboro Pct 1","President",,"DEM","Kamala D. Harris/Tim Walz",295,20,207,68
+"Hill","Hillsboro Pct 1","President",,"LIB","Chase Oliver/Mike Ter Maat",5,0,1,4
+"Hill","Hillsboro Pct 1","President",,"GRN","Jill Stein/Rudolph Ware",2,0,1,1
+"Hill","Hillsboro Pct 1","President",,,"Write-ins",0,0,0,0
+"Hill","Hillsboro Pct 1","President",,,"Under Votes",2,0,1,1
+"Hill","Hillsboro Pct 1","President",,,"Over Votes",0,0,0,0
+"Hill","Hillsboro Pct 1","U.S. Senate",,"REP","Ted Cruz",765,20,609,136
+"Hill","Hillsboro Pct 1","U.S. Senate",,"DEM","Colin Allred",314,20,221,73
+"Hill","Hillsboro Pct 1","U.S. Senate",,"LIB","Ted Brown",19,0,11,8
+"Hill","Hillsboro Pct 1","U.S. Senate",,,"Write-ins",0,0,0,0
+"Hill","Hillsboro Pct 1","U.S. Senate",,,"Under Votes",8,0,3,5
+"Hill","Hillsboro Pct 1","U.S. Senate",,,"Over Votes",0,0,0,0
+"Hill","Hillsboro Pct 1","U.S. House","6","REP","Jake Ellzey",807,24,642,141
+"Hill","Hillsboro Pct 1","U.S. House","6","DEM","John Love lll",257,16,174,67
+"Hill","Hillsboro Pct 1","U.S. House","6",,"Under Votes",42,0,28,14
+"Hill","Hillsboro Pct 1","U.S. House","6",,"Over Votes",0,0,0,0
+"Hill","Hillsboro Pct 1","Railroad Commissioner",,"REP","Christi Craddick",784,23,620,141
+"Hill","Hillsboro Pct 1","Railroad Commissioner",,"DEM","Katherine Culbert",230,16,161,53
+"Hill","Hillsboro Pct 1","Railroad Commissioner",,"LIB","Hawk Dunlap",38,0,28,10
+"Hill","Hillsboro Pct 1","Railroad Commissioner",,"GRN","Eddie Espinoza",10,1,5,4
+"Hill","Hillsboro Pct 1","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Hill","Hillsboro Pct 1","Railroad Commissioner",,,"Under Votes",44,0,30,14
+"Hill","Hillsboro Pct 1","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Hill","Hillsboro Pct 1","State Representative","13","REP","Angelia Orr",812,24,640,148
+"Hill","Hillsboro Pct 1","State Representative","13","DEM","Albert Hunter",254,16,176,62
+"Hill","Hillsboro Pct 1","State Representative","13",,"Under Votes",40,0,28,12
+"Hill","Hillsboro Pct 1","State Representative","13",,"Over Votes",0,0,0,0
+"Hill","Hillsboro Pct 1","County Attorney",,"REP","R. David Holmes",912,26,703,183
+"Hill","Hillsboro Pct 1","County Attorney",,,"Under Votes",194,14,141,39
+"Hill","Hillsboro Pct 1","County Attorney",,,"Over Votes",0,0,0,0
+"Hill","Hillsboro Pct 1","Sheriff",,"REP","Hunter Barnes",886,26,680,180
+"Hill","Hillsboro Pct 1","Sheriff",,,"Under Votes",220,14,164,42
+"Hill","Hillsboro Pct 1","Sheriff",,,"Over Votes",0,0,0,0
+"Hill","Hillsboro Pct 1","County Tax Assessor-Collector",,"REP","Krystal (Krissi) Hightower",898,28,689,181
+"Hill","Hillsboro Pct 1","County Tax Assessor-Collector",,,"Under Votes",208,12,155,41
+"Hill","Hillsboro Pct 1","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Hill","Blum Pct 2","Registered Voters",,,,2582,0,0,0
+"Hill","Blum Pct 2","Ballots Cast",,,,1739,0,0,0
+"Hill","Blum Pct 2","President",,"REP","Donald J. Trump/JD Vance",1524,11,1182,331
+"Hill","Blum Pct 2","President",,"DEM","Kamala D. Harris/Tim Walz",200,15,150,35
+"Hill","Blum Pct 2","President",,"LIB","Chase Oliver/Mike Ter Maat",3,0,2,1
+"Hill","Blum Pct 2","President",,"GRN","Jill Stein/Rudolph Ware",6,0,3,3
+"Hill","Blum Pct 2","President",,,"Write-ins",0,0,0,0
+"Hill","Blum Pct 2","President",,,"Under Votes",6,0,6,0
+"Hill","Blum Pct 2","President",,,"Over Votes",0,0,0,0
+"Hill","Blum Pct 2","U.S. Senate",,"REP","Ted Cruz",1478,10,1152,316
+"Hill","Blum Pct 2","U.S. Senate",,"DEM","Colin Allred",216,15,160,41
+"Hill","Blum Pct 2","U.S. Senate",,"LIB","Ted Brown",33,1,23,9
+"Hill","Blum Pct 2","U.S. Senate",,,"Write-ins",1,0,0,1
+"Hill","Blum Pct 2","U.S. Senate",,,"Under Votes",10,0,7,3
+"Hill","Blum Pct 2","U.S. Senate",,,"Over Votes",1,0,1,0
+"Hill","Blum Pct 2","U.S. House","6","REP","Jake Ellzey",1509,13,1174,322
+"Hill","Blum Pct 2","U.S. House","6","DEM","John Love lll",191,13,140,38
+"Hill","Blum Pct 2","U.S. House","6",,"Under Votes",39,0,29,10
+"Hill","Blum Pct 2","U.S. House","6",,"Over Votes",0,0,0,0
+"Hill","Blum Pct 2","Railroad Commissioner",,"REP","Christi Craddick",1445,12,1123,310
+"Hill","Blum Pct 2","Railroad Commissioner",,"DEM","Katherine Culbert",177,13,134,30
+"Hill","Blum Pct 2","Railroad Commissioner",,"LIB","Hawk Dunlap",68,1,54,13
+"Hill","Blum Pct 2","Railroad Commissioner",,"GRN","Eddie Espinoza",14,0,5,9
+"Hill","Blum Pct 2","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Hill","Blum Pct 2","Railroad Commissioner",,,"Under Votes",34,0,26,8
+"Hill","Blum Pct 2","Railroad Commissioner",,,"Over Votes",1,0,1,0
+"Hill","Blum Pct 2","State Representative","13","REP","Angelia Orr",1504,12,1169,323
+"Hill","Blum Pct 2","State Representative","13","DEM","Albert Hunter",188,14,138,36
+"Hill","Blum Pct 2","State Representative","13",,"Under Votes",47,0,36,11
+"Hill","Blum Pct 2","State Representative","13",,"Over Votes",0,0,0,0
+"Hill","Blum Pct 2","County Attorney",,"REP","R. David Holmes",1523,16,1173,334
+"Hill","Blum Pct 2","County Attorney",,,"Under Votes",216,10,170,36
+"Hill","Blum Pct 2","County Attorney",,,"Over Votes",0,0,0,0
+"Hill","Blum Pct 2","Sheriff",,"REP","Hunter Barnes",1530,17,1178,335
+"Hill","Blum Pct 2","Sheriff",,,"Under Votes",209,9,165,35
+"Hill","Blum Pct 2","Sheriff",,,"Over Votes",0,0,0,0
+"Hill","Blum Pct 2","County Tax Assessor-Collector",,"REP","Krystal (Krissi) Hightower",1536,18,1185,333
+"Hill","Blum Pct 2","County Tax Assessor-Collector",,,"Under Votes",203,8,158,37
+"Hill","Blum Pct 2","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Hill","Hillsboro Pct 3","Registered Voters",,,,1635,0,0,0
+"Hill","Hillsboro Pct 3","Ballots Cast",,,,698,0,0,0
+"Hill","Hillsboro Pct 3","President",,"REP","Donald J. Trump/JD Vance",396,8,265,123
+"Hill","Hillsboro Pct 3","President",,"DEM","Kamala D. Harris/Tim Walz",289,15,189,85
+"Hill","Hillsboro Pct 3","President",,"LIB","Chase Oliver/Mike Ter Maat",4,0,2,2
+"Hill","Hillsboro Pct 3","President",,"GRN","Jill Stein/Rudolph Ware",2,0,0,2
+"Hill","Hillsboro Pct 3","President",,,"Write-ins",0,0,0,0
+"Hill","Hillsboro Pct 3","President",,,"Under Votes",3,0,3,0
+"Hill","Hillsboro Pct 3","President",,,"Over Votes",4,0,2,2
+"Hill","Hillsboro Pct 3","U.S. Senate",,"REP","Ted Cruz",342,8,235,99
+"Hill","Hillsboro Pct 3","U.S. Senate",,"DEM","Colin Allred",317,15,203,99
+"Hill","Hillsboro Pct 3","U.S. Senate",,"LIB","Ted Brown",28,0,17,11
+"Hill","Hillsboro Pct 3","U.S. Senate",,,"Write-ins",0,0,0,0
+"Hill","Hillsboro Pct 3","U.S. Senate",,,"Under Votes",10,0,5,5
+"Hill","Hillsboro Pct 3","U.S. Senate",,,"Over Votes",1,0,1,0
+"Hill","Hillsboro Pct 3","U.S. House","6","REP","Jake Ellzey",385,8,258,119
+"Hill","Hillsboro Pct 3","U.S. House","6","DEM","John Love lll",288,15,190,83
+"Hill","Hillsboro Pct 3","U.S. House","6",,"Under Votes",25,0,13,12
+"Hill","Hillsboro Pct 3","U.S. House","6",,"Over Votes",0,0,0,0
+"Hill","Hillsboro Pct 3","Railroad Commissioner",,"REP","Christi Craddick",371,8,254,109
+"Hill","Hillsboro Pct 3","Railroad Commissioner",,"DEM","Katherine Culbert",257,15,171,71
+"Hill","Hillsboro Pct 3","Railroad Commissioner",,"LIB","Hawk Dunlap",12,0,7,5
+"Hill","Hillsboro Pct 3","Railroad Commissioner",,"GRN","Eddie Espinoza",30,0,17,13
+"Hill","Hillsboro Pct 3","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Hill","Hillsboro Pct 3","Railroad Commissioner",,,"Under Votes",26,0,10,16
+"Hill","Hillsboro Pct 3","Railroad Commissioner",,,"Over Votes",2,0,2,0
+"Hill","Hillsboro Pct 3","State Representative","13","REP","Angelia Orr",397,9,277,111
+"Hill","Hillsboro Pct 3","State Representative","13","DEM","Albert Hunter",268,14,166,88
+"Hill","Hillsboro Pct 3","State Representative","13",,"Under Votes",33,0,18,15
+"Hill","Hillsboro Pct 3","State Representative","13",,"Over Votes",0,0,0,0
+"Hill","Hillsboro Pct 3","County Attorney",,"REP","R. David Holmes",491,14,328,149
+"Hill","Hillsboro Pct 3","County Attorney",,,"Under Votes",207,9,133,65
+"Hill","Hillsboro Pct 3","County Attorney",,,"Over Votes",0,0,0,0
+"Hill","Hillsboro Pct 3","Sheriff",,"REP","Hunter Barnes",488,14,320,154
+"Hill","Hillsboro Pct 3","Sheriff",,,"Under Votes",210,9,141,60
+"Hill","Hillsboro Pct 3","Sheriff",,,"Over Votes",0,0,0,0
+"Hill","Hillsboro Pct 3","County Tax Assessor-Collector",,"REP","Krystal (Krissi) Hightower",500,13,330,157
+"Hill","Hillsboro Pct 3","County Tax Assessor-Collector",,,"Under Votes",198,10,131,57
+"Hill","Hillsboro Pct 3","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Hill","McCown Valley Pct 4","Registered Voters",,,,2728,0,0,0
+"Hill","McCown Valley Pct 4","Ballots Cast",,,,1728,0,0,0
+"Hill","McCown Valley Pct 4","President",,"REP","Donald J. Trump/JD Vance",1462,16,1155,291
+"Hill","McCown Valley Pct 4","President",,"DEM","Kamala D. Harris/Tim Walz",243,7,196,40
+"Hill","McCown Valley Pct 4","President",,"LIB","Chase Oliver/Mike Ter Maat",6,0,5,1
+"Hill","McCown Valley Pct 4","President",,"GRN","Jill Stein/Rudolph Ware",4,0,4,0
+"Hill","McCown Valley Pct 4","President",,,"Write-ins",1,0,1,0
+"Hill","McCown Valley Pct 4","President",,,"Under Votes",9,0,7,2
+"Hill","McCown Valley Pct 4","President",,,"Over Votes",3,0,3,0
+"Hill","McCown Valley Pct 4","U.S. Senate",,"REP","Ted Cruz",1406,15,1130,261
+"Hill","McCown Valley Pct 4","U.S. Senate",,"DEM","Colin Allred",269,7,209,53
+"Hill","McCown Valley Pct 4","U.S. Senate",,"LIB","Ted Brown",40,1,25,14
+"Hill","McCown Valley Pct 4","U.S. Senate",,,"Write-ins",1,0,1,0
+"Hill","McCown Valley Pct 4","U.S. Senate",,,"Under Votes",10,0,5,5
+"Hill","McCown Valley Pct 4","U.S. Senate",,,"Over Votes",2,0,1,1
+"Hill","McCown Valley Pct 4","U.S. House","6","REP","Jake Ellzey",1454,16,1163,275
+"Hill","McCown Valley Pct 4","U.S. House","6","DEM","John Love lll",232,7,182,43
+"Hill","McCown Valley Pct 4","U.S. House","6",,"Under Votes",41,0,25,16
+"Hill","McCown Valley Pct 4","U.S. House","6",,"Over Votes",1,0,1,0
+"Hill","McCown Valley Pct 4","Railroad Commissioner",,"REP","Christi Craddick",1408,16,1133,259
+"Hill","McCown Valley Pct 4","Railroad Commissioner",,"DEM","Katherine Culbert",211,6,170,35
+"Hill","McCown Valley Pct 4","Railroad Commissioner",,"LIB","Hawk Dunlap",52,1,37,14
+"Hill","McCown Valley Pct 4","Railroad Commissioner",,"GRN","Eddie Espinoza",12,0,6,6
+"Hill","McCown Valley Pct 4","Railroad Commissioner",,,"Write-ins",1,0,1,0
+"Hill","McCown Valley Pct 4","Railroad Commissioner",,,"Under Votes",43,0,23,20
+"Hill","McCown Valley Pct 4","Railroad Commissioner",,,"Over Votes",1,0,1,0
+"Hill","McCown Valley Pct 4","State Representative","13","REP","Angelia Orr",1441,16,1147,278
+"Hill","McCown Valley Pct 4","State Representative","13","DEM","Albert Hunter",230,7,184,39
+"Hill","McCown Valley Pct 4","State Representative","13",,"Under Votes",57,0,40,17
+"Hill","McCown Valley Pct 4","State Representative","13",,"Over Votes",0,0,0,0
+"Hill","McCown Valley Pct 4","County Attorney",,"REP","R. David Holmes",1467,18,1188,261
+"Hill","McCown Valley Pct 4","County Attorney",,,"Under Votes",261,5,183,73
+"Hill","McCown Valley Pct 4","County Attorney",,,"Over Votes",0,0,0,0
+"Hill","McCown Valley Pct 4","Sheriff",,"REP","Hunter Barnes",1482,18,1204,260
+"Hill","McCown Valley Pct 4","Sheriff",,,"Under Votes",246,5,167,74
+"Hill","McCown Valley Pct 4","Sheriff",,,"Over Votes",0,0,0,0
+"Hill","McCown Valley Pct 4","County Tax Assessor-Collector",,"REP","Krystal (Krissi) Hightower",1494,18,1203,273
+"Hill","McCown Valley Pct 4","County Tax Assessor-Collector",,,"Under Votes",234,5,168,61
+"Hill","McCown Valley Pct 4","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Hill","Aquilla Pct 5","Registered Voters",,,,1638,0,0,0
+"Hill","Aquilla Pct 5","Ballots Cast",,,,1192,0,0,0
+"Hill","Aquilla Pct 5","President",,"REP","Donald J. Trump/JD Vance",1057,15,649,393
+"Hill","Aquilla Pct 5","President",,"DEM","Kamala D. Harris/Tim Walz",124,6,79,39
+"Hill","Aquilla Pct 5","President",,"LIB","Chase Oliver/Mike Ter Maat",5,0,3,2
+"Hill","Aquilla Pct 5","President",,"GRN","Jill Stein/Rudolph Ware",1,0,0,1
+"Hill","Aquilla Pct 5","President",,,"Write-ins",0,0,0,0
+"Hill","Aquilla Pct 5","President",,,"Under Votes",5,0,3,2
+"Hill","Aquilla Pct 5","President",,,"Over Votes",0,0,0,0
+"Hill","Aquilla Pct 5","U.S. Senate",,"REP","Ted Cruz",1026,15,628,383
+"Hill","Aquilla Pct 5","U.S. Senate",,"DEM","Colin Allred",144,6,90,48
+"Hill","Aquilla Pct 5","U.S. Senate",,"LIB","Ted Brown",18,0,12,6
+"Hill","Aquilla Pct 5","U.S. Senate",,,"Write-ins",0,0,0,0
+"Hill","Aquilla Pct 5","U.S. Senate",,,"Under Votes",4,0,4,0
+"Hill","Aquilla Pct 5","U.S. Senate",,,"Over Votes",0,0,0,0
+"Hill","Aquilla Pct 5","U.S. House","6","REP","Jake Ellzey",1049,14,638,397
+"Hill","Aquilla Pct 5","U.S. House","6","DEM","John Love lll",118,6,76,36
+"Hill","Aquilla Pct 5","U.S. House","6",,"Under Votes",25,1,20,4
+"Hill","Aquilla Pct 5","U.S. House","6",,"Over Votes",0,0,0,0
+"Hill","Aquilla Pct 5","Railroad Commissioner",,"REP","Christi Craddick",1031,15,629,387
+"Hill","Aquilla Pct 5","Railroad Commissioner",,"DEM","Katherine Culbert",94,5,65,24
+"Hill","Aquilla Pct 5","Railroad Commissioner",,"LIB","Hawk Dunlap",41,0,26,15
+"Hill","Aquilla Pct 5","Railroad Commissioner",,"GRN","Eddie Espinoza",11,0,3,8
+"Hill","Aquilla Pct 5","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Hill","Aquilla Pct 5","Railroad Commissioner",,,"Under Votes",15,1,11,3
+"Hill","Aquilla Pct 5","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Hill","Aquilla Pct 5","State Representative","13","REP","Angelia Orr",1045,15,628,402
+"Hill","Aquilla Pct 5","State Representative","13","DEM","Albert Hunter",119,5,81,33
+"Hill","Aquilla Pct 5","State Representative","13",,"Under Votes",27,1,24,2
+"Hill","Aquilla Pct 5","State Representative","13",,"Over Votes",1,0,1,0
+"Hill","Aquilla Pct 5","County Attorney",,"REP","R. David Holmes",1049,16,652,381
+"Hill","Aquilla Pct 5","County Attorney",,,"Under Votes",143,5,82,56
+"Hill","Aquilla Pct 5","County Attorney",,,"Over Votes",0,0,0,0
+"Hill","Aquilla Pct 5","Sheriff",,"REP","Hunter Barnes",1041,16,648,377
+"Hill","Aquilla Pct 5","Sheriff",,,"Under Votes",151,5,86,60
+"Hill","Aquilla Pct 5","Sheriff",,,"Over Votes",0,0,0,0
+"Hill","Aquilla Pct 5","County Tax Assessor-Collector",,"REP","Krystal (Krissi) Hightower",1053,16,652,385
+"Hill","Aquilla Pct 5","County Tax Assessor-Collector",,,"Under Votes",139,5,82,52
+"Hill","Aquilla Pct 5","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Hill","Hillsboro Pct 6","Registered Voters",,,,1967,0,0,0
+"Hill","Hillsboro Pct 6","Ballots Cast",,,,1112,0,0,0
+"Hill","Hillsboro Pct 6","President",,"REP","Donald J. Trump/JD Vance",820,16,644,160
+"Hill","Hillsboro Pct 6","President",,"DEM","Kamala D. Harris/Tim Walz",271,4,198,69
+"Hill","Hillsboro Pct 6","President",,"LIB","Chase Oliver/Mike Ter Maat",12,2,6,4
+"Hill","Hillsboro Pct 6","President",,"GRN","Jill Stein/Rudolph Ware",3,0,2,1
+"Hill","Hillsboro Pct 6","President",,,"Write-ins",0,0,0,0
+"Hill","Hillsboro Pct 6","President",,,"Under Votes",3,0,3,0
+"Hill","Hillsboro Pct 6","President",,,"Over Votes",3,0,1,2
+"Hill","Hillsboro Pct 6","U.S. Senate",,"REP","Ted Cruz",775,16,615,144
+"Hill","Hillsboro Pct 6","U.S. Senate",,"DEM","Colin Allred",288,4,214,70
+"Hill","Hillsboro Pct 6","U.S. Senate",,"LIB","Ted Brown",32,2,16,14
+"Hill","Hillsboro Pct 6","U.S. Senate",,,"Write-ins",0,0,0,0
+"Hill","Hillsboro Pct 6","U.S. Senate",,,"Under Votes",16,0,8,8
+"Hill","Hillsboro Pct 6","U.S. Senate",,,"Over Votes",1,0,1,0
+"Hill","Hillsboro Pct 6","U.S. House","6","REP","Jake Ellzey",818,18,648,152
+"Hill","Hillsboro Pct 6","U.S. House","6","DEM","John Love lll",257,4,183,70
+"Hill","Hillsboro Pct 6","U.S. House","6",,"Under Votes",37,0,23,14
+"Hill","Hillsboro Pct 6","U.S. House","6",,"Over Votes",0,0,0,0
+"Hill","Hillsboro Pct 6","Railroad Commissioner",,"REP","Christi Craddick",790,17,625,148
+"Hill","Hillsboro Pct 6","Railroad Commissioner",,"DEM","Katherine Culbert",225,3,167,55
+"Hill","Hillsboro Pct 6","Railroad Commissioner",,"LIB","Hawk Dunlap",38,1,26,11
+"Hill","Hillsboro Pct 6","Railroad Commissioner",,"GRN","Eddie Espinoza",17,1,11,5
+"Hill","Hillsboro Pct 6","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Hill","Hillsboro Pct 6","Railroad Commissioner",,,"Under Votes",40,0,25,15
+"Hill","Hillsboro Pct 6","Railroad Commissioner",,,"Over Votes",2,0,0,2
+"Hill","Hillsboro Pct 6","State Representative","13","REP","Angelia Orr",814,17,636,161
+"Hill","Hillsboro Pct 6","State Representative","13","DEM","Albert Hunter",252,4,185,63
+"Hill","Hillsboro Pct 6","State Representative","13",,"Under Votes",46,1,33,12
+"Hill","Hillsboro Pct 6","State Representative","13",,"Over Votes",0,0,0,0
+"Hill","Hillsboro Pct 6","County Attorney",,"REP","R. David Holmes",915,17,719,179
+"Hill","Hillsboro Pct 6","County Attorney",,,"Under Votes",197,5,135,57
+"Hill","Hillsboro Pct 6","County Attorney",,,"Over Votes",0,0,0,0
+"Hill","Hillsboro Pct 6","Sheriff",,"REP","Hunter Barnes",901,17,704,180
+"Hill","Hillsboro Pct 6","Sheriff",,,"Under Votes",211,5,150,56
+"Hill","Hillsboro Pct 6","Sheriff",,,"Over Votes",0,0,0,0
+"Hill","Hillsboro Pct 6","County Tax Assessor-Collector",,"REP","Krystal (Krissi) Hightower",919,17,721,181
+"Hill","Hillsboro Pct 6","County Tax Assessor-Collector",,,"Under Votes",193,5,133,55
+"Hill","Hillsboro Pct 6","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Hill","Abbott Pct 7","Registered Voters",,,,1120,0,0,0
+"Hill","Abbott Pct 7","Ballots Cast",,,,812,0,0,0
+"Hill","Abbott Pct 7","President",,"REP","Donald J. Trump/JD Vance",701,6,461,234
+"Hill","Abbott Pct 7","President",,"DEM","Kamala D. Harris/Tim Walz",102,6,73,23
+"Hill","Abbott Pct 7","President",,"LIB","Chase Oliver/Mike Ter Maat",2,0,1,1
+"Hill","Abbott Pct 7","President",,"GRN","Jill Stein/Rudolph Ware",2,1,0,1
+"Hill","Abbott Pct 7","President",,,"Write-ins",0,0,0,0
+"Hill","Abbott Pct 7","President",,,"Under Votes",5,0,0,5
+"Hill","Abbott Pct 7","President",,,"Over Votes",0,0,0,0
+"Hill","Abbott Pct 7","U.S. Senate",,"REP","Ted Cruz",680,6,452,222
+"Hill","Abbott Pct 7","U.S. Senate",,"DEM","Colin Allred",119,6,75,38
+"Hill","Abbott Pct 7","U.S. Senate",,"LIB","Ted Brown",7,0,4,3
+"Hill","Abbott Pct 7","U.S. Senate",,,"Write-ins",1,1,0,0
+"Hill","Abbott Pct 7","U.S. Senate",,,"Under Votes",5,0,4,1
+"Hill","Abbott Pct 7","U.S. Senate",,,"Over Votes",0,0,0,0
+"Hill","Abbott Pct 7","U.S. House","6","REP","Jake Ellzey",699,10,459,230
+"Hill","Abbott Pct 7","U.S. House","6","DEM","John Love lll",90,2,62,26
+"Hill","Abbott Pct 7","U.S. House","6",,"Under Votes",23,1,14,8
+"Hill","Abbott Pct 7","U.S. House","6",,"Over Votes",0,0,0,0
+"Hill","Abbott Pct 7","Railroad Commissioner",,"REP","Christi Craddick",687,10,456,221
+"Hill","Abbott Pct 7","Railroad Commissioner",,"DEM","Katherine Culbert",89,2,61,26
+"Hill","Abbott Pct 7","Railroad Commissioner",,"LIB","Hawk Dunlap",14,0,8,6
+"Hill","Abbott Pct 7","Railroad Commissioner",,"GRN","Eddie Espinoza",6,0,3,3
+"Hill","Abbott Pct 7","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Hill","Abbott Pct 7","Railroad Commissioner",,,"Under Votes",16,1,7,8
+"Hill","Abbott Pct 7","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Hill","Abbott Pct 7","State Representative","13","REP","Angelia Orr",698,10,459,229
+"Hill","Abbott Pct 7","State Representative","13","DEM","Albert Hunter",93,2,63,28
+"Hill","Abbott Pct 7","State Representative","13",,"Under Votes",21,1,13,7
+"Hill","Abbott Pct 7","State Representative","13",,"Over Votes",0,0,0,0
+"Hill","Abbott Pct 7","County Attorney",,"REP","R. David Holmes",709,8,464,237
+"Hill","Abbott Pct 7","County Attorney",,,"Under Votes",103,5,71,27
+"Hill","Abbott Pct 7","County Attorney",,,"Over Votes",0,0,0,0
+"Hill","Abbott Pct 7","Sheriff",,"REP","Hunter Barnes",702,8,461,233
+"Hill","Abbott Pct 7","Sheriff",,,"Under Votes",110,5,74,31
+"Hill","Abbott Pct 7","Sheriff",,,"Over Votes",0,0,0,0
+"Hill","Abbott Pct 7","County Tax Assessor-Collector",,"REP","Krystal (Krissi) Hightower",697,9,453,235
+"Hill","Abbott Pct 7","County Tax Assessor-Collector",,,"Under Votes",115,4,82,29
+"Hill","Abbott Pct 7","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Hill","Ft. Graham Pct 8","Registered Voters",,,,2803,0,0,0
+"Hill","Ft. Graham Pct 8","Ballots Cast",,,,1827,0,0,0
+"Hill","Ft. Graham Pct 8","President",,"REP","Donald J. Trump/JD Vance",1536,27,1257,252
+"Hill","Ft. Graham Pct 8","President",,"DEM","Kamala D. Harris/Tim Walz",266,13,207,46
+"Hill","Ft. Graham Pct 8","President",,"LIB","Chase Oliver/Mike Ter Maat",13,0,10,3
+"Hill","Ft. Graham Pct 8","President",,"GRN","Jill Stein/Rudolph Ware",3,0,3,0
+"Hill","Ft. Graham Pct 8","President",,,"Write-ins",0,0,0,0
+"Hill","Ft. Graham Pct 8","President",,,"Under Votes",9,0,8,1
+"Hill","Ft. Graham Pct 8","President",,,"Over Votes",0,0,0,0
+"Hill","Ft. Graham Pct 8","U.S. Senate",,"REP","Ted Cruz",1508,27,1244,237
+"Hill","Ft. Graham Pct 8","U.S. Senate",,"DEM","Colin Allred",281,12,214,55
+"Hill","Ft. Graham Pct 8","U.S. Senate",,"LIB","Ted Brown",32,1,24,7
+"Hill","Ft. Graham Pct 8","U.S. Senate",,,"Write-ins",0,0,0,0
+"Hill","Ft. Graham Pct 8","U.S. Senate",,,"Under Votes",6,0,3,3
+"Hill","Ft. Graham Pct 8","U.S. Senate",,,"Over Votes",0,0,0,0
+"Hill","Ft. Graham Pct 8","U.S. House","6","REP","Jake Ellzey",1552,28,1273,251
+"Hill","Ft. Graham Pct 8","U.S. House","6","DEM","John Love lll",235,12,181,42
+"Hill","Ft. Graham Pct 8","U.S. House","6",,"Under Votes",39,0,31,8
+"Hill","Ft. Graham Pct 8","U.S. House","6",,"Over Votes",1,0,0,1
+"Hill","Ft. Graham Pct 8","Railroad Commissioner",,"REP","Christi Craddick",1525,28,1256,241
+"Hill","Ft. Graham Pct 8","Railroad Commissioner",,"DEM","Katherine Culbert",221,12,170,39
+"Hill","Ft. Graham Pct 8","Railroad Commissioner",,"LIB","Hawk Dunlap",39,0,29,10
+"Hill","Ft. Graham Pct 8","Railroad Commissioner",,"GRN","Eddie Espinoza",8,0,5,3
+"Hill","Ft. Graham Pct 8","Railroad Commissioner",,,"Write-ins",1,0,0,1
+"Hill","Ft. Graham Pct 8","Railroad Commissioner",,,"Under Votes",33,0,25,8
+"Hill","Ft. Graham Pct 8","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Hill","Ft. Graham Pct 8","State Representative","13","REP","Angelia Orr",1545,28,1265,252
+"Hill","Ft. Graham Pct 8","State Representative","13","DEM","Albert Hunter",235,12,178,45
+"Hill","Ft. Graham Pct 8","State Representative","13",,"Under Votes",46,0,41,5
+"Hill","Ft. Graham Pct 8","State Representative","13",,"Over Votes",1,0,1,0
+"Hill","Ft. Graham Pct 8","County Attorney",,"REP","R. David Holmes",1584,30,1282,272
+"Hill","Ft. Graham Pct 8","County Attorney",,,"Under Votes",243,10,203,30
+"Hill","Ft. Graham Pct 8","County Attorney",,,"Over Votes",0,0,0,0
+"Hill","Ft. Graham Pct 8","Sheriff",,"REP","Hunter Barnes",1577,31,1277,269
+"Hill","Ft. Graham Pct 8","Sheriff",,,"Under Votes",250,9,208,33
+"Hill","Ft. Graham Pct 8","Sheriff",,,"Over Votes",0,0,0,0
+"Hill","Ft. Graham Pct 8","County Tax Assessor-Collector",,"REP","Krystal (Krissi) Hightower",1587,30,1284,273
+"Hill","Ft. Graham Pct 8","County Tax Assessor-Collector",,,"Under Votes",240,10,201,29
+"Hill","Ft. Graham Pct 8","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Hill","Brandon Pct 9","Registered Voters",,,,1556,0,0,0
+"Hill","Brandon Pct 9","Ballots Cast",,,,970,0,0,0
+"Hill","Brandon Pct 9","President",,"REP","Donald J. Trump/JD Vance",808,22,568,218
+"Hill","Brandon Pct 9","President",,"DEM","Kamala D. Harris/Tim Walz",152,10,100,42
+"Hill","Brandon Pct 9","President",,"LIB","Chase Oliver/Mike Ter Maat",2,0,2,0
+"Hill","Brandon Pct 9","President",,"GRN","Jill Stein/Rudolph Ware",3,0,1,2
+"Hill","Brandon Pct 9","President",,,"Write-ins",0,0,0,0
+"Hill","Brandon Pct 9","President",,,"Under Votes",5,0,4,1
+"Hill","Brandon Pct 9","President",,,"Over Votes",0,0,0,0
+"Hill","Brandon Pct 9","U.S. Senate",,"REP","Ted Cruz",769,21,547,201
+"Hill","Brandon Pct 9","U.S. Senate",,"DEM","Colin Allred",180,11,115,54
+"Hill","Brandon Pct 9","U.S. Senate",,"LIB","Ted Brown",10,0,5,5
+"Hill","Brandon Pct 9","U.S. Senate",,,"Write-ins",0,0,0,0
+"Hill","Brandon Pct 9","U.S. Senate",,,"Under Votes",11,0,8,3
+"Hill","Brandon Pct 9","U.S. Senate",,,"Over Votes",0,0,0,0
+"Hill","Brandon Pct 9","U.S. House","6","REP","Jake Ellzey",780,19,559,202
+"Hill","Brandon Pct 9","U.S. House","6","DEM","John Love lll",151,10,92,49
+"Hill","Brandon Pct 9","U.S. House","6",,"Under Votes",38,3,23,12
+"Hill","Brandon Pct 9","U.S. House","6",,"Over Votes",1,0,1,0
+"Hill","Brandon Pct 9","Railroad Commissioner",,"REP","Christi Craddick",764,19,550,195
+"Hill","Brandon Pct 9","Railroad Commissioner",,"DEM","Katherine Culbert",133,11,87,35
+"Hill","Brandon Pct 9","Railroad Commissioner",,"LIB","Hawk Dunlap",20,0,9,11
+"Hill","Brandon Pct 9","Railroad Commissioner",,"GRN","Eddie Espinoza",19,0,9,10
+"Hill","Brandon Pct 9","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Hill","Brandon Pct 9","Railroad Commissioner",,,"Under Votes",34,2,20,12
+"Hill","Brandon Pct 9","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Hill","Brandon Pct 9","State Representative","13","REP","Angelia Orr",771,19,542,210
+"Hill","Brandon Pct 9","State Representative","13","DEM","Albert Hunter",145,10,92,43
+"Hill","Brandon Pct 9","State Representative","13",,"Under Votes",54,3,41,10
+"Hill","Brandon Pct 9","State Representative","13",,"Over Votes",0,0,0,0
+"Hill","Brandon Pct 9","County Attorney",,"REP","R. David Holmes",819,24,578,217
+"Hill","Brandon Pct 9","County Attorney",,,"Under Votes",151,8,97,46
+"Hill","Brandon Pct 9","County Attorney",,,"Over Votes",0,0,0,0
+"Hill","Brandon Pct 9","Sheriff",,"REP","Hunter Barnes",818,22,577,219
+"Hill","Brandon Pct 9","Sheriff",,,"Under Votes",152,10,98,44
+"Hill","Brandon Pct 9","Sheriff",,,"Over Votes",0,0,0,0
+"Hill","Brandon Pct 9","County Tax Assessor-Collector",,"REP","Krystal (Krissi) Hightower",820,25,577,218
+"Hill","Brandon Pct 9","County Tax Assessor-Collector",,,"Under Votes",150,7,98,45
+"Hill","Brandon Pct 9","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Hill","Itasca Pct 10","Registered Voters",,,,2782,0,0,0
+"Hill","Itasca Pct 10","Ballots Cast",,,,1689,0,0,0
+"Hill","Itasca Pct 10","President",,"REP","Donald J. Trump/JD Vance",1345,23,972,350
+"Hill","Itasca Pct 10","President",,"DEM","Kamala D. Harris/Tim Walz",325,5,194,126
+"Hill","Itasca Pct 10","President",,"LIB","Chase Oliver/Mike Ter Maat",8,0,2,6
+"Hill","Itasca Pct 10","President",,"GRN","Jill Stein/Rudolph Ware",3,0,1,2
+"Hill","Itasca Pct 10","President",,,"Write-ins",0,0,0,0
+"Hill","Itasca Pct 10","President",,,"Under Votes",7,0,4,3
+"Hill","Itasca Pct 10","President",,,"Over Votes",1,0,1,0
+"Hill","Itasca Pct 10","U.S. Senate",,"REP","Ted Cruz",1273,22,933,318
+"Hill","Itasca Pct 10","U.S. Senate",,"DEM","Colin Allred",369,6,221,142
+"Hill","Itasca Pct 10","U.S. Senate",,"LIB","Ted Brown",35,0,13,22
+"Hill","Itasca Pct 10","U.S. Senate",,,"Write-ins",0,0,0,0
+"Hill","Itasca Pct 10","U.S. Senate",,,"Under Votes",12,0,7,5
+"Hill","Itasca Pct 10","U.S. Senate",,,"Over Votes",0,0,0,0
+"Hill","Itasca Pct 10","U.S. House","6","REP","Jake Ellzey",1347,23,967,357
+"Hill","Itasca Pct 10","U.S. House","6","DEM","John Love lll",301,5,184,112
+"Hill","Itasca Pct 10","U.S. House","6",,"Under Votes",41,0,23,18
+"Hill","Itasca Pct 10","U.S. House","6",,"Over Votes",0,0,0,0
+"Hill","Itasca Pct 10","Railroad Commissioner",,"REP","Christi Craddick",1291,23,941,327
+"Hill","Itasca Pct 10","Railroad Commissioner",,"DEM","Katherine Culbert",292,5,177,110
+"Hill","Itasca Pct 10","Railroad Commissioner",,"LIB","Hawk Dunlap",60,0,35,25
+"Hill","Itasca Pct 10","Railroad Commissioner",,"GRN","Eddie Espinoza",16,0,6,10
+"Hill","Itasca Pct 10","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Hill","Itasca Pct 10","Railroad Commissioner",,,"Under Votes",29,0,14,15
+"Hill","Itasca Pct 10","Railroad Commissioner",,,"Over Votes",1,0,1,0
+"Hill","Itasca Pct 10","State Representative","13","REP","Angelia Orr",1346,23,961,362
+"Hill","Itasca Pct 10","State Representative","13","DEM","Albert Hunter",291,5,179,107
+"Hill","Itasca Pct 10","State Representative","13",,"Under Votes",50,0,32,18
+"Hill","Itasca Pct 10","State Representative","13",,"Over Votes",2,0,2,0
+"Hill","Itasca Pct 10","County Attorney",,"REP","R. David Holmes",1452,24,1015,413
+"Hill","Itasca Pct 10","County Attorney",,,"Under Votes",237,4,159,74
+"Hill","Itasca Pct 10","County Attorney",,,"Over Votes",0,0,0,0
+"Hill","Itasca Pct 10","Sheriff",,"REP","Hunter Barnes",1453,24,1018,411
+"Hill","Itasca Pct 10","Sheriff",,,"Under Votes",236,4,156,76
+"Hill","Itasca Pct 10","Sheriff",,,"Over Votes",0,0,0,0
+"Hill","Itasca Pct 10","County Tax Assessor-Collector",,"REP","Krystal (Krissi) Hightower",1452,24,1014,414
+"Hill","Itasca Pct 10","County Tax Assessor-Collector",,,"Under Votes",237,4,160,73
+"Hill","Itasca Pct 10","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Hill","Penelope Pct 11","Registered Voters",,,,976,0,0,0
+"Hill","Penelope Pct 11","Ballots Cast",,,,631,0,0,0
+"Hill","Penelope Pct 11","President",,"REP","Donald J. Trump/JD Vance",529,4,269,256
+"Hill","Penelope Pct 11","President",,"DEM","Kamala D. Harris/Tim Walz",95,0,45,50
+"Hill","Penelope Pct 11","President",,"LIB","Chase Oliver/Mike Ter Maat",3,0,1,2
+"Hill","Penelope Pct 11","President",,"GRN","Jill Stein/Rudolph Ware",2,0,0,2
+"Hill","Penelope Pct 11","President",,,"Write-ins",0,0,0,0
+"Hill","Penelope Pct 11","President",,,"Under Votes",2,0,0,2
+"Hill","Penelope Pct 11","President",,,"Over Votes",0,0,0,0
+"Hill","Penelope Pct 11","U.S. Senate",,"REP","Ted Cruz",511,4,262,245
+"Hill","Penelope Pct 11","U.S. Senate",,"DEM","Colin Allred",101,0,47,54
+"Hill","Penelope Pct 11","U.S. Senate",,"LIB","Ted Brown",12,0,2,10
+"Hill","Penelope Pct 11","U.S. Senate",,,"Write-ins",0,0,0,0
+"Hill","Penelope Pct 11","U.S. Senate",,,"Under Votes",7,0,4,3
+"Hill","Penelope Pct 11","U.S. Senate",,,"Over Votes",0,0,0,0
+"Hill","Penelope Pct 11","U.S. House","6","REP","Jake Ellzey",521,4,266,251
+"Hill","Penelope Pct 11","U.S. House","6","DEM","John Love lll",88,0,38,50
+"Hill","Penelope Pct 11","U.S. House","6",,"Under Votes",22,0,11,11
+"Hill","Penelope Pct 11","U.S. House","6",,"Over Votes",0,0,0,0
+"Hill","Penelope Pct 11","Railroad Commissioner",,"REP","Christi Craddick",504,4,258,242
+"Hill","Penelope Pct 11","Railroad Commissioner",,"DEM","Katherine Culbert",65,0,35,30
+"Hill","Penelope Pct 11","Railroad Commissioner",,"LIB","Hawk Dunlap",25,0,10,15
+"Hill","Penelope Pct 11","Railroad Commissioner",,"GRN","Eddie Espinoza",15,0,2,13
+"Hill","Penelope Pct 11","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Hill","Penelope Pct 11","Railroad Commissioner",,,"Under Votes",21,0,10,11
+"Hill","Penelope Pct 11","Railroad Commissioner",,,"Over Votes",1,0,0,1
+"Hill","Penelope Pct 11","State Representative","13","REP","Angelia Orr",523,4,265,254
+"Hill","Penelope Pct 11","State Representative","13","DEM","Albert Hunter",84,0,41,43
+"Hill","Penelope Pct 11","State Representative","13",,"Under Votes",24,0,9,15
+"Hill","Penelope Pct 11","State Representative","13",,"Over Votes",0,0,0,0
+"Hill","Penelope Pct 11","County Attorney",,"REP","R. David Holmes",559,4,282,273
+"Hill","Penelope Pct 11","County Attorney",,,"Under Votes",72,0,33,39
+"Hill","Penelope Pct 11","County Attorney",,,"Over Votes",0,0,0,0
+"Hill","Penelope Pct 11","Sheriff",,"REP","Hunter Barnes",551,4,278,269
+"Hill","Penelope Pct 11","Sheriff",,,"Under Votes",80,0,37,43
+"Hill","Penelope Pct 11","Sheriff",,,"Over Votes",0,0,0,0
+"Hill","Penelope Pct 11","County Tax Assessor-Collector",,"REP","Krystal (Krissi) Hightower",560,4,284,272
+"Hill","Penelope Pct 11","County Tax Assessor-Collector",,,"Under Votes",71,0,31,40
+"Hill","Penelope Pct 11","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Hill","Hubbard Pct 12","Registered Voters",,,,2030,0,0,0
+"Hill","Hubbard Pct 12","Ballots Cast",,,,1280,0,0,0
+"Hill","Hubbard Pct 12","President",,"REP","Donald J. Trump/JD Vance",1002,7,762,233
+"Hill","Hubbard Pct 12","President",,"DEM","Kamala D. Harris/Tim Walz",261,8,194,59
+"Hill","Hubbard Pct 12","President",,"LIB","Chase Oliver/Mike Ter Maat",7,0,4,3
+"Hill","Hubbard Pct 12","President",,"GRN","Jill Stein/Rudolph Ware",4,0,4,0
+"Hill","Hubbard Pct 12","President",,,"Write-ins",2,0,2,0
+"Hill","Hubbard Pct 12","President",,,"Under Votes",3,0,2,1
+"Hill","Hubbard Pct 12","President",,,"Over Votes",1,0,1,0
+"Hill","Hubbard Pct 12","U.S. Senate",,"REP","Ted Cruz",960,7,737,216
+"Hill","Hubbard Pct 12","U.S. Senate",,"DEM","Colin Allred",283,7,209,67
+"Hill","Hubbard Pct 12","U.S. Senate",,"LIB","Ted Brown",26,1,16,9
+"Hill","Hubbard Pct 12","U.S. Senate",,,"Write-ins",1,0,1,0
+"Hill","Hubbard Pct 12","U.S. Senate",,,"Under Votes",9,0,5,4
+"Hill","Hubbard Pct 12","U.S. Senate",,,"Over Votes",1,0,1,0
+"Hill","Hubbard Pct 12","U.S. House","6","REP","Jake Ellzey",984,7,761,216
+"Hill","Hubbard Pct 12","U.S. House","6","DEM","John Love lll",265,8,191,66
+"Hill","Hubbard Pct 12","U.S. House","6",,"Under Votes",31,0,17,14
+"Hill","Hubbard Pct 12","U.S. House","6",,"Over Votes",0,0,0,0
+"Hill","Hubbard Pct 12","Railroad Commissioner",,"REP","Christi Craddick",967,7,744,216
+"Hill","Hubbard Pct 12","Railroad Commissioner",,"DEM","Katherine Culbert",238,8,174,56
+"Hill","Hubbard Pct 12","Railroad Commissioner",,"LIB","Hawk Dunlap",42,0,32,10
+"Hill","Hubbard Pct 12","Railroad Commissioner",,"GRN","Eddie Espinoza",9,0,5,4
+"Hill","Hubbard Pct 12","Railroad Commissioner",,,"Write-ins",1,0,1,0
+"Hill","Hubbard Pct 12","Railroad Commissioner",,,"Under Votes",22,0,12,10
+"Hill","Hubbard Pct 12","Railroad Commissioner",,,"Over Votes",1,0,1,0
+"Hill","Hubbard Pct 12","State Representative","13","REP","Angelia Orr",994,7,763,224
+"Hill","Hubbard Pct 12","State Representative","13","DEM","Albert Hunter",251,8,183,60
+"Hill","Hubbard Pct 12","State Representative","13",,"Under Votes",33,0,21,12
+"Hill","Hubbard Pct 12","State Representative","13",,"Over Votes",2,0,2,0
+"Hill","Hubbard Pct 12","County Attorney",,"REP","R. David Holmes",1062,9,822,231
+"Hill","Hubbard Pct 12","County Attorney",,,"Under Votes",218,6,147,65
+"Hill","Hubbard Pct 12","County Attorney",,,"Over Votes",0,0,0,0
+"Hill","Hubbard Pct 12","Sheriff",,"REP","Hunter Barnes",1066,9,824,233
+"Hill","Hubbard Pct 12","Sheriff",,,"Under Votes",214,6,145,63
+"Hill","Hubbard Pct 12","Sheriff",,,"Over Votes",0,0,0,0
+"Hill","Hubbard Pct 12","County Tax Assessor-Collector",,"REP","Krystal (Krissi) Hightower",1068,9,825,234
+"Hill","Hubbard Pct 12","County Tax Assessor-Collector",,,"Under Votes",212,6,144,62
+"Hill","Hubbard Pct 12","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Hill","Whitney Pct 13","Registered Voters",,,,3229,0,0,0
+"Hill","Whitney Pct 13","Ballots Cast",,,,2006,0,0,0
+"Hill","Whitney Pct 13","President",,"REP","Donald J. Trump/JD Vance",1687,27,1199,461
+"Hill","Whitney Pct 13","President",,"DEM","Kamala D. Harris/Tim Walz",296,15,207,74
+"Hill","Whitney Pct 13","President",,"LIB","Chase Oliver/Mike Ter Maat",8,0,5,3
+"Hill","Whitney Pct 13","President",,"GRN","Jill Stein/Rudolph Ware",2,0,2,0
+"Hill","Whitney Pct 13","President",,,"Write-ins",0,0,0,0
+"Hill","Whitney Pct 13","President",,,"Under Votes",12,0,8,4
+"Hill","Whitney Pct 13","President",,,"Over Votes",1,0,0,1
+"Hill","Whitney Pct 13","U.S. Senate",,"REP","Ted Cruz",1611,26,1159,426
+"Hill","Whitney Pct 13","U.S. Senate",,"DEM","Colin Allred",342,14,236,92
+"Hill","Whitney Pct 13","U.S. Senate",,"LIB","Ted Brown",35,0,17,18
+"Hill","Whitney Pct 13","U.S. Senate",,,"Write-ins",0,0,0,0
+"Hill","Whitney Pct 13","U.S. Senate",,,"Under Votes",18,2,9,7
+"Hill","Whitney Pct 13","U.S. Senate",,,"Over Votes",0,0,0,0
+"Hill","Whitney Pct 13","U.S. House","6","REP","Jake Ellzey",1668,28,1189,451
+"Hill","Whitney Pct 13","U.S. House","6","DEM","John Love lll",269,9,189,71
+"Hill","Whitney Pct 13","U.S. House","6",,"Under Votes",68,5,43,20
+"Hill","Whitney Pct 13","U.S. House","6",,"Over Votes",1,0,0,1
+"Hill","Whitney Pct 13","Railroad Commissioner",,"REP","Christi Craddick",1621,28,1160,433
+"Hill","Whitney Pct 13","Railroad Commissioner",,"DEM","Katherine Culbert",248,8,183,57
+"Hill","Whitney Pct 13","Railroad Commissioner",,"LIB","Hawk Dunlap",53,1,31,21
+"Hill","Whitney Pct 13","Railroad Commissioner",,"GRN","Eddie Espinoza",21,0,10,11
+"Hill","Whitney Pct 13","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Hill","Whitney Pct 13","Railroad Commissioner",,,"Under Votes",63,5,37,21
+"Hill","Whitney Pct 13","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Hill","Whitney Pct 13","State Representative","13","REP","Angelia Orr",1665,28,1196,441
+"Hill","Whitney Pct 13","State Representative","13","DEM","Albert Hunter",270,9,185,76
+"Hill","Whitney Pct 13","State Representative","13",,"Under Votes",70,5,40,25
+"Hill","Whitney Pct 13","State Representative","13",,"Over Votes",1,0,0,1
+"Hill","Whitney Pct 13","County Attorney",,"REP","R. David Holmes",1734,30,1244,460
+"Hill","Whitney Pct 13","County Attorney",,,"Under Votes",272,12,177,83
+"Hill","Whitney Pct 13","County Attorney",,,"Over Votes",0,0,0,0
+"Hill","Whitney Pct 13","Sheriff",,"REP","Hunter Barnes",1736,30,1247,459
+"Hill","Whitney Pct 13","Sheriff",,,"Under Votes",270,12,174,84
+"Hill","Whitney Pct 13","Sheriff",,,"Over Votes",0,0,0,0
+"Hill","Whitney Pct 13","County Tax Assessor-Collector",,"REP","Krystal (Krissi) Hightower",1742,30,1241,471
+"Hill","Whitney Pct 13","County Tax Assessor-Collector",,,"Under Votes",264,12,180,72
+"Hill","Whitney Pct 13","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
