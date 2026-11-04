@@ -1,0 +1,223 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+"Yoakum","101 COUNTY","Registered Voters",,,,1158,0,0,0
+"Yoakum","101 COUNTY","Ballots Cast",,,,633,7,494,132
+"Yoakum","101 COUNTY","President",,"REP","Donald J. Trump/JD Vance",553,6,433,114
+"Yoakum","101 COUNTY","President",,"DEM","Kamala D. Harris/Tim Walz",72,1,56,15
+"Yoakum","101 COUNTY","President",,"LIB","Chase Oliver/Mike ter Maat",1,0,0,1
+"Yoakum","101 COUNTY","President",,"GRN","Jill Stein/Rudolph Ware",3,0,3,0
+"Yoakum","101 COUNTY","President",,,"Write-ins",0,0,0,0
+"Yoakum","101 COUNTY","President",,,"Over Votes",0,0,0,0
+"Yoakum","101 COUNTY","President",,,"Under Votes",4,0,2,2
+"Yoakum","101 COUNTY","U.S. Senate",,"REP","Ted Cruz",528,6,422,100
+"Yoakum","101 COUNTY","U.S. Senate",,"DEM","Colin Allred",74,1,53,20
+"Yoakum","101 COUNTY","U.S. Senate",,"LIB","Ted Brown",17,0,13,4
+"Yoakum","101 COUNTY","U.S. Senate",,,"Write-ins",0,0,0,0
+"Yoakum","101 COUNTY","U.S. Senate",,,"Over Votes",0,0,0,0
+"Yoakum","101 COUNTY","U.S. Senate",,,"Under Votes",14,0,6,8
+"Yoakum","101 COUNTY","U.S. House","19","REP","Jodey C. Arrington",547,6,434,107
+"Yoakum","101 COUNTY","U.S. House","19","LIB","Bernard Johnson",33,0,24,9
+"Yoakum","101 COUNTY","U.S. House","19","IND","Nathan Lewis",25,1,19,5
+"Yoakum","101 COUNTY","U.S. House","19",,"Over Votes",0,0,0,0
+"Yoakum","101 COUNTY","U.S. House","19",,"Under Votes",28,0,17,11
+"Yoakum","101 COUNTY","Railroad Commissioner",,"REP","Christi Craddick",505,5,403,97
+"Yoakum","101 COUNTY","Railroad Commissioner",,"DEM","Katherine Culbert",50,1,41,8
+"Yoakum","101 COUNTY","Railroad Commissioner",,"LIB","Hawk Dunlap",24,1,17,6
+"Yoakum","101 COUNTY","Railroad Commissioner",,"GRN","Eddie Espinoza",28,0,19,9
+"Yoakum","101 COUNTY","Railroad Commissioner",,,"Write-ins",1,0,1,0
+"Yoakum","101 COUNTY","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Yoakum","101 COUNTY","Railroad Commissioner",,,"Under Votes",25,0,13,12
+"Yoakum","101 COUNTY","State Representative","88","REP","Ken King",560,6,439,115
+"Yoakum","101 COUNTY","State Representative","88",,"Over Votes",0,0,0,0
+"Yoakum","101 COUNTY","State Representative","88",,"Under Votes",73,1,55,17
+"Yoakum","101 COUNTY","Sheriff",,"REP","Robert Whitfield",393,6,305,82
+"Yoakum","101 COUNTY","Sheriff",,"IND","Raul Garcia",215,1,172,42
+"Yoakum","101 COUNTY","Sheriff",,,"Over Votes",0,0,0,0
+"Yoakum","101 COUNTY","Sheriff",,,"Under Votes",25,0,17,8
+"Yoakum","101 COUNTY","County Tax Assessor-Collector",,"REP","Ann Saxon",572,6,455,111
+"Yoakum","101 COUNTY","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Yoakum","101 COUNTY","County Tax Assessor-Collector",,,"Under Votes",61,1,39,21
+"Yoakum","202 COUNTY","Registered Voters",,,,1124,0,0,0
+"Yoakum","202 COUNTY","Ballots Cast",,,,642,11,485,146
+"Yoakum","202 COUNTY","President",,"REP","Donald J. Trump/JD Vance",562,9,441,112
+"Yoakum","202 COUNTY","President",,"DEM","Kamala D. Harris/Tim Walz",78,2,43,33
+"Yoakum","202 COUNTY","President",,"LIB","Chase Oliver/Mike ter Maat",1,0,1,0
+"Yoakum","202 COUNTY","President",,"GRN","Jill Stein/Rudolph Ware",0,0,0,0
+"Yoakum","202 COUNTY","President",,,"Write-ins",1,0,0,1
+"Yoakum","202 COUNTY","President",,,"Over Votes",0,0,0,0
+"Yoakum","202 COUNTY","President",,,"Under Votes",0,0,0,0
+"Yoakum","202 COUNTY","U.S. Senate",,"REP","Ted Cruz",532,9,420,103
+"Yoakum","202 COUNTY","U.S. Senate",,"DEM","Colin Allred",88,2,51,35
+"Yoakum","202 COUNTY","U.S. Senate",,"LIB","Ted Brown",11,0,6,5
+"Yoakum","202 COUNTY","U.S. Senate",,,"Write-ins",0,0,0,0
+"Yoakum","202 COUNTY","U.S. Senate",,,"Over Votes",0,0,0,0
+"Yoakum","202 COUNTY","U.S. Senate",,,"Under Votes",11,0,8,3
+"Yoakum","202 COUNTY","U.S. House","19","REP","Jodey C. Arrington",556,8,431,117
+"Yoakum","202 COUNTY","U.S. House","19","LIB","Bernard Johnson",28,0,19,9
+"Yoakum","202 COUNTY","U.S. House","19","IND","Nathan Lewis",22,1,11,10
+"Yoakum","202 COUNTY","U.S. House","19",,"Over Votes",0,0,0,0
+"Yoakum","202 COUNTY","U.S. House","19",,"Under Votes",36,2,24,10
+"Yoakum","202 COUNTY","Railroad Commissioner",,"REP","Christi Craddick",494,7,383,104
+"Yoakum","202 COUNTY","Railroad Commissioner",,"DEM","Katherine Culbert",60,2,32,26
+"Yoakum","202 COUNTY","Railroad Commissioner",,"LIB","Hawk Dunlap",34,1,31,2
+"Yoakum","202 COUNTY","Railroad Commissioner",,"GRN","Eddie Espinoza",21,0,13,8
+"Yoakum","202 COUNTY","Railroad Commissioner",,,"Write-ins",1,1,0,0
+"Yoakum","202 COUNTY","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Yoakum","202 COUNTY","Railroad Commissioner",,,"Under Votes",32,0,26,6
+"Yoakum","202 COUNTY","State Representative","88","REP","Ken King",566,8,435,123
+"Yoakum","202 COUNTY","State Representative","88",,"Over Votes",0,0,0,0
+"Yoakum","202 COUNTY","State Representative","88",,"Under Votes",76,3,50,23
+"Yoakum","202 COUNTY","Sheriff",,"REP","Robert Whitfield",391,4,303,84
+"Yoakum","202 COUNTY","Sheriff",,"IND","Raul Garcia",227,4,167,56
+"Yoakum","202 COUNTY","Sheriff",,,"Over Votes",0,0,0,0
+"Yoakum","202 COUNTY","Sheriff",,,"Under Votes",24,3,15,6
+"Yoakum","202 COUNTY","County Tax Assessor-Collector",,"REP","Ann Saxon",583,9,447,127
+"Yoakum","202 COUNTY","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Yoakum","202 COUNTY","County Tax Assessor-Collector",,,"Under Votes",59,2,38,19
+"Yoakum","303 COUNTY","Registered Voters",,,,529,0,0,0
+"Yoakum","303 COUNTY","Ballots Cast",,,,323,10,251,62
+"Yoakum","303 COUNTY","President",,"REP","Donald J. Trump/JD Vance",269,7,211,51
+"Yoakum","303 COUNTY","President",,"DEM","Kamala D. Harris/Tim Walz",46,1,35,10
+"Yoakum","303 COUNTY","President",,"LIB","Chase Oliver/Mike ter Maat",2,0,2,0
+"Yoakum","303 COUNTY","President",,"GRN","Jill Stein/Rudolph Ware",2,0,2,0
+"Yoakum","303 COUNTY","President",,,"Write-ins",1,1,0,0
+"Yoakum","303 COUNTY","President",,,"Over Votes",0,0,0,0
+"Yoakum","303 COUNTY","President",,,"Under Votes",3,1,1,1
+"Yoakum","303 COUNTY","U.S. Senate",,"REP","Ted Cruz",255,7,202,46
+"Yoakum","303 COUNTY","U.S. Senate",,"DEM","Colin Allred",48,1,36,11
+"Yoakum","303 COUNTY","U.S. Senate",,"LIB","Ted Brown",8,0,5,3
+"Yoakum","303 COUNTY","U.S. Senate",,,"Write-ins",0,0,0,0
+"Yoakum","303 COUNTY","U.S. Senate",,,"Over Votes",0,0,0,0
+"Yoakum","303 COUNTY","U.S. Senate",,,"Under Votes",12,2,8,2
+"Yoakum","303 COUNTY","U.S. House","19","REP","Jodey C. Arrington",262,9,206,47
+"Yoakum","303 COUNTY","U.S. House","19","LIB","Bernard Johnson",20,0,15,5
+"Yoakum","303 COUNTY","U.S. House","19","IND","Nathan Lewis",10,0,8,2
+"Yoakum","303 COUNTY","U.S. House","19",,"Over Votes",0,0,0,0
+"Yoakum","303 COUNTY","U.S. House","19",,"Under Votes",31,1,22,8
+"Yoakum","303 COUNTY","Railroad Commissioner",,"REP","Christi Craddick",232,7,182,43
+"Yoakum","303 COUNTY","Railroad Commissioner",,"DEM","Katherine Culbert",36,1,27,8
+"Yoakum","303 COUNTY","Railroad Commissioner",,"LIB","Hawk Dunlap",9,0,8,1
+"Yoakum","303 COUNTY","Railroad Commissioner",,"GRN","Eddie Espinoza",14,0,8,6
+"Yoakum","303 COUNTY","Railroad Commissioner",,,"Write-ins",0,0,0,0
+"Yoakum","303 COUNTY","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Yoakum","303 COUNTY","Railroad Commissioner",,,"Under Votes",32,2,26,4
+"Yoakum","303 COUNTY","State Representative","88","REP","Ken King",253,7,196,50
+"Yoakum","303 COUNTY","State Representative","88",,"Over Votes",0,0,0,0
+"Yoakum","303 COUNTY","State Representative","88",,"Under Votes",70,3,55,12
+"Yoakum","303 COUNTY","Sheriff",,"REP","Robert Whitfield",264,10,206,48
+"Yoakum","303 COUNTY","Sheriff",,"IND","Raul Garcia",46,0,35,11
+"Yoakum","303 COUNTY","Sheriff",,,"Over Votes",0,0,0,0
+"Yoakum","303 COUNTY","Sheriff",,,"Under Votes",13,0,10,3
+"Yoakum","303 COUNTY","County Tax Assessor-Collector",,"REP","Ann Saxon",282,7,221,54
+"Yoakum","303 COUNTY","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Yoakum","303 COUNTY","County Tax Assessor-Collector",,,"Under Votes",41,3,30,8
+"Yoakum","305 COUNTY","Registered Voters",,,,449,0,0,0
+"Yoakum","305 COUNTY","Ballots Cast",,,,203,4,138,61
+"Yoakum","305 COUNTY","President",,"REP","Donald J. Trump/JD Vance",152,3,104,45
+"Yoakum","305 COUNTY","President",,"DEM","Kamala D. Harris/Tim Walz",48,1,32,15
+"Yoakum","305 COUNTY","President",,"LIB","Chase Oliver/Mike ter Maat",0,0,0,0
+"Yoakum","305 COUNTY","President",,"GRN","Jill Stein/Rudolph Ware",0,0,0,0
+"Yoakum","305 COUNTY","President",,,"Write-ins",1,0,0,1
+"Yoakum","305 COUNTY","President",,,"Over Votes",0,0,0,0
+"Yoakum","305 COUNTY","President",,,"Under Votes",2,0,2,0
+"Yoakum","305 COUNTY","U.S. Senate",,"REP","Ted Cruz",142,3,97,42
+"Yoakum","305 COUNTY","U.S. Senate",,"DEM","Colin Allred",45,1,32,12
+"Yoakum","305 COUNTY","U.S. Senate",,"LIB","Ted Brown",8,0,5,3
+"Yoakum","305 COUNTY","U.S. Senate",,,"Write-ins",0,0,0,0
+"Yoakum","305 COUNTY","U.S. Senate",,,"Over Votes",0,0,0,0
+"Yoakum","305 COUNTY","U.S. Senate",,,"Under Votes",8,0,4,4
+"Yoakum","305 COUNTY","U.S. House","19","REP","Jodey C. Arrington",153,3,104,46
+"Yoakum","305 COUNTY","U.S. House","19","LIB","Bernard Johnson",23,0,15,8
+"Yoakum","305 COUNTY","U.S. House","19","IND","Nathan Lewis",7,0,5,2
+"Yoakum","305 COUNTY","U.S. House","19",,"Over Votes",0,0,0,0
+"Yoakum","305 COUNTY","U.S. House","19",,"Under Votes",20,1,14,5
+"Yoakum","305 COUNTY","Railroad Commissioner",,"REP","Christi Craddick",130,3,89,38
+"Yoakum","305 COUNTY","Railroad Commissioner",,"DEM","Katherine Culbert",43,1,30,12
+"Yoakum","305 COUNTY","Railroad Commissioner",,"LIB","Hawk Dunlap",7,0,5,2
+"Yoakum","305 COUNTY","Railroad Commissioner",,"GRN","Eddie Espinoza",11,0,6,5
+"Yoakum","305 COUNTY","Railroad Commissioner",,,"Write-ins",1,0,1,0
+"Yoakum","305 COUNTY","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Yoakum","305 COUNTY","Railroad Commissioner",,,"Under Votes",11,0,7,4
+"Yoakum","305 COUNTY","State Representative","88","REP","Ken King",165,3,111,51
+"Yoakum","305 COUNTY","State Representative","88",,"Over Votes",0,0,0,0
+"Yoakum","305 COUNTY","State Representative","88",,"Under Votes",38,1,27,10
+"Yoakum","305 COUNTY","Sheriff",,"REP","Robert Whitfield",124,2,88,34
+"Yoakum","305 COUNTY","Sheriff",,"IND","Raul Garcia",72,1,46,25
+"Yoakum","305 COUNTY","Sheriff",,,"Over Votes",0,0,0,0
+"Yoakum","305 COUNTY","Sheriff",,,"Under Votes",7,1,4,2
+"Yoakum","305 COUNTY","County Tax Assessor-Collector",,"REP","Ann Saxon",171,3,118,50
+"Yoakum","305 COUNTY","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Yoakum","305 COUNTY","County Tax Assessor-Collector",,,"Under Votes",32,1,20,11
+"Yoakum","404 COUNTY","Registered Voters",,,,504,0,0,0
+"Yoakum","404 COUNTY","Ballots Cast",,,,355,13,296,46
+"Yoakum","404 COUNTY","President",,"REP","Donald J. Trump/JD Vance",308,11,265,32
+"Yoakum","404 COUNTY","President",,"DEM","Kamala D. Harris/Tim Walz",43,2,28,13
+"Yoakum","404 COUNTY","President",,"LIB","Chase Oliver/Mike ter Maat",1,0,1,0
+"Yoakum","404 COUNTY","President",,"GRN","Jill Stein/Rudolph Ware",0,0,0,0
+"Yoakum","404 COUNTY","President",,,"Write-ins",1,0,0,1
+"Yoakum","404 COUNTY","President",,,"Over Votes",0,0,0,0
+"Yoakum","404 COUNTY","President",,,"Under Votes",2,0,2,0
+"Yoakum","404 COUNTY","U.S. Senate",,"REP","Ted Cruz",297,10,256,31
+"Yoakum","404 COUNTY","U.S. Senate",,"DEM","Colin Allred",44,3,31,10
+"Yoakum","404 COUNTY","U.S. Senate",,"LIB","Ted Brown",5,0,2,3
+"Yoakum","404 COUNTY","U.S. Senate",,,"Write-ins",0,0,0,0
+"Yoakum","404 COUNTY","U.S. Senate",,,"Over Votes",0,0,0,0
+"Yoakum","404 COUNTY","U.S. Senate",,,"Under Votes",9,0,7,2
+"Yoakum","404 COUNTY","U.S. House","19","REP","Jodey C. Arrington",310,12,266,32
+"Yoakum","404 COUNTY","U.S. House","19","LIB","Bernard Johnson",13,1,7,5
+"Yoakum","404 COUNTY","U.S. House","19","IND","Nathan Lewis",8,0,5,3
+"Yoakum","404 COUNTY","U.S. House","19",,"Over Votes",0,0,0,0
+"Yoakum","404 COUNTY","U.S. House","19",,"Under Votes",24,0,18,6
+"Yoakum","404 COUNTY","Railroad Commissioner",,"REP","Christi Craddick",271,8,235,28
+"Yoakum","404 COUNTY","Railroad Commissioner",,"DEM","Katherine Culbert",30,2,21,7
+"Yoakum","404 COUNTY","Railroad Commissioner",,"LIB","Hawk Dunlap",8,0,6,2
+"Yoakum","404 COUNTY","Railroad Commissioner",,"GRN","Eddie Espinoza",19,0,14,5
+"Yoakum","404 COUNTY","Railroad Commissioner",,,"Write-ins",1,1,0,0
+"Yoakum","404 COUNTY","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Yoakum","404 COUNTY","Railroad Commissioner",,,"Under Votes",26,2,20,4
+"Yoakum","404 COUNTY","State Representative","88","REP","Ken King",312,10,265,37
+"Yoakum","404 COUNTY","State Representative","88",,"Over Votes",0,0,0,0
+"Yoakum","404 COUNTY","State Representative","88",,"Under Votes",43,3,31,9
+"Yoakum","404 COUNTY","Sheriff",,"REP","Robert Whitfield",285,7,240,38
+"Yoakum","404 COUNTY","Sheriff",,"IND","Raul Garcia",60,3,50,7
+"Yoakum","404 COUNTY","Sheriff",,,"Over Votes",0,0,0,0
+"Yoakum","404 COUNTY","Sheriff",,,"Under Votes",10,3,6,1
+"Yoakum","404 COUNTY","County Tax Assessor-Collector",,"REP","Ann Saxon",316,11,267,38
+"Yoakum","404 COUNTY","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Yoakum","404 COUNTY","County Tax Assessor-Collector",,,"Under Votes",39,2,29,8
+"Yoakum","406 COUNTY","Registered Voters",,,,541,0,0,0
+"Yoakum","406 COUNTY","Ballots Cast",,,,253,1,173,79
+"Yoakum","406 COUNTY","President",,"REP","Donald J. Trump/JD Vance",195,1,139,55
+"Yoakum","406 COUNTY","President",,"DEM","Kamala D. Harris/Tim Walz",55,0,33,22
+"Yoakum","406 COUNTY","President",,"LIB","Chase Oliver/Mike ter Maat",2,0,1,1
+"Yoakum","406 COUNTY","President",,"GRN","Jill Stein/Rudolph Ware",0,0,0,0
+"Yoakum","406 COUNTY","President",,,"Write-ins",0,0,0,0
+"Yoakum","406 COUNTY","President",,,"Over Votes",0,0,0,0
+"Yoakum","406 COUNTY","President",,,"Under Votes",1,0,0,1
+"Yoakum","406 COUNTY","U.S. Senate",,"REP","Ted Cruz",174,1,122,51
+"Yoakum","406 COUNTY","U.S. Senate",,"DEM","Colin Allred",58,0,35,23
+"Yoakum","406 COUNTY","U.S. Senate",,"LIB","Ted Brown",7,0,5,2
+"Yoakum","406 COUNTY","U.S. Senate",,,"Write-ins",2,0,2,0
+"Yoakum","406 COUNTY","U.S. Senate",,,"Over Votes",0,0,0,0
+"Yoakum","406 COUNTY","U.S. Senate",,,"Under Votes",12,0,9,3
+"Yoakum","406 COUNTY","U.S. House","19","REP","Jodey C. Arrington",194,1,136,57
+"Yoakum","406 COUNTY","U.S. House","19","LIB","Bernard Johnson",24,0,13,11
+"Yoakum","406 COUNTY","U.S. House","19","IND","Nathan Lewis",17,0,12,5
+"Yoakum","406 COUNTY","U.S. House","19",,"Over Votes",0,0,0,0
+"Yoakum","406 COUNTY","U.S. House","19",,"Under Votes",18,0,12,6
+"Yoakum","406 COUNTY","Railroad Commissioner",,"REP","Christi Craddick",169,1,119,49
+"Yoakum","406 COUNTY","Railroad Commissioner",,"DEM","Katherine Culbert",42,0,27,15
+"Yoakum","406 COUNTY","Railroad Commissioner",,"LIB","Hawk Dunlap",11,0,8,3
+"Yoakum","406 COUNTY","Railroad Commissioner",,"GRN","Eddie Espinoza",16,0,8,8
+"Yoakum","406 COUNTY","Railroad Commissioner",,,"Write-ins",1,0,1,0
+"Yoakum","406 COUNTY","Railroad Commissioner",,,"Over Votes",0,0,0,0
+"Yoakum","406 COUNTY","Railroad Commissioner",,,"Under Votes",14,0,10,4
+"Yoakum","406 COUNTY","State Representative","88","REP","Ken King",205,1,139,65
+"Yoakum","406 COUNTY","State Representative","88",,"Over Votes",0,0,0,0
+"Yoakum","406 COUNTY","State Representative","88",,"Under Votes",48,0,34,14
+"Yoakum","406 COUNTY","Sheriff",,"REP","Robert Whitfield",138,1,96,41
+"Yoakum","406 COUNTY","Sheriff",,"IND","Raul Garcia",104,0,71,33
+"Yoakum","406 COUNTY","Sheriff",,,"Over Votes",0,0,0,0
+"Yoakum","406 COUNTY","Sheriff",,,"Under Votes",11,0,6,5
+"Yoakum","406 COUNTY","County Tax Assessor-Collector",,"REP","Ann Saxon",216,1,148,67
+"Yoakum","406 COUNTY","County Tax Assessor-Collector",,,"Over Votes",0,0,0,0
+"Yoakum","406 COUNTY","County Tax Assessor-Collector",,,"Under Votes",37,0,25,12
