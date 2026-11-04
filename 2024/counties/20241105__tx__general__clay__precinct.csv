@@ -1,0 +1,369 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day,provisional
+Clay,SE HENRIETT,Ballots Cast,,,,756,,,,
+Clay,NE HENRIETT,Ballots Cast,,,,676,,,,
+Clay,NW HENRIETT,Ballots Cast,,,,280,,,,
+Clay,SW HENRIETT,Ballots Cast,,,,249,,,,
+Clay,BYERS,Ballots Cast,,,,317,,,,
+Clay,VASHTI,Ballots Cast,,,,219,,,,
+Clay,DEAN,Ballots Cast,,,,708,,,,
+Clay,JOLLY,Ballots Cast,,,,281,,,,
+Clay,THORNBERRY,Ballots Cast,,,,131,,,,
+Clay,CHARLIE,Ballots Cast,,,,139,,,,
+Clay,ARROWHEAD,Ballots Cast,,,,816,,,,
+Clay,MIDWAY,Ballots Cast,,,,408,,,,
+Clay,BELLEVUE,Ballots Cast,,,,288,,,,
+Clay,BUFFALO SPR,Ballots Cast,,,,182,,,,
+Clay,PETROLIA,Ballots Cast,,,,315,,,,
+Clay,WINDTHORST,Ballots Cast,,,,188,,,,
+Clay,SE HENRIETT,President,,REP,Donald J. Trump,655,25,534,96,0
+Clay,NE HENRIETT,President,,REP,Donald J. Trump,570,15,457,98,0
+Clay,NW HENRIETT,President,,REP,Donald J. Trump,239,8,199,32,0
+Clay,SW HENRIETT,President,,REP,Donald J. Trump,217,4,174,39,0
+Clay,BYERS,President,,REP,Donald J. Trump,272,3,114,155,0
+Clay,VASHTI,President,,REP,Donald J. Trump,189,3,79,107,0
+Clay,DEAN,President,,REP,Donald J. Trump,659,11,372,276,0
+Clay,JOLLY,President,,REP,Donald J. Trump,252,10,123,119,0
+Clay,THORNBERRY,President,,REP,Donald J. Trump,111,1,50,60,0
+Clay,CHARLIE,President,,REP,Donald J. Trump,130,0,49,81,0
+Clay,ARROWHEAD,President,,REP,Donald J. Trump,716,11,436,269,0
+Clay,MIDWAY,President,,REP,Donald J. Trump,389,11,252,126,0
+Clay,BELLEVUE,President,,REP,Donald J. Trump,266,6,132,128,0
+Clay,BUFFALO SPR,President,,REP,Donald J. Trump,167,5,99,63,0
+Clay,PETROLIA,President,,REP,Donald J. Trump,284,6,133,145,0
+Clay,WINDTHORST,President,,REP,Donald J. Trump,172,6,55,111,0
+Clay,SE HENRIETT,President,,DEM,Kamala D. Harris,92,8,69,15,0
+Clay,NE HENRIETT,President,,DEM,Kamala D. Harris,92,9,70,13,0
+Clay,NW HENRIETT,President,,DEM,Kamala D. Harris,38,2,31,5,0
+Clay,SW HENRIETT,President,,DEM,Kamala D. Harris,30,6,17,7,0
+Clay,BYERS,President,,DEM,Kamala D. Harris,38,3,13,22,0
+Clay,VASHTI,President,,DEM,Kamala D. Harris,22,3,7,12,0
+Clay,DEAN,President,,DEM,Kamala D. Harris,39,1,19,19,0
+Clay,JOLLY,President,,DEM,Kamala D. Harris,26,1,12,13,0
+Clay,THORNBERRY,President,,DEM,Kamala D. Harris,18,1,11,6,0
+Clay,CHARLIE,President,,DEM,Kamala D. Harris,8,0,5,3,0
+Clay,ARROWHEAD,President,,DEM,Kamala D. Harris,97,3,42,52,0
+Clay,MIDWAY,President,,DEM,Kamala D. Harris,17,1,12,4,0
+Clay,BELLEVUE,President,,DEM,Kamala D. Harris,18,2,11,5,0
+Clay,BUFFALO SPR,President,,DEM,Kamala D. Harris,12,3,8,1,0
+Clay,PETROLIA,President,,DEM,Kamala D. Harris,28,2,12,14,0
+Clay,WINDTHORST,President,,DEM,Kamala D. Harris,9,0,3,6,0
+Clay,SE HENRIETT,President,,LIB,Chase Oliver,1,0,1,0,0
+Clay,NE HENRIETT,President,,LIB,Chase Oliver,3,1,0,2,0
+Clay,NW HENRIETT,President,,LIB,Chase Oliver,2,0,2,0,0
+Clay,SW HENRIETT,President,,LIB,Chase Oliver,0,0,0,0,0
+Clay,BYERS,President,,LIB,Chase Oliver,1,0,0,1,0
+Clay,VASHTI,President,,LIB,Chase Oliver,2,0,0,2,0
+Clay,DEAN,President,,LIB,Chase Oliver,2,0,0,2,0
+Clay,JOLLY,President,,LIB,Chase Oliver,0,0,0,0,0
+Clay,THORNBERRY,President,,LIB,Chase Oliver,2,0,2,0,0
+Clay,CHARLIE,President,,LIB,Chase Oliver,0,0,0,0,0
+Clay,ARROWHEAD,President,,LIB,Chase Oliver,2,0,1,1,0
+Clay,MIDWAY,President,,LIB,Chase Oliver,1,0,0,1,0
+Clay,BELLEVUE,President,,LIB,Chase Oliver,1,0,1,0,0
+Clay,BUFFALO SPR,President,,LIB,Chase Oliver,1,0,1,0,0
+Clay,PETROLIA,President,,LIB,Chase Oliver,0,0,0,0,0
+Clay,WINDTHORST,President,,LIB,Chase Oliver,3,1,0,2,0
+Clay,SE HENRIETT,President,,GRN,Jill Stein,3,0,2,1,0
+Clay,NE HENRIETT,President,,GRN,Jill Stein,6,0,4,2,0
+Clay,NW HENRIETT,President,,GRN,Jill Stein,0,0,0,0,0
+Clay,SW HENRIETT,President,,GRN,Jill Stein,0,0,0,0,0
+Clay,BYERS,President,,GRN,Jill Stein,0,0,0,0,0
+Clay,VASHTI,President,,GRN,Jill Stein,1,0,1,0,0
+Clay,DEAN,President,,GRN,Jill Stein,0,0,0,0,0
+Clay,JOLLY,President,,GRN,Jill Stein,1,0,0,1,0
+Clay,THORNBERRY,President,,GRN,Jill Stein,0,0,0,0,0
+Clay,CHARLIE,President,,GRN,Jill Stein,0,0,0,0,0
+Clay,ARROWHEAD,President,,GRN,Jill Stein,0,0,0,0,0
+Clay,MIDWAY,President,,GRN,Jill Stein,0,0,0,0,0
+Clay,BELLEVUE,President,,GRN,Jill Stein,1,0,0,1,0
+Clay,BUFFALO SPR,President,,GRN,Jill Stein,0,0,0,0,0
+Clay,PETROLIA,President,,GRN,Jill Stein,1,0,1,0,0
+Clay,WINDTHORST,President,,GRN,Jill Stein,0,0,0,0,0
+Clay,SE HENRIETT,President,,,Write-ins,2,0,2,0,0
+Clay,NE HENRIETT,President,,,Write-ins,2,0,1,1,0
+Clay,NW HENRIETT,President,,,Write-ins,1,0,1,0,0
+Clay,SW HENRIETT,President,,,Write-ins,1,0,1,0,0
+Clay,BYERS,President,,,Write-ins,0,0,0,0,0
+Clay,VASHTI,President,,,Write-ins,2,0,1,1,0
+Clay,DEAN,President,,,Write-ins,0,0,0,0,0
+Clay,JOLLY,President,,,Write-ins,0,0,0,0,0
+Clay,THORNBERRY,President,,,Write-ins,0,0,0,0,0
+Clay,CHARLIE,President,,,Write-ins,0,0,0,0,0
+Clay,ARROWHEAD,President,,,Write-ins,0,0,0,0,0
+Clay,MIDWAY,President,,,Write-ins,1,0,0,1,0
+Clay,BELLEVUE,President,,,Write-ins,1,0,0,1,0
+Clay,BUFFALO SPR,President,,,Write-ins,1,0,0,1,0
+Clay,PETROLIA,President,,,Write-ins,0,0,0,0,0
+Clay,WINDTHORST,President,,,Write-ins,1,1,0,0,0
+Clay,SE HENRIETT,U.S. Senate,,REP,Ted Cruz,625,22,511,92,0
+Clay,NE HENRIETT,U.S. Senate,,REP,Ted Cruz,555,17,443,95,0
+Clay,NW HENRIETT,U.S. Senate,,REP,Ted Cruz,232,8,194,30,0
+Clay,SW HENRIETT,U.S. Senate,,REP,Ted Cruz,213,5,172,36,0
+Clay,BYERS,U.S. Senate,,REP,Ted Cruz,267,3,114,150,0
+Clay,VASHTI,U.S. Senate,,REP,Ted Cruz,184,3,76,105,0
+Clay,DEAN,U.S. Senate,,REP,Ted Cruz,641,11,366,264,0
+Clay,JOLLY,U.S. Senate,,REP,Ted Cruz,246,10,121,115,0
+Clay,THORNBERRY,U.S. Senate,,REP,Ted Cruz,106,0,48,58,0
+Clay,CHARLIE,U.S. Senate,,REP,Ted Cruz,126,0,49,77,0
+Clay,ARROWHEAD,U.S. Senate,,REP,Ted Cruz,696,9,428,259,0
+Clay,MIDWAY,U.S. Senate,,REP,Ted Cruz,384,10,251,123,0
+Clay,BELLEVUE,U.S. Senate,,REP,Ted Cruz,258,6,129,123,0
+Clay,BUFFALO SPR,U.S. Senate,,REP,Ted Cruz,165,4,100,61,0
+Clay,PETROLIA,U.S. Senate,,REP,Ted Cruz,267,6,127,134,0
+Clay,WINDTHORST,U.S. Senate,,REP,Ted Cruz,163,6,53,104,0
+Clay,SE HENRIETT,U.S. Senate,,DEM,Colin Allred,106,9,81,16,0
+Clay,NE HENRIETT,U.S. Senate,,DEM,Colin Allred,100,7,78,15,0
+Clay,NW HENRIETT,U.S. Senate,,DEM,Colin Allred,40,2,32,6,0
+Clay,SW HENRIETT,U.S. Senate,,DEM,Colin Allred,33,5,19,9,0
+Clay,BYERS,U.S. Senate,,DEM,Colin Allred,42,3,13,26,0
+Clay,VASHTI,U.S. Senate,,DEM,Colin Allred,26,3,9,14,0
+Clay,DEAN,U.S. Senate,,DEM,Colin Allred,52,1,23,28,0
+Clay,JOLLY,U.S. Senate,,DEM,Colin Allred,28,1,11,16,0
+Clay,THORNBERRY,U.S. Senate,,DEM,Colin Allred,20,1,11,8,0
+Clay,CHARLIE,U.S. Senate,,DEM,Colin Allred,10,0,5,5,0
+Clay,ARROWHEAD,U.S. Senate,,DEM,Colin Allred,104,3,46,55,0
+Clay,MIDWAY,U.S. Senate,,DEM,Colin Allred,19,2,12,5,0
+Clay,BELLEVUE,U.S. Senate,,DEM,Colin Allred,20,1,12,7,0
+Clay,BUFFALO SPR,U.S. Senate,,DEM,Colin Allred,12,3,8,1,0
+Clay,PETROLIA,U.S. Senate,,DEM,Colin Allred,35,2,15,18,0
+Clay,WINDTHORST,U.S. Senate,,DEM,Colin Allred,16,1,5,10,0
+Clay,SE HENRIETT,U.S. Senate,,LIB,Ted Brown,10,1,7,2,0
+Clay,NE HENRIETT,U.S. Senate,,LIB,Ted Brown,13,1,7,5,0
+Clay,NW HENRIETT,U.S. Senate,,LIB,Ted Brown,4,0,4,0,0
+Clay,SW HENRIETT,U.S. Senate,,LIB,Ted Brown,2,0,1,1,0
+Clay,BYERS,U.S. Senate,,LIB,Ted Brown,2,0,0,2,0
+Clay,VASHTI,U.S. Senate,,LIB,Ted Brown,5,0,3,2,0
+Clay,DEAN,U.S. Senate,,LIB,Ted Brown,10,0,5,5,0
+Clay,JOLLY,U.S. Senate,,LIB,Ted Brown,4,0,3,1,0
+Clay,THORNBERRY,U.S. Senate,,LIB,Ted Brown,3,1,2,0,0
+Clay,CHARLIE,U.S. Senate,,LIB,Ted Brown,2,0,0,2,0
+Clay,ARROWHEAD,U.S. Senate,,LIB,Ted Brown,8,0,3,5,0
+Clay,MIDWAY,U.S. Senate,,LIB,Ted Brown,5,0,1,4,0
+Clay,BELLEVUE,U.S. Senate,,LIB,Ted Brown,7,0,3,4,0
+Clay,BUFFALO SPR,U.S. Senate,,LIB,Ted Brown,1,1,0,0,0
+Clay,PETROLIA,U.S. Senate,,LIB,Ted Brown,6,0,3,3,0
+Clay,WINDTHORST,U.S. Senate,,LIB,Ted Brown,6,1,0,5,0
+Clay,SE HENRIETT,U.S. Senate,,,Write-ins,0,0,0,0,0
+Clay,NE HENRIETT,U.S. Senate,,,Write-ins,0,0,0,0,0
+Clay,NW HENRIETT,U.S. Senate,,,Write-ins,0,0,0,0,0
+Clay,SW HENRIETT,U.S. Senate,,,Write-ins,0,0,0,0,0
+Clay,BYERS,U.S. Senate,,,Write-ins,0,0,0,0,0
+Clay,VASHTI,U.S. Senate,,,Write-ins,1,0,0,1,0
+Clay,DEAN,U.S. Senate,,,Write-ins,0,0,0,0,0
+Clay,JOLLY,U.S. Senate,,,Write-ins,0,0,0,0,0
+Clay,THORNBERRY,U.S. Senate,,,Write-ins,0,0,0,0,0
+Clay,CHARLIE,U.S. Senate,,,Write-ins,0,0,0,0,0
+Clay,ARROWHEAD,U.S. Senate,,,Write-ins,0,0,0,0,0
+Clay,MIDWAY,U.S. Senate,,,Write-ins,0,0,0,0,0
+Clay,BELLEVUE,U.S. Senate,,,Write-ins,0,0,0,0,0
+Clay,BUFFALO SPR,U.S. Senate,,,Write-ins,1,0,0,1,0
+Clay,PETROLIA,U.S. Senate,,,Write-ins,0,0,0,0,0
+Clay,WINDTHORST,U.S. Senate,,,Write-ins,0,0,0,0,0
+Clay,SE HENRIETT,U.S. House,13,REP,Ronny Jackson,638,24,519,95,0
+Clay,NE HENRIETT,U.S. House,13,REP,Ronny Jackson,589,21,464,104,0
+Clay,NW HENRIETT,U.S. House,13,REP,Ronny Jackson,237,7,202,28,0
+Clay,SW HENRIETT,U.S. House,13,REP,Ronny Jackson,223,8,176,39,0
+Clay,BYERS,U.S. House,13,REP,Ronny Jackson,256,3,109,144,0
+Clay,VASHTI,U.S. House,13,REP,Ronny Jackson,183,3,77,103,0
+Clay,DEAN,U.S. House,13,REP,Ronny Jackson,635,10,355,270,0
+Clay,JOLLY,U.S. House,13,REP,Ronny Jackson,253,10,123,120,0
+Clay,THORNBERRY,U.S. House,13,REP,Ronny Jackson,106,1,49,56,0
+Clay,CHARLIE,U.S. House,13,REP,Ronny Jackson,125,0,49,76,0
+Clay,ARROWHEAD,U.S. House,13,REP,Ronny Jackson,701,9,420,272,0
+Clay,MIDWAY,U.S. House,13,REP,Ronny Jackson,374,6,244,124,0
+Clay,BELLEVUE,U.S. House,13,REP,Ronny Jackson,257,4,132,121,0
+Clay,BUFFALO SPR,U.S. House,13,REP,Ronny Jackson,163,4,102,57,0
+Clay,PETROLIA,U.S. House,13,REP,Ronny Jackson,275,7,129,139,0
+Clay,WINDTHORST,U.S. House,13,REP,Ronny Jackson,171,5,53,113,0
+Clay,SE HENRIETT,Railroad Commissioner,,REP,Christi Craddick,606,22,494,90,0
+Clay,NE HENRIETT,Railroad Commissioner,,REP,Christi Craddick,546,16,437,93,0
+Clay,NW HENRIETT,Railroad Commissioner,,REP,Christi Craddick,232,8,195,29,0
+Clay,SW HENRIETT,Railroad Commissioner,,REP,Christi Craddick,198,5,165,28,0
+Clay,BYERS,Railroad Commissioner,,REP,Christi Craddick,254,3,107,144,0
+Clay,VASHTI,Railroad Commissioner,,REP,Christi Craddick,188,3,82,103,0
+Clay,DEAN,Railroad Commissioner,,REP,Christi Craddick,629,11,360,258,0
+Clay,JOLLY,Railroad Commissioner,,REP,Christi Craddick,241,9,119,113,0
+Clay,THORNBERRY,Railroad Commissioner,,REP,Christi Craddick,91,1,44,46,0
+Clay,CHARLIE,Railroad Commissioner,,REP,Christi Craddick,125,0,47,78,0
+Clay,ARROWHEAD,Railroad Commissioner,,REP,Christi Craddick,690,9,424,257,0
+Clay,MIDWAY,Railroad Commissioner,,REP,Christi Craddick,373,6,246,121,0
+Clay,BELLEVUE,Railroad Commissioner,,REP,Christi Craddick,257,4,129,124,0
+Clay,BUFFALO SPR,Railroad Commissioner,,REP,Christi Craddick,160,5,97,58,0
+Clay,PETROLIA,Railroad Commissioner,,REP,Christi Craddick,262,6,122,134,0
+Clay,WINDTHORST,Railroad Commissioner,,REP,Christi Craddick,156,5,50,101,0
+Clay,SE HENRIETT,Railroad Commissioner,,DEM,Katherine Culbert,83,9,62,12,0
+Clay,NE HENRIETT,Railroad Commissioner,,DEM,Katherine Culbert,74,7,57,10,0
+Clay,NW HENRIETT,Railroad Commissioner,,DEM,Katherine Culbert,33,2,25,6,0
+Clay,SW HENRIETT,Railroad Commissioner,,DEM,Katherine Culbert,27,4,14,9,0
+Clay,BYERS,Railroad Commissioner,,DEM,Katherine Culbert,31,3,12,16,0
+Clay,VASHTI,Railroad Commissioner,,DEM,Katherine Culbert,16,3,4,9,0
+Clay,DEAN,Railroad Commissioner,,DEM,Katherine Culbert,40,1,20,19,0
+Clay,JOLLY,Railroad Commissioner,,DEM,Katherine Culbert,25,1,11,13,0
+Clay,THORNBERRY,Railroad Commissioner,,DEM,Katherine Culbert,18,1,11,6,0
+Clay,CHARLIE,Railroad Commissioner,,DEM,Katherine Culbert,6,0,3,3,0
+Clay,ARROWHEAD,Railroad Commissioner,,DEM,Katherine Culbert,83,2,36,45,0
+Clay,MIDWAY,Railroad Commissioner,,DEM,Katherine Culbert,14,1,11,2,0
+Clay,BELLEVUE,Railroad Commissioner,,DEM,Katherine Culbert,14,0,11,3,0
+Clay,BUFFALO SPR,Railroad Commissioner,,DEM,Katherine Culbert,11,3,7,1,0
+Clay,PETROLIA,Railroad Commissioner,,DEM,Katherine Culbert,26,1,11,14,0
+Clay,WINDTHORST,Railroad Commissioner,,DEM,Katherine Culbert,6,0,3,3,0
+Clay,SE HENRIETT,Railroad Commissioner,,LIB,Hawk Dunlap,20,0,18,2,0
+Clay,NE HENRIETT,Railroad Commissioner,,LIB,Hawk Dunlap,26,0,18,8,0
+Clay,NW HENRIETT,Railroad Commissioner,,LIB,Hawk Dunlap,2,0,2,0,0
+Clay,SW HENRIETT,Railroad Commissioner,,LIB,Hawk Dunlap,8,0,4,4,0
+Clay,BYERS,Railroad Commissioner,,LIB,Hawk Dunlap,8,0,6,2,0
+Clay,VASHTI,Railroad Commissioner,,LIB,Hawk Dunlap,7,0,0,7,0
+Clay,DEAN,Railroad Commissioner,,LIB,Hawk Dunlap,14,0,6,8,0
+Clay,JOLLY,Railroad Commissioner,,LIB,Hawk Dunlap,7,0,5,2,0
+Clay,THORNBERRY,Railroad Commissioner,,LIB,Hawk Dunlap,14,0,5,9,0
+Clay,CHARLIE,Railroad Commissioner,,LIB,Hawk Dunlap,2,0,0,2,0
+Clay,ARROWHEAD,Railroad Commissioner,,LIB,Hawk Dunlap,17,0,6,11,0
+Clay,MIDWAY,Railroad Commissioner,,LIB,Hawk Dunlap,10,0,5,5,0
+Clay,BELLEVUE,Railroad Commissioner,,LIB,Hawk Dunlap,5,0,1,4,0
+Clay,BUFFALO SPR,Railroad Commissioner,,LIB,Hawk Dunlap,6,0,3,3,0
+Clay,PETROLIA,Railroad Commissioner,,LIB,Hawk Dunlap,14,0,8,6,0
+Clay,WINDTHORST,Railroad Commissioner,,LIB,Hawk Dunlap,12,0,3,9,0
+Clay,SE HENRIETT,Railroad Commissioner,,GRN,Eddie Espinoza,8,0,7,1,0
+Clay,NE HENRIETT,Railroad Commissioner,,GRN,Eddie Espinoza,5,0,3,2,0
+Clay,NW HENRIETT,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,2,0,0
+Clay,SW HENRIETT,Railroad Commissioner,,GRN,Eddie Espinoza,3,1,1,1,0
+Clay,BYERS,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,0,2,0
+Clay,VASHTI,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0,0
+Clay,DEAN,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,0,3,0
+Clay,JOLLY,Railroad Commissioner,,GRN,Eddie Espinoza,4,0,1,3,0
+Clay,THORNBERRY,Railroad Commissioner,,GRN,Eddie Espinoza,2,0,2,0,0
+Clay,CHARLIE,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0,0
+Clay,ARROWHEAD,Railroad Commissioner,,GRN,Eddie Espinoza,6,0,3,3,0
+Clay,MIDWAY,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0,0
+Clay,BELLEVUE,Railroad Commissioner,,GRN,Eddie Espinoza,1,0,0,1,0
+Clay,BUFFALO SPR,Railroad Commissioner,,GRN,Eddie Espinoza,0,0,0,0,0
+Clay,PETROLIA,Railroad Commissioner,,GRN,Eddie Espinoza,3,0,1,2,0
+Clay,WINDTHORST,Railroad Commissioner,,GRN,Eddie Espinoza,3,2,0,1,0
+Clay,SE HENRIETT,Railroad Commissioner,,,Write-ins,0,0,0,0,0
+Clay,NE HENRIETT,Railroad Commissioner,,,Write-ins,0,0,0,0,0
+Clay,NW HENRIETT,Railroad Commissioner,,,Write-ins,1,0,1,0,0
+Clay,SW HENRIETT,Railroad Commissioner,,,Write-ins,0,0,0,0,0
+Clay,BYERS,Railroad Commissioner,,,Write-ins,0,0,0,0,0
+Clay,VASHTI,Railroad Commissioner,,,Write-ins,0,0,0,0,0
+Clay,DEAN,Railroad Commissioner,,,Write-ins,0,0,0,0,0
+Clay,JOLLY,Railroad Commissioner,,,Write-ins,0,0,0,0,0
+Clay,THORNBERRY,Railroad Commissioner,,,Write-ins,0,0,0,0,0
+Clay,CHARLIE,Railroad Commissioner,,,Write-ins,0,0,0,0,0
+Clay,ARROWHEAD,Railroad Commissioner,,,Write-ins,0,0,0,0,0
+Clay,MIDWAY,Railroad Commissioner,,,Write-ins,0,0,0,0,0
+Clay,BELLEVUE,Railroad Commissioner,,,Write-ins,0,0,0,0,0
+Clay,BUFFALO SPR,Railroad Commissioner,,,Write-ins,0,0,0,0,0
+Clay,PETROLIA,Railroad Commissioner,,,Write-ins,0,0,0,0,0
+Clay,WINDTHORST,Railroad Commissioner,,,Write-ins,0,0,0,0,0
+Clay,SE HENRIETT,State Senate,30,REP,Brent Hagenbuch,617,19,512,86,0
+Clay,NE HENRIETT,State Senate,30,REP,Brent Hagenbuch,545,13,436,96,0
+Clay,NW HENRIETT,State Senate,30,REP,Brent Hagenbuch,224,7,191,26,0
+Clay,SW HENRIETT,State Senate,30,REP,Brent Hagenbuch,212,7,169,36,0
+Clay,BYERS,State Senate,30,REP,Brent Hagenbuch,261,3,111,147,0
+Clay,VASHTI,State Senate,30,REP,Brent Hagenbuch,188,3,83,102,0
+Clay,DEAN,State Senate,30,REP,Brent Hagenbuch,639,11,364,264,0
+Clay,JOLLY,State Senate,30,REP,Brent Hagenbuch,245,10,122,113,0
+Clay,THORNBERRY,State Senate,30,REP,Brent Hagenbuch,103,1,49,53,0
+Clay,CHARLIE,State Senate,30,REP,Brent Hagenbuch,124,0,47,77,0
+Clay,ARROWHEAD,State Senate,30,REP,Brent Hagenbuch,698,7,429,262,0
+Clay,MIDWAY,State Senate,30,REP,Brent Hagenbuch,377,5,248,124,0
+Clay,BELLEVUE,State Senate,30,REP,Brent Hagenbuch,253,4,126,123,0
+Clay,BUFFALO SPR,State Senate,30,REP,Brent Hagenbuch,162,4,97,61,0
+Clay,PETROLIA,State Senate,30,REP,Brent Hagenbuch,273,6,130,137,0
+Clay,WINDTHORST,State Senate,30,REP,Brent Hagenbuch,164,5,54,105,0
+Clay,SE HENRIETT,State Senate,30,DEM,Dale Frey,96,7,67,22,0
+Clay,NE HENRIETT,State Senate,30,DEM,Dale Frey,91,7,73,11,0
+Clay,NW HENRIETT,State Senate,30,DEM,Dale Frey,36,2,29,5,0
+Clay,SW HENRIETT,State Senate,30,DEM,Dale Frey,25,1,15,9,0
+Clay,BYERS,State Senate,30,DEM,Dale Frey,33,3,12,18,0
+Clay,VASHTI,State Senate,30,DEM,Dale Frey,21,3,5,13,0
+Clay,DEAN,State Senate,30,DEM,Dale Frey,44,1,20,23,0
+Clay,JOLLY,State Senate,30,DEM,Dale Frey,31,1,13,17,0
+Clay,THORNBERRY,State Senate,30,DEM,Dale Frey,20,1,12,7,0
+Clay,CHARLIE,State Senate,30,DEM,Dale Frey,8,0,5,3,0
+Clay,ARROWHEAD,State Senate,30,DEM,Dale Frey,91,3,40,48,0
+Clay,MIDWAY,State Senate,30,DEM,Dale Frey,15,1,11,3,0
+Clay,BELLEVUE,State Senate,30,DEM,Dale Frey,19,0,13,6,0
+Clay,BUFFALO SPR,State Senate,30,DEM,Dale Frey,14,3,10,1,0
+Clay,PETROLIA,State Senate,30,DEM,Dale Frey,28,1,12,15,0
+Clay,WINDTHORST,State Senate,30,DEM,Dale Frey,11,1,3,7,0
+Clay,SE HENRIETT,State Representative,69,REP,James B Frank,624,21,511,92,0
+Clay,NE HENRIETT,State Representative,69,REP,James B Frank,542,15,430,97,0
+Clay,NW HENRIETT,State Representative,69,REP,James B Frank,223,7,191,25,0
+Clay,SW HENRIETT,State Representative,69,REP,James B Frank,209,6,167,36,0
+Clay,BYERS,State Representative,69,REP,James B Frank,261,3,115,143,0
+Clay,VASHTI,State Representative,69,REP,James B Frank,182,3,77,102,0
+Clay,DEAN,State Representative,69,REP,James B Frank,635,11,361,263,0
+Clay,JOLLY,State Representative,69,REP,James B Frank,251,10,122,119,0
+Clay,THORNBERRY,State Representative,69,REP,James B Frank,105,1,50,54,0
+Clay,CHARLIE,State Representative,69,REP,James B Frank,126,0,48,78,0
+Clay,ARROWHEAD,State Representative,69,REP,James B Frank,706,8,435,263,0
+Clay,MIDWAY,State Representative,69,REP,James B Frank,376,5,248,123,0
+Clay,BELLEVUE,State Representative,69,REP,James B Frank,256,4,126,126,0
+Clay,BUFFALO SPR,State Representative,69,REP,James B Frank,164,5,98,61,0
+Clay,PETROLIA,State Representative,69,REP,James B Frank,275,6,131,138,0
+Clay,WINDTHORST,State Representative,69,REP,James B Frank,163,6,52,105,0
+Clay,SE HENRIETT,State Representative,69,DEM,Walter Coppage,94,7,69,18,0
+Clay,NE HENRIETT,State Representative,69,DEM,Walter Coppage,94,6,78,10,0
+Clay,NW HENRIETT,State Representative,69,DEM,Walter Coppage,39,2,31,6,0
+Clay,SW HENRIETT,State Representative,69,DEM,Walter Coppage,29,2,18,9,0
+Clay,BYERS,State Representative,69,DEM,Walter Coppage,34,3,10,21,0
+Clay,VASHTI,State Representative,69,DEM,Walter Coppage,25,3,10,12,0
+Clay,DEAN,State Representative,69,DEM,Walter Coppage,46,1,22,23,0
+Clay,JOLLY,State Representative,69,DEM,Walter Coppage,24,1,12,11,0
+Clay,THORNBERRY,State Representative,69,DEM,Walter Coppage,19,1,12,6,0
+Clay,CHARLIE,State Representative,69,DEM,Walter Coppage,8,0,5,3,0
+Clay,ARROWHEAD,State Representative,69,DEM,Walter Coppage,89,3,37,49,0
+Clay,MIDWAY,State Representative,69,DEM,Walter Coppage,15,1,11,3,0
+Clay,BELLEVUE,State Representative,69,DEM,Walter Coppage,16,0,13,3,0
+Clay,BUFFALO SPR,State Representative,69,DEM,Walter Coppage,12,3,8,1,0
+Clay,PETROLIA,State Representative,69,DEM,Walter Coppage,28,1,13,14,0
+Clay,WINDTHORST,State Representative,69,DEM,Walter Coppage,16,1,5,10,0
+Clay,SE HENRIETT,County Attorney,,REP,Seth Clayton Slagle,648,26,526,96,0
+Clay,NE HENRIETT,County Attorney,,REP,Seth Clayton Slagle,583,17,462,104,0
+Clay,NW HENRIETT,County Attorney,,REP,Seth Clayton Slagle,245,7,206,32,0
+Clay,SW HENRIETT,County Attorney,,REP,Seth Clayton Slagle,224,8,178,38,0
+Clay,BYERS,County Attorney,,REP,Seth Clayton Slagle,273,3,115,155,0
+Clay,VASHTI,County Attorney,,REP,Seth Clayton Slagle,192,3,83,106,0
+Clay,DEAN,County Attorney,,REP,Seth Clayton Slagle,628,8,358,262,0
+Clay,JOLLY,County Attorney,,REP,Seth Clayton Slagle,247,8,124,115,0
+Clay,THORNBERRY,County Attorney,,REP,Seth Clayton Slagle,103,2,52,49,0
+Clay,CHARLIE,County Attorney,,REP,Seth Clayton Slagle,123,0,48,75,0
+Clay,ARROWHEAD,County Attorney,,REP,Seth Clayton Slagle,717,8,432,277,0
+Clay,MIDWAY,County Attorney,,REP,Seth Clayton Slagle,361,6,237,118,0
+Clay,BELLEVUE,County Attorney,,REP,Seth Clayton Slagle,258,4,133,121,0
+Clay,BUFFALO SPR,County Attorney,,REP,Seth Clayton Slagle,166,5,102,59,0
+Clay,PETROLIA,County Attorney,,REP,Seth Clayton Slagle,274,6,130,138,0
+Clay,WINDTHORST,County Attorney,,REP,Seth Clayton Slagle,173,5,55,113,0
+Clay,SE HENRIETT,Sheriff,,REP,Sidney 'Kirk' Horton,659,24,537,98,0
+Clay,NE HENRIETT,Sheriff,,REP,Sidney 'Kirk' Horton,601,20,477,104,0
+Clay,NW HENRIETT,Sheriff,,REP,Sidney 'Kirk' Horton,244,6,209,29,0
+Clay,SW HENRIETT,Sheriff,,REP,Sidney 'Kirk' Horton,223,8,177,38,0
+Clay,BYERS,Sheriff,,REP,Sidney 'Kirk' Horton,273,4,116,153,0
+Clay,VASHTI,Sheriff,,REP,Sidney 'Kirk' Horton,183,3,76,104,0
+Clay,DEAN,Sheriff,,REP,Sidney 'Kirk' Horton,636,9,358,269,0
+Clay,JOLLY,Sheriff,,REP,Sidney 'Kirk' Horton,253,8,126,119,0
+Clay,THORNBERRY,Sheriff,,REP,Sidney 'Kirk' Horton,104,2,51,51,0
+Clay,CHARLIE,Sheriff,,REP,Sidney 'Kirk' Horton,125,0,50,75,0
+Clay,ARROWHEAD,Sheriff,,REP,Sidney 'Kirk' Horton,714,7,432,275,0
+Clay,MIDWAY,Sheriff,,REP,Sidney 'Kirk' Horton,367,6,244,117,0
+Clay,BELLEVUE,Sheriff,,REP,Sidney 'Kirk' Horton,254,4,129,121,0
+Clay,BUFFALO SPR,Sheriff,,REP,Sidney 'Kirk' Horton,160,3,99,58,0
+Clay,PETROLIA,Sheriff,,REP,Sidney 'Kirk' Horton,278,7,134,137,0
+Clay,WINDTHORST,Sheriff,,REP,Sidney 'Kirk' Horton,166,4,53,109,0
+Clay,SE HENRIETT,County Tax Assessor-Collector,,REP,Patti Jackson,675,25,550,100,0
+Clay,NE HENRIETT,County Tax Assessor-Collector,,REP,Patti Jackson,613,19,489,105,0
+Clay,NW HENRIETT,County Tax Assessor-Collector,,REP,Patti Jackson,255,7,216,32,0
+Clay,SW HENRIETT,County Tax Assessor-Collector,,REP,Patti Jackson,229,8,181,40,0
+Clay,BYERS,County Tax Assessor-Collector,,REP,Patti Jackson,274,3,116,155,0
+Clay,VASHTI,County Tax Assessor-Collector,,REP,Patti Jackson,193,3,81,109,0
+Clay,DEAN,County Tax Assessor-Collector,,REP,Patti Jackson,637,8,363,266,0
+Clay,JOLLY,County Tax Assessor-Collector,,REP,Patti Jackson,261,9,130,122,0
+Clay,THORNBERRY,County Tax Assessor-Collector,,REP,Patti Jackson,106,2,53,51,0
+Clay,CHARLIE,County Tax Assessor-Collector,,REP,Patti Jackson,124,0,49,75,0
+Clay,ARROWHEAD,County Tax Assessor-Collector,,REP,Patti Jackson,722,9,431,282,0
+Clay,MIDWAY,County Tax Assessor-Collector,,REP,Patti Jackson,373,6,246,121,0
+Clay,BELLEVUE,County Tax Assessor-Collector,,REP,Patti Jackson,268,4,137,127,0
+Clay,BUFFALO SPR,County Tax Assessor-Collector,,REP,Patti Jackson,165,4,103,58,0
+Clay,PETROLIA,County Tax Assessor-Collector,,REP,Patti Jackson,286,7,138,141,0
+Clay,WINDTHORST,County Tax Assessor-Collector,,REP,Patti Jackson,174,6,56,112,0
